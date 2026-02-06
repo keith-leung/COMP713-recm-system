@@ -1,0 +1,548 @@
+{
+  "meta": {
+    "tag": "male",
+    "type": "segment",
+    "description": "Movies highly rated by male users",
+    "match_keywords": [
+      "male",
+      "sci-fi",
+      "powerful",
+      "comedy",
+      "romantic",
+      "thriller",
+      "intense"
+    ],
+    "generated_at": "2026-01-26T01:44:53.774816Z",
+    "user_count_in_segment": 757,
+    "candidate_movies": 581
+  },
+  "discovery_questions": [
+    {
+      "question": "Are you interested in movies that male users typically enjoy?",
+      "positive_signals": [
+        "male",
+        "yes",
+        "interested"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M568",
+      "title": "AVertigo Pirate",
+      "year": 1964,
+      "director": "Lilly Wachowski",
+      "genre": [
+        "Adventure",
+        "Thriller",
+        "Animation"
+      ],
+      "mood": [
+        "Romantic",
+        "Serious"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A insomniac warrior learns from a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "0% of male users rated this 4+ stars. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.45,
+        "rating_count_in_segment": 5,
+        "overall_avg_rating": 3.45,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M576",
+      "title": "AVertigo Honor",
+      "year": 1964,
+      "director": "Frank Darabont",
+      "genre": [
+        "Animation",
+        "Crime",
+        "Sport",
+        "Thriller"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Stylish",
+        "Powerful"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A troubled detective investigates a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "0% of male users rated this 4+ stars. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.37,
+        "rating_count_in_segment": 4,
+        "overall_avg_rating": 3.37,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 3,
+      "item_id": "M065",
+      "title": "TheGladiator Samurai",
+      "year": 1920,
+      "director": "Christopher Nolan",
+      "genre": [
+        "Romance",
+        "Action"
+      ],
+      "mood": [
+        "Philosophical",
+        "Inspirational",
+        "Exciting"
+      ],
+      "era": "Classic",
+      "description_brief": "A aging scientist struggles mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "0% of male users rated this 4+ stars. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.19,
+        "rating_count_in_segment": 4,
+        "overall_avg_rating": 3.19,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 4,
+      "item_id": "M189",
+      "title": "TheTrue Legend",
+      "year": 2022,
+      "director": "Jordan Peele",
+      "genre": [
+        "Mystery",
+        "Sci-Fi",
+        "Music",
+        "Crime"
+      ],
+      "mood": [
+        "Serious",
+        "Philosophical"
+      ],
+      "era": "Modern",
+      "description_brief": "A troubled warrior fights against a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "0% of male users rated this 4+ stars. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.23,
+        "rating_count_in_segment": 4,
+        "overall_avg_rating": 3.23,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 5,
+      "item_id": "M730",
+      "title": "TheDark Revenge",
+      "year": 1936,
+      "director": "Steven Spielberg",
+      "genre": [
+        "Sci-Fi",
+        "Animation",
+        "Fantasy"
+      ],
+      "mood": [
+        "Intense",
+        "Romantic"
+      ],
+      "era": "Classic",
+      "description_brief": "A brilliant explorer plants the ring and becomes obsessed with the truth.",
+      "why_recommended": "0% of male users rated this 4+ stars. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.79,
+        "rating_count_in_segment": 4,
+        "overall_avg_rating": 2.79,
+        "total_ratings": 19
+      }
+    },
+    {
+      "rank": 6,
+      "item_id": "M500",
+      "title": "Interstellar Battle",
+      "year": 2002,
+      "director": "Alfred Hitchcock",
+      "genre": [
+        "War",
+        "Thriller",
+        "History",
+        "Comedy"
+      ],
+      "mood": [
+        "Violent",
+        "Powerful"
+      ],
+      "era": "2000s",
+      "description_brief": "A insomniac immigrant fights against mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "0% of male users rated this 4+ stars. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.4,
+        "rating_count_in_segment": 4,
+        "overall_avg_rating": 3.4,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 7,
+      "item_id": "M582",
+      "title": "Silent Killer",
+      "year": 1991,
+      "director": "Paul Thomas Anderson",
+      "genre": [
+        "Sport",
+        "Mystery",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Chaotic",
+        "Angry"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A bored scientist learns from a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "0% of male users rated this 4+ stars. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.3,
+        "rating_count_in_segment": 4,
+        "overall_avg_rating": 3.3,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 8,
+      "item_id": "M907",
+      "title": "Magnificent Soldier",
+      "year": 1921,
+      "director": "Steven Spielberg",
+      "genre": [
+        "Fantasy",
+        "Sport"
+      ],
+      "mood": [
+        "Psychological",
+        "Chaotic",
+        "Serious"
+      ],
+      "era": "Classic",
+      "description_brief": "A determined immigrant investigates the ring and becomes obsessed with the truth.",
+      "why_recommended": "0% of male users rated this 4+ stars. Average rating: 2.6/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.62,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 2.62,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 9,
+      "item_id": "M719",
+      "title": "TheBrave Night",
+      "year": 1932,
+      "director": "Lana Wachowski",
+      "genre": [
+        "Action",
+        "Sci-Fi",
+        "History",
+        "Biography"
+      ],
+      "mood": [
+        "Chaotic",
+        "Intense"
+      ],
+      "era": "Classic",
+      "description_brief": "A brilliant explorer takes over dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "0% of male users rated this 4+ stars. Average rating: 2.7/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.74,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 2.74,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 10,
+      "item_id": "M893",
+      "title": "Secret Betrayal",
+      "year": 1926,
+      "director": "Jordan Peele",
+      "genre": [
+        "Music",
+        "History",
+        "Horror",
+        "Comedy"
+      ],
+      "mood": [
+        "Philosophical",
+        "Serious",
+        "Intense"
+      ],
+      "era": "Classic",
+      "description_brief": "A young princess plants guardians and becomes obsessed with the truth.",
+      "why_recommended": "0% of male users rated this 4+ stars. Average rating: 2.5/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.51,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 2.51,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 11,
+      "item_id": "M477",
+      "title": "TheTrue Monster",
+      "year": 1993,
+      "director": "Alfred Hitchcock",
+      "genre": [
+        "Western",
+        "Horror"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Thrilling",
+        "Romantic"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A retired explorer plants mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "0% of male users rated this 4+ stars. Average rating: 2.5/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.46,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 2.46,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 12,
+      "item_id": "M196",
+      "title": "TheGodfather Robot",
+      "year": 1925,
+      "director": "Frank Darabont",
+      "genre": [
+        "Horror",
+        "Animation",
+        "Thriller",
+        "Mystery"
+      ],
+      "mood": [
+        "Psychological",
+        "Inspirational",
+        "Powerful"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac boxer escapes a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "0% of male users rated this 4+ stars. Average rating: 3.0/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.02,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 3.02,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 13,
+      "item_id": "M110",
+      "title": "TheInterstellar City",
+      "year": 1935,
+      "director": "Orson Welles",
+      "genre": [
+        "Western",
+        "Mystery",
+        "Comedy",
+        "Music"
+      ],
+      "mood": [
+        "Stylish",
+        "Charming"
+      ],
+      "era": "Classic",
+      "description_brief": "A former boxer plants a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "0% of male users rated this 4+ stars. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.24,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 3.24,
+        "total_ratings": 19
+      }
+    },
+    {
+      "rank": 14,
+      "item_id": "M287",
+      "title": "ARising Alien",
+      "year": 2016,
+      "director": "Quentin Tarantino",
+      "genre": [
+        "Adventure",
+        "Biography",
+        "Horror"
+      ],
+      "mood": [
+        "Thrilling",
+        "Exciting",
+        "Hopeful"
+      ],
+      "era": "Modern",
+      "description_brief": "A determined immigrant takes over guardians and becomes obsessed with the truth.",
+      "why_recommended": "0% of male users rated this 4+ stars. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.23,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 3.23,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 15,
+      "item_id": "M698",
+      "title": "TheSilent Eclipse",
+      "year": 2004,
+      "director": "Greta Gerwig",
+      "genre": [
+        "War",
+        "Adventure",
+        "Animation",
+        "History"
+      ],
+      "mood": [
+        "Intense",
+        "Exciting"
+      ],
+      "era": "2000s",
+      "description_brief": "A determined boxer plants a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "0% of male users rated this 4+ stars. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.09,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 3.09,
+        "total_ratings": 9
+      }
+    },
+    {
+      "rank": 16,
+      "item_id": "M933",
+      "title": "Matrix Eclipse",
+      "year": 2005,
+      "director": "Frank Darabont",
+      "genre": [
+        "Crime",
+        "Sci-Fi",
+        "Sport",
+        "Fantasy"
+      ],
+      "mood": [
+        "Angry",
+        "Hopeful"
+      ],
+      "era": "2000s",
+      "description_brief": "A young warrior escapes a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "0% of male users rated this 4+ stars. Average rating: 3.0/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.99,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 2.99,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 17,
+      "item_id": "M070",
+      "title": "ADark Betrayal",
+      "year": 1970,
+      "director": "Billy Wilder",
+      "genre": [
+        "Sci-Fi",
+        "Fantasy",
+        "Thriller"
+      ],
+      "mood": [
+        "Intense",
+        "Thrilling",
+        "Powerful"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A troubled thief investigates guardians and becomes obsessed with the truth.",
+      "why_recommended": "0% of male users rated this 4+ stars. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.25,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 3.25,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 18,
+      "item_id": "M869",
+      "title": "AInception Soldier",
+      "year": 2012,
+      "director": "Steven Spielberg",
+      "genre": [
+        "Comedy",
+        "Action",
+        "Drama",
+        "Crime"
+      ],
+      "mood": [
+        "Inspirational",
+        "Chaotic",
+        "Intense"
+      ],
+      "era": "Modern",
+      "description_brief": "A cynical princess investigates guardians and becomes obsessed with the truth.",
+      "why_recommended": "0% of male users rated this 4+ stars. Average rating: 3.7/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.66,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 3.66,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 19,
+      "item_id": "M998",
+      "title": "TheBrave City",
+      "year": 1940,
+      "director": "Steven Spielberg",
+      "genre": [
+        "Comedy",
+        "Biography",
+        "Fantasy"
+      ],
+      "mood": [
+        "Emotional",
+        "Psychological"
+      ],
+      "era": "Classic",
+      "description_brief": "A retired immigrant fights against a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "0% of male users rated this 4+ stars. Average rating: 2.6/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.64,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 2.64,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 20,
+      "item_id": "M364",
+      "title": "TheDark Blood",
+      "year": 1920,
+      "director": "Michael Curtiz",
+      "genre": [
+        "Adventure",
+        "Action"
+      ],
+      "mood": [
+        "Witty",
+        "Hopeful",
+        "Thrilling"
+      ],
+      "era": "Classic",
+      "description_brief": "A brilliant princess learns from dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "0% of male users rated this 4+ stars. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.75,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 2.75,
+        "total_ratings": 10
+      }
+    }
+  ]
+}

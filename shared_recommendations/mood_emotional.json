@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "tag": "emotional",
+    "type": "mood",
+    "description": "Movies perfect for a emotional mood",
+    "match_keywords": [
+      "emotional",
+      "Emotional",
+      "Hopeful",
+      "Bittersweet",
+      "Somber"
+    ],
+    "generated_at": "2026-01-26T01:44:53.776931Z",
+    "candidate_movies": 385
+  },
+  "discovery_questions": [
+    {
+      "question": "Are you in the mood for something emotional?",
+      "positive_signals": [
+        "emotional",
+        "yes",
+        "emotional",
+        "hopeful",
+        "bittersweet",
+        "somber"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M611",
+      "title": "ASilent Battle",
+      "year": 1927,
+      "director": "James Cameron",
+      "genre": [
+        "Sport",
+        "Drama",
+        "Thriller"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Hopeful",
+        "Serious"
+      ],
+      "era": "Classic",
+      "description_brief": "A former newsman learns from a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a emotional mood. Rated 3.2/5.0 by 18 users.",
+      "stats": {
+        "avg_rating": 3.2,
+        "high_rating_count": 9,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M837",
+      "title": "TheFurious Revenge",
+      "year": 1944,
+      "director": "Ari Aster",
+      "genre": [
+        "Mystery",
+        "Sport",
+        "Adventure",
+        "Crime"
+      ],
+      "mood": [
+        "Somber",
+        "Bittersweet"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac newsman escapes a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a emotional mood. Rated 3.1/5.0 by 20 users.",
+      "stats": {
+        "avg_rating": 3.14,
+        "high_rating_count": 8,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 3,
+      "item_id": "M084",
+      "title": "TheShawshank Vampire",
+      "year": 1992,
+      "director": "Michael Curtiz",
+      "genre": [
+        "Western",
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "mood": [
+        "Powerful",
+        "Somber"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A retired immigrant escapes guardians and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a emotional mood. Rated 3.6/5.0 by 12 users.",
+      "stats": {
+        "avg_rating": 3.61,
+        "high_rating_count": 7,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 4,
+      "item_id": "M311",
+      "title": "TheInterstellar Detective",
+      "year": 1945,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "Horror",
+        "Biography"
+      ],
+      "mood": [
+        "Philosophical",
+        "Hopeful",
+        "Violent"
+      ],
+      "era": "Classic",
+      "description_brief": "A young immigrant fights against a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a emotional mood. Rated 3.5/5.0 by 14 users.",
+      "stats": {
+        "avg_rating": 3.49,
+        "high_rating_count": 7,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 5,
+      "item_id": "M362",
+      "title": "AFalling Alien",
+      "year": 2023,
+      "director": "Orson Welles",
+      "genre": [
+        "Sci-Fi",
+        "War",
+        "Thriller",
+        "Adventure"
+      ],
+      "mood": [
+        "Emotional",
+        "Powerful",
+        "Philosophical"
+      ],
+      "era": "Modern",
+      "description_brief": "A aging hacker plants guardians and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a emotional mood. Rated 3.5/5.0 by 14 users.",
+      "stats": {
+        "avg_rating": 3.49,
+        "high_rating_count": 7,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 6,
+      "item_id": "M701",
+      "title": "TheVertigo Zombie",
+      "year": 1963,
+      "director": "David Fincher",
+      "genre": [
+        "Western",
+        "Comedy",
+        "War"
+      ],
+      "mood": [
+        "Hopeful",
+        "Bittersweet",
+        "Chaotic"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A former immigrant struggles mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a emotional mood. Rated 3.4/5.0 by 14 users.",
+      "stats": {
+        "avg_rating": 3.35,
+        "high_rating_count": 7,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 7,
+      "item_id": "M434",
+      "title": "ADirty Soldier",
+      "year": 1961,
+      "director": "Wes Anderson",
+      "genre": [
+        "Mystery",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Somber"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A bored warrior fights against the ring and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a emotional mood. Rated 3.2/5.0 by 20 users.",
+      "stats": {
+        "avg_rating": 3.25,
+        "high_rating_count": 7,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 8,
+      "item_id": "M270",
+      "title": "TheGood Robot",
+      "year": 1950,
+      "director": "Peter Jackson",
+      "genre": [
+        "Western",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Stylish",
+        "Emotional",
+        "Chaotic"
+      ],
+      "era": "Classic",
+      "description_brief": "A former warrior struggles a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a emotional mood. Rated 2.9/5.0 by 18 users.",
+      "stats": {
+        "avg_rating": 2.88,
+        "high_rating_count": 7,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 9,
+      "item_id": "M011",
+      "title": "Schindler's List",
+      "year": 1993,
+      "director": "Steven Spielberg",
+      "genre": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "mood": [
+        "Somber",
+        "Powerful"
+      ],
+      "era": "90s",
+      "description_brief": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "why_recommended": "Perfect for a emotional mood. Rated 2.8/5.0 by 18 users.",
+      "stats": {
+        "avg_rating": 2.79,
+        "high_rating_count": 7,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 10,
+      "item_id": "M399",
+      "title": "Pulp Soldier",
+      "year": 1965,
+      "director": "Tim Burton",
+      "genre": [
+        "Comedy",
+        "Fantasy",
+        "War"
+      ],
+      "mood": [
+        "Powerful",
+        "Hopeful",
+        "Psychological"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A cynical princess investigates a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a emotional mood. Rated 3.6/5.0 by 11 users.",
+      "stats": {
+        "avg_rating": 3.6,
+        "high_rating_count": 6,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 11,
+      "item_id": "M238",
+      "title": "TheFight Club Blood",
+      "year": 2016,
+      "director": "Lilly Wachowski",
+      "genre": [
+        "Animation",
+        "Action"
+      ],
+      "mood": [
+        "Chaotic",
+        "Bittersweet"
+      ],
+      "era": "Modern",
+      "description_brief": "A insomniac princess travels through a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a emotional mood. Rated 3.5/5.0 by 10 users.",
+      "stats": {
+        "avg_rating": 3.54,
+        "high_rating_count": 6,
+        "total_ratings": 10
+      }
+    },
+    {
+      "rank": 12,
+      "item_id": "M166",
+      "title": "AGladiator Storm",
+      "year": 1972,
+      "director": "Stanley Kubrick",
+      "genre": [
+        "History",
+        "Sci-Fi",
+        "Fantasy"
+      ],
+      "mood": [
+        "Hopeful",
+        "Chaotic",
+        "Angry"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A young explorer investigates the ring and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a emotional mood. Rated 3.5/5.0 by 17 users.",
+      "stats": {
+        "avg_rating": 3.46,
+        "high_rating_count": 6,
+        "total_ratings": 17
+      }
+    },
+    {
+      "rank": 13,
+      "item_id": "M343",
+      "title": "ARising Detective",
+      "year": 1993,
+      "director": "Taika Waititi",
+      "genre": [
+        "War",
+        "Biography",
+        "Comedy",
+        "Music"
+      ],
+      "mood": [
+        "Emotional",
+        "Heartwarming"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A determined scientist plants dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a emotional mood. Rated 3.4/5.0 by 11 users.",
+      "stats": {
+        "avg_rating": 3.45,
+        "high_rating_count": 6,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 14,
+      "item_id": "M411",
+      "title": "TheFinal Pirate",
+      "year": 1998,
+      "director": "Bong Joon-ho",
+      "genre": [
+        "Comedy",
+        "Sport"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Powerful",
+        "Bittersweet"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A brilliant newsman investigates dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a emotional mood. Rated 3.4/5.0 by 15 users.",
+      "stats": {
+        "avg_rating": 3.44,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 15,
+      "item_id": "M056",
+      "title": "ABrave Quest",
+      "year": 2000,
+      "director": "Tim Burton",
+      "genre": [
+        "Thriller",
+        "History",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Hopeful",
+        "Romantic",
+        "Exciting"
+      ],
+      "era": "2000s",
+      "description_brief": "A troubled princess investigates a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a emotional mood. Rated 3.4/5.0 by 15 users.",
+      "stats": {
+        "avg_rating": 3.42,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 16,
+      "item_id": "M732",
+      "title": "TheSilent Night",
+      "year": 1967,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "Comedy",
+        "Thriller",
+        "Drama"
+      ],
+      "mood": [
+        "Emotional",
+        "Chaotic",
+        "Suspenseful"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A determined boxer takes over mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a emotional mood. Rated 3.4/5.0 by 11 users.",
+      "stats": {
+        "avg_rating": 3.35,
+        "high_rating_count": 6,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 17,
+      "item_id": "M471",
+      "title": "TheSecret Wizard",
+      "year": 2025,
+      "director": "Wes Anderson",
+      "genre": [
+        "War",
+        "Adventure",
+        "Music"
+      ],
+      "mood": [
+        "Inspirational",
+        "Somber"
+      ],
+      "era": "Modern",
+      "description_brief": "A bored explorer fights against a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a emotional mood. Rated 3.3/5.0 by 12 users.",
+      "stats": {
+        "avg_rating": 3.33,
+        "high_rating_count": 6,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 18,
+      "item_id": "M555",
+      "title": "TheFalling Wizard",
+      "year": 1957,
+      "director": "Jordan Peele",
+      "genre": [
+        "Comedy",
+        "Adventure",
+        "Crime",
+        "War"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Bittersweet"
+      ],
+      "era": "Classic",
+      "description_brief": "A troubled hacker escapes mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a emotional mood. Rated 3.3/5.0 by 14 users.",
+      "stats": {
+        "avg_rating": 3.26,
+        "high_rating_count": 6,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 19,
+      "item_id": "M287",
+      "title": "ARising Alien",
+      "year": 2016,
+      "director": "Quentin Tarantino",
+      "genre": [
+        "Adventure",
+        "Biography",
+        "Horror"
+      ],
+      "mood": [
+        "Thrilling",
+        "Exciting",
+        "Hopeful"
+      ],
+      "era": "Modern",
+      "description_brief": "A determined immigrant takes over guardians and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a emotional mood. Rated 3.2/5.0 by 15 users.",
+      "stats": {
+        "avg_rating": 3.23,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 20,
+      "item_id": "M404",
+      "title": "TheSilent Night",
+      "year": 1997,
+      "director": "Jordan Peele",
+      "genre": [
+        "Adventure",
+        "War",
+        "Comedy"
+      ],
+      "mood": [
+        "Hopeful",
+        "Inspirational"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A troubled warrior takes over mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a emotional mood. Rated 3.2/5.0 by 13 users.",
+      "stats": {
+        "avg_rating": 3.22,
+        "high_rating_count": 6,
+        "total_ratings": 13
+      }
+    }
+  ]
+}

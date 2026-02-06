@@ -1,0 +1,512 @@
+{
+  "meta": {
+    "tag": "80s-90s",
+    "type": "era",
+    "description": "Top movies from the 80s-90s era",
+    "match_keywords": [
+      "80s-90s",
+      "80s-90s"
+    ],
+    "generated_at": "2026-01-26T01:44:53.782731Z",
+    "candidate_movies": 187
+  },
+  "discovery_questions": [
+    {
+      "question": "Do you enjoy movies from the 80s-90s era?",
+      "positive_signals": [
+        "80s-90s",
+        "yes",
+        "love",
+        "80s-90s"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M582",
+      "title": "Silent Killer",
+      "year": 1991,
+      "director": "Paul Thomas Anderson",
+      "genre": [
+        "Sport",
+        "Mystery",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Chaotic",
+        "Angry"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A bored scientist learns from a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 80s-90s movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.3,
+        "high_rating_count": 9,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M084",
+      "title": "TheShawshank Vampire",
+      "year": 1992,
+      "director": "Michael Curtiz",
+      "genre": [
+        "Western",
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "mood": [
+        "Powerful",
+        "Somber"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A retired immigrant escapes guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 80s-90s movie. Average rating: 3.6/5.0",
+      "stats": {
+        "avg_rating": 3.61,
+        "high_rating_count": 7,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 3,
+      "item_id": "M416",
+      "title": "AShawshank Legend",
+      "year": 1992,
+      "director": "Frank Darabont",
+      "genre": [
+        "Action",
+        "Mystery",
+        "Horror",
+        "Music"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Exciting"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A retired boxer struggles a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 80s-90s movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.18,
+        "high_rating_count": 7,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 4,
+      "item_id": "M343",
+      "title": "ARising Detective",
+      "year": 1993,
+      "director": "Taika Waititi",
+      "genre": [
+        "War",
+        "Biography",
+        "Comedy",
+        "Music"
+      ],
+      "mood": [
+        "Emotional",
+        "Heartwarming"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A determined scientist plants dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 80s-90s movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.45,
+        "high_rating_count": 6,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 5,
+      "item_id": "M411",
+      "title": "TheFinal Pirate",
+      "year": 1998,
+      "director": "Bong Joon-ho",
+      "genre": [
+        "Comedy",
+        "Sport"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Powerful",
+        "Bittersweet"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A brilliant newsman investigates dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 80s-90s movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.44,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 6,
+      "item_id": "M945",
+      "title": "TheShawshank Robot",
+      "year": 1990,
+      "director": "Guillermo del Toro",
+      "genre": [
+        "Crime",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Chaotic",
+        "Serious",
+        "Exciting"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A bored hacker escapes the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 80s-90s movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.24,
+        "high_rating_count": 6,
+        "total_ratings": 19
+      }
+    },
+    {
+      "rank": 7,
+      "item_id": "M404",
+      "title": "TheSilent Night",
+      "year": 1997,
+      "director": "Jordan Peele",
+      "genre": [
+        "Adventure",
+        "War",
+        "Comedy"
+      ],
+      "mood": [
+        "Hopeful",
+        "Inspirational"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A troubled warrior takes over mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 80s-90s movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.22,
+        "high_rating_count": 6,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 8,
+      "item_id": "M445",
+      "title": "ABrave Detective",
+      "year": 1995,
+      "director": "Wes Anderson",
+      "genre": [
+        "Thriller",
+        "Crime",
+        "Animation"
+      ],
+      "mood": [
+        "Somber",
+        "Mind-bending",
+        "Emotional"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A cynical warrior travels through a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 80s-90s movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.1,
+        "high_rating_count": 6,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 9,
+      "item_id": "M853",
+      "title": "Lost Dawn",
+      "year": 1991,
+      "director": "Paul Thomas Anderson",
+      "genre": [
+        "Biography",
+        "War",
+        "Music"
+      ],
+      "mood": [
+        "Charming",
+        "Psychological"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A young hacker escapes a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 80s-90s movie. Average rating: 3.0/5.0",
+      "stats": {
+        "avg_rating": 2.99,
+        "high_rating_count": 6,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 10,
+      "item_id": "M262",
+      "title": "TheGood Robot",
+      "year": 1987,
+      "director": "Taika Waititi",
+      "genre": [
+        "Sci-Fi",
+        "Thriller",
+        "Action"
+      ],
+      "mood": [
+        "Thrilling",
+        "Chaotic"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A troubled detective travels through dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 80s-90s movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.91,
+        "high_rating_count": 6,
+        "total_ratings": 17
+      }
+    },
+    {
+      "rank": 11,
+      "item_id": "M798",
+      "title": "AMatrix Revenge",
+      "year": 1997,
+      "director": "Christopher Nolan",
+      "genre": [
+        "Thriller",
+        "Horror",
+        "Action"
+      ],
+      "mood": [
+        "Inspirational",
+        "Witty"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A aging newsman struggles the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 80s-90s movie. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating": 2.8,
+        "high_rating_count": 6,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 12,
+      "item_id": "M543",
+      "title": "AGladiator Killer",
+      "year": 1994,
+      "director": "Bong Joon-ho",
+      "genre": [
+        "Sci-Fi",
+        "Fantasy",
+        "History"
+      ],
+      "mood": [
+        "Witty",
+        "Chaotic"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A former newsman escapes mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 80s-90s movie. Average rating: 3.7/5.0",
+      "stats": {
+        "avg_rating": 3.71,
+        "high_rating_count": 5,
+        "total_ratings": 8
+      }
+    },
+    {
+      "rank": 13,
+      "item_id": "M066",
+      "title": "AFurious Legend",
+      "year": 1995,
+      "director": "Alfred Hitchcock",
+      "genre": [
+        "Biography",
+        "War"
+      ],
+      "mood": [
+        "Intense",
+        "Thrilling"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A brilliant detective struggles a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 80s-90s movie. Average rating: 3.5/5.0",
+      "stats": {
+        "avg_rating": 3.46,
+        "high_rating_count": 5,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 14,
+      "item_id": "M980",
+      "title": "Shining Honor",
+      "year": 1988,
+      "director": "Taika Waititi",
+      "genre": [
+        "Adventure",
+        "Thriller"
+      ],
+      "mood": [
+        "Charming",
+        "Philosophical",
+        "Witty"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A troubled detective takes over the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 80s-90s movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.27,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 15,
+      "item_id": "M211",
+      "title": "TheVertigo Betrayal",
+      "year": 1990,
+      "director": "Wes Anderson",
+      "genre": [
+        "History",
+        "Horror"
+      ],
+      "mood": [
+        "Thrilling",
+        "Witty",
+        "Hopeful"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A insomniac thief learns from a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 80s-90s movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.21,
+        "high_rating_count": 5,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 16,
+      "item_id": "M870",
+      "title": "Shining Monster",
+      "year": 1999,
+      "director": "Greta Gerwig",
+      "genre": [
+        "Biography",
+        "Thriller",
+        "Drama",
+        "Music"
+      ],
+      "mood": [
+        "Exciting",
+        "Psychological",
+        "Powerful"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A determined detective investigates a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 80s-90s movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.2,
+        "high_rating_count": 5,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 17,
+      "item_id": "M856",
+      "title": "Matrix Vampire",
+      "year": 1995,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "History",
+        "Mystery"
+      ],
+      "mood": [
+        "Intense",
+        "Serious"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A determined newsman plants a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 80s-90s movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.19,
+        "high_rating_count": 5,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 18,
+      "item_id": "M707",
+      "title": "Dark Knight Night",
+      "year": 1980,
+      "director": "Billy Wilder",
+      "genre": [
+        "Action",
+        "Romance"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Somber"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A retired newsman escapes the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 80s-90s movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.14,
+        "high_rating_count": 5,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 19,
+      "item_id": "M397",
+      "title": "AFalling Battle",
+      "year": 1998,
+      "director": "Frank Darabont",
+      "genre": [
+        "Comedy",
+        "Mystery"
+      ],
+      "mood": [
+        "Charming",
+        "Serious",
+        "Intense"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A bored scientist escapes a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 80s-90s movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.05,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 20,
+      "item_id": "M117",
+      "title": "TheDirty Man",
+      "year": 1985,
+      "director": "Ari Aster",
+      "genre": [
+        "Comedy",
+        "Drama",
+        "Animation",
+        "Mystery"
+      ],
+      "mood": [
+        "Stylish",
+        "Angry",
+        "Heartwarming"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A troubled warrior learns from guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 80s-90s movie. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating": 2.81,
+        "high_rating_count": 5,
+        "total_ratings": 17
+      }
+    }
+  ]
+}

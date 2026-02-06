@@ -1,0 +1,627 @@
+{
+  "generated_at": "2026-01-26T01:44:53.783739Z",
+  "total_movies_indexed": 1000,
+  "total_users_analyzed": 4308,
+  "total_recommendation_files": 41,
+  "segments_found": [
+    "general",
+    "gamer",
+    "parent",
+    "student",
+    "boomer",
+    "female",
+    "gen Z",
+    "male",
+    "millennial"
+  ],
+  "genres_found": [
+    "Thriller",
+    "Mystery",
+    "Romance",
+    "Crime",
+    "Drama",
+    "Biography",
+    "Sport",
+    "Comedy",
+    "History",
+    "Action",
+    "Adventure",
+    "Sci-Fi",
+    "War",
+    "Music",
+    "Western",
+    "Horror",
+    "Fantasy",
+    "Animation"
+  ],
+  "moods_found": [
+    "Suspenseful",
+    "Psychological",
+    "Violent",
+    "Intense",
+    "Angry",
+    "Exciting",
+    "Witty",
+    "Bittersweet",
+    "Charming",
+    "Romantic",
+    "Serious",
+    "Stylish",
+    "Heartwarming",
+    "Inspirational",
+    "Hopeful",
+    "Emotional",
+    "Somber",
+    "Powerful",
+    "Chaotic",
+    "Philosophical",
+    "Mind-bending",
+    "Thrilling",
+    "Revolutionary",
+    "Action-packed",
+    "Epic",
+    "Tragic",
+    "Nostalgic",
+    "Intriguing",
+    "Ambiguous",
+    "Dark",
+    "Vengeful",
+    "Cosmic"
+  ],
+  "eras_found": [
+    "Classic",
+    "80s",
+    "90s",
+    "Modern",
+    "2000s",
+    "60s-70s",
+    "80s-90s"
+  ],
+  "files": [
+    {
+      "filename": "segment_general.json",
+      "type": "segment",
+      "tag": "general",
+      "description": "Movies highly rated by general users",
+      "match_keywords": [
+        "sci-fi",
+        "powerful",
+        "comedy",
+        "hopeful",
+        "thriller",
+        "general",
+        "heartwarming"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "segment_gamer.json",
+      "type": "segment",
+      "tag": "gamer",
+      "description": "Movies highly rated by gamer users",
+      "match_keywords": [
+        "gamer",
+        "powerful",
+        "comedy",
+        "mind-bending",
+        "music",
+        "animation",
+        "intense"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "segment_parent.json",
+      "type": "segment",
+      "tag": "parent",
+      "description": "Movies highly rated by parent users",
+      "match_keywords": [
+        "comedy",
+        "crime",
+        "romantic",
+        "drama",
+        "thrilling",
+        "intense",
+        "parent"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "segment_student.json",
+      "type": "segment",
+      "tag": "student",
+      "description": "Movies highly rated by student users",
+      "match_keywords": [
+        "sci-fi",
+        "emotional",
+        "romantic",
+        "thrilling",
+        "student",
+        "thriller",
+        "music"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "segment_boomer.json",
+      "type": "segment",
+      "tag": "boomer",
+      "description": "Movies highly rated by boomer users",
+      "match_keywords": [
+        "romantic",
+        "action",
+        "thriller",
+        "boomer",
+        "intense",
+        "adventure",
+        "philosophical"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "segment_female.json",
+      "type": "segment",
+      "tag": "female",
+      "description": "Movies highly rated by female users",
+      "match_keywords": [
+        "war",
+        "romantic",
+        "thriller",
+        "inspirational",
+        "female",
+        "intense",
+        "adventure"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "segment_gen_z.json",
+      "type": "segment",
+      "tag": "gen Z",
+      "description": "Movies highly rated by gen Z users",
+      "match_keywords": [
+        "comedy",
+        "crime",
+        "romantic",
+        "horror",
+        "angry",
+        "thrilling",
+        "gen Z"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "segment_male.json",
+      "type": "segment",
+      "tag": "male",
+      "description": "Movies highly rated by male users",
+      "match_keywords": [
+        "male",
+        "sci-fi",
+        "powerful",
+        "comedy",
+        "romantic",
+        "thriller",
+        "intense"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "segment_millennial.json",
+      "type": "segment",
+      "tag": "millennial",
+      "description": "Movies highly rated by millennial users",
+      "match_keywords": [
+        "sci-fi",
+        "war",
+        "romantic",
+        "angry",
+        "thriller",
+        "millennial",
+        "intense"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "mood_exciting.json",
+      "type": "mood",
+      "tag": "exciting",
+      "description": "Movies perfect for a exciting mood",
+      "match_keywords": [
+        "exciting",
+        "Exciting",
+        "Thrilling",
+        "Action-packed",
+        "Revolutionary"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "mood_relaxing.json",
+      "type": "mood",
+      "tag": "relaxing",
+      "description": "Movies perfect for a relaxing mood",
+      "match_keywords": [
+        "relaxing",
+        "Charming",
+        "Romantic",
+        "Heartwarming",
+        "Witty"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "mood_intense.json",
+      "type": "mood",
+      "tag": "intense",
+      "description": "Movies perfect for a intense mood",
+      "match_keywords": [
+        "intense",
+        "Intense",
+        "Suspenseful",
+        "Psychological",
+        "Serious"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "mood_thoughtful.json",
+      "type": "mood",
+      "tag": "thoughtful",
+      "description": "Movies perfect for a thoughtful mood",
+      "match_keywords": [
+        "thoughtful",
+        "Philosophical",
+        "Mind-bending",
+        "Powerful"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "mood_emotional.json",
+      "type": "mood",
+      "tag": "emotional",
+      "description": "Movies perfect for a emotional mood",
+      "match_keywords": [
+        "emotional",
+        "Emotional",
+        "Hopeful",
+        "Bittersweet",
+        "Somber"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "genre_thriller.json",
+      "type": "genre",
+      "tag": "Thriller",
+      "description": "Top Thriller movies",
+      "match_keywords": [
+        "thriller",
+        "Thriller"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "genre_mystery.json",
+      "type": "genre",
+      "tag": "Mystery",
+      "description": "Top Mystery movies",
+      "match_keywords": [
+        "mystery",
+        "Mystery"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "genre_romance.json",
+      "type": "genre",
+      "tag": "Romance",
+      "description": "Top Romance movies",
+      "match_keywords": [
+        "romance",
+        "Romance"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "genre_crime.json",
+      "type": "genre",
+      "tag": "Crime",
+      "description": "Top Crime movies",
+      "match_keywords": [
+        "crime",
+        "Crime"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "genre_drama.json",
+      "type": "genre",
+      "tag": "Drama",
+      "description": "Top Drama movies",
+      "match_keywords": [
+        "drama",
+        "Drama"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "genre_biography.json",
+      "type": "genre",
+      "tag": "Biography",
+      "description": "Top Biography movies",
+      "match_keywords": [
+        "biography",
+        "Biography"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "genre_sport.json",
+      "type": "genre",
+      "tag": "Sport",
+      "description": "Top Sport movies",
+      "match_keywords": [
+        "sport",
+        "Sport"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "genre_comedy.json",
+      "type": "genre",
+      "tag": "Comedy",
+      "description": "Top Comedy movies",
+      "match_keywords": [
+        "comedy",
+        "Comedy"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "genre_history.json",
+      "type": "genre",
+      "tag": "History",
+      "description": "Top History movies",
+      "match_keywords": [
+        "history",
+        "History"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "genre_action.json",
+      "type": "genre",
+      "tag": "Action",
+      "description": "Top Action movies",
+      "match_keywords": [
+        "action",
+        "Action"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "genre_adventure.json",
+      "type": "genre",
+      "tag": "Adventure",
+      "description": "Top Adventure movies",
+      "match_keywords": [
+        "adventure",
+        "Adventure"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "genre_sci_fi.json",
+      "type": "genre",
+      "tag": "Sci-Fi",
+      "description": "Top Sci-Fi movies",
+      "match_keywords": [
+        "sci-fi",
+        "Sci-Fi"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "genre_war.json",
+      "type": "genre",
+      "tag": "War",
+      "description": "Top War movies",
+      "match_keywords": [
+        "war",
+        "War"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "genre_music.json",
+      "type": "genre",
+      "tag": "Music",
+      "description": "Top Music movies",
+      "match_keywords": [
+        "music",
+        "Music"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "genre_western.json",
+      "type": "genre",
+      "tag": "Western",
+      "description": "Top Western movies",
+      "match_keywords": [
+        "western",
+        "Western"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "genre_horror.json",
+      "type": "genre",
+      "tag": "Horror",
+      "description": "Top Horror movies",
+      "match_keywords": [
+        "horror",
+        "Horror"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "genre_fantasy.json",
+      "type": "genre",
+      "tag": "Fantasy",
+      "description": "Top Fantasy movies",
+      "match_keywords": [
+        "fantasy",
+        "Fantasy"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "genre_animation.json",
+      "type": "genre",
+      "tag": "Animation",
+      "description": "Top Animation movies",
+      "match_keywords": [
+        "animation",
+        "Animation"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "era_classic.json",
+      "type": "era",
+      "tag": "Classic",
+      "description": "Top movies from the Classic era",
+      "match_keywords": [
+        "classic",
+        "Classic"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "era_80s.json",
+      "type": "era",
+      "tag": "80s",
+      "description": "Top movies from the 80s era",
+      "match_keywords": [
+        "80s",
+        "80s"
+      ],
+      "item_count": 2,
+      "is_fallback": false
+    },
+    {
+      "filename": "era_90s.json",
+      "type": "era",
+      "tag": "90s",
+      "description": "Top movies from the 90s era",
+      "match_keywords": [
+        "90s",
+        "90s"
+      ],
+      "item_count": 8,
+      "is_fallback": false
+    },
+    {
+      "filename": "era_modern.json",
+      "type": "era",
+      "tag": "Modern",
+      "description": "Top movies from the Modern era",
+      "match_keywords": [
+        "modern",
+        "Modern"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "era_2000s.json",
+      "type": "era",
+      "tag": "2000s",
+      "description": "Top movies from the 2000s era",
+      "match_keywords": [
+        "2000s",
+        "2000s"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "era_60s_70s.json",
+      "type": "era",
+      "tag": "60s-70s",
+      "description": "Top movies from the 60s-70s era",
+      "match_keywords": [
+        "60s-70s",
+        "60s-70s"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "era_80s_90s.json",
+      "type": "era",
+      "tag": "80s-90s",
+      "description": "Top movies from the 80s-90s era",
+      "match_keywords": [
+        "80s-90s",
+        "80s-90s"
+      ],
+      "item_count": 20,
+      "is_fallback": false
+    },
+    {
+      "filename": "fallback_popular.json",
+      "type": "fallback",
+      "tag": "popular",
+      "description": "Most popular movies - use when no specific match found",
+      "match_keywords": [],
+      "item_count": 20,
+      "is_fallback": true
+    },
+    {
+      "filename": "fallback_acclaimed.json",
+      "type": "fallback",
+      "tag": "acclaimed",
+      "description": "Most acclaimed movies - use when no specific match found",
+      "match_keywords": [],
+      "item_count": 20,
+      "is_fallback": true
+    }
+  ]
+}

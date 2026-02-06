@@ -1,0 +1,517 @@
+{
+  "meta": {
+    "tag": "War",
+    "type": "genre",
+    "description": "Top War movies",
+    "match_keywords": [
+      "war",
+      "War"
+    ],
+    "generated_at": "2026-01-26T01:44:53.780133Z",
+    "candidate_movies": 173
+  },
+  "discovery_questions": [
+    {
+      "question": "Do you enjoy War movies?",
+      "positive_signals": [
+        "war",
+        "yes",
+        "love",
+        "War"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M500",
+      "title": "Interstellar Battle",
+      "year": 2002,
+      "director": "Alfred Hitchcock",
+      "genre": [
+        "War",
+        "Thriller",
+        "History",
+        "Comedy"
+      ],
+      "mood": [
+        "Violent",
+        "Powerful"
+      ],
+      "era": "2000s",
+      "description_brief": "A insomniac immigrant fights against mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated War movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.4,
+        "high_rating_count": 8,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M717",
+      "title": "TheSecret Blood",
+      "year": 1942,
+      "director": "Ari Aster",
+      "genre": [
+        "Thriller",
+        "Crime",
+        "War",
+        "Animation"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Thrilling",
+        "Serious"
+      ],
+      "era": "Classic",
+      "description_brief": "A brilliant thief plants guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated War movie. Average rating: 3.6/5.0",
+      "stats": {
+        "avg_rating": 3.59,
+        "high_rating_count": 7,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 3,
+      "item_id": "M362",
+      "title": "AFalling Alien",
+      "year": 2023,
+      "director": "Orson Welles",
+      "genre": [
+        "Sci-Fi",
+        "War",
+        "Thriller",
+        "Adventure"
+      ],
+      "mood": [
+        "Emotional",
+        "Powerful",
+        "Philosophical"
+      ],
+      "era": "Modern",
+      "description_brief": "A aging hacker plants guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated War movie. Average rating: 3.5/5.0",
+      "stats": {
+        "avg_rating": 3.49,
+        "high_rating_count": 7,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 4,
+      "item_id": "M701",
+      "title": "TheVertigo Zombie",
+      "year": 1963,
+      "director": "David Fincher",
+      "genre": [
+        "Western",
+        "Comedy",
+        "War"
+      ],
+      "mood": [
+        "Hopeful",
+        "Bittersweet",
+        "Chaotic"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A former immigrant struggles mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated War movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.35,
+        "high_rating_count": 7,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 5,
+      "item_id": "M399",
+      "title": "Pulp Soldier",
+      "year": 1965,
+      "director": "Tim Burton",
+      "genre": [
+        "Comedy",
+        "Fantasy",
+        "War"
+      ],
+      "mood": [
+        "Powerful",
+        "Hopeful",
+        "Psychological"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A cynical princess investigates a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated War movie. Average rating: 3.6/5.0",
+      "stats": {
+        "avg_rating": 3.6,
+        "high_rating_count": 6,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 6,
+      "item_id": "M343",
+      "title": "ARising Detective",
+      "year": 1993,
+      "director": "Taika Waititi",
+      "genre": [
+        "War",
+        "Biography",
+        "Comedy",
+        "Music"
+      ],
+      "mood": [
+        "Emotional",
+        "Heartwarming"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A determined scientist plants dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated War movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.45,
+        "high_rating_count": 6,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 7,
+      "item_id": "M471",
+      "title": "TheSecret Wizard",
+      "year": 2025,
+      "director": "Wes Anderson",
+      "genre": [
+        "War",
+        "Adventure",
+        "Music"
+      ],
+      "mood": [
+        "Inspirational",
+        "Somber"
+      ],
+      "era": "Modern",
+      "description_brief": "A bored explorer fights against a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated War movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.33,
+        "high_rating_count": 6,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 8,
+      "item_id": "M555",
+      "title": "TheFalling Wizard",
+      "year": 1957,
+      "director": "Jordan Peele",
+      "genre": [
+        "Comedy",
+        "Adventure",
+        "Crime",
+        "War"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Bittersweet"
+      ],
+      "era": "Classic",
+      "description_brief": "A troubled hacker escapes mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated War movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.26,
+        "high_rating_count": 6,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 9,
+      "item_id": "M404",
+      "title": "TheSilent Night",
+      "year": 1997,
+      "director": "Jordan Peele",
+      "genre": [
+        "Adventure",
+        "War",
+        "Comedy"
+      ],
+      "mood": [
+        "Hopeful",
+        "Inspirational"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A troubled warrior takes over mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated War movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.22,
+        "high_rating_count": 6,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 10,
+      "item_id": "M899",
+      "title": "TheShining Redemption",
+      "year": 1926,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "Thriller",
+        "War"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Powerful"
+      ],
+      "era": "Classic",
+      "description_brief": "A troubled scientist travels through a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated War movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.2,
+        "high_rating_count": 6,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 11,
+      "item_id": "M896",
+      "title": "AMagnificent Killer",
+      "year": 2010,
+      "director": "Ari Aster",
+      "genre": [
+        "Sport",
+        "Thriller",
+        "Action",
+        "War"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Bittersweet"
+      ],
+      "era": "Modern",
+      "description_brief": "A troubled thief plants a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated War movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.08,
+        "high_rating_count": 6,
+        "total_ratings": 19
+      }
+    },
+    {
+      "rank": 12,
+      "item_id": "M853",
+      "title": "Lost Dawn",
+      "year": 1991,
+      "director": "Paul Thomas Anderson",
+      "genre": [
+        "Biography",
+        "War",
+        "Music"
+      ],
+      "mood": [
+        "Charming",
+        "Psychological"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A young hacker escapes a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated War movie. Average rating: 3.0/5.0",
+      "stats": {
+        "avg_rating": 2.99,
+        "high_rating_count": 6,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 13,
+      "item_id": "M313",
+      "title": "TheShawshank Eclipse",
+      "year": 2014,
+      "director": "Lana Wachowski",
+      "genre": [
+        "Biography",
+        "War"
+      ],
+      "mood": [
+        "Powerful",
+        "Hopeful"
+      ],
+      "era": "Modern",
+      "description_brief": "A troubled newsman learns from guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated War movie. Average rating: 3.6/5.0",
+      "stats": {
+        "avg_rating": 3.57,
+        "high_rating_count": 5,
+        "total_ratings": 9
+      }
+    },
+    {
+      "rank": 14,
+      "item_id": "M066",
+      "title": "AFurious Legend",
+      "year": 1995,
+      "director": "Alfred Hitchcock",
+      "genre": [
+        "Biography",
+        "War"
+      ],
+      "mood": [
+        "Intense",
+        "Thrilling"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A brilliant detective struggles a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated War movie. Average rating: 3.5/5.0",
+      "stats": {
+        "avg_rating": 3.46,
+        "high_rating_count": 5,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 15,
+      "item_id": "M586",
+      "title": "TheSilent Samurai",
+      "year": 2010,
+      "director": "Billy Wilder",
+      "genre": [
+        "War",
+        "Comedy",
+        "Crime",
+        "Romance"
+      ],
+      "mood": [
+        "Somber",
+        "Bittersweet",
+        "Suspenseful"
+      ],
+      "era": "Modern",
+      "description_brief": "A retired thief escapes a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated War movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.36,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 16,
+      "item_id": "M097",
+      "title": "APulp Man",
+      "year": 1968,
+      "director": "David Fincher",
+      "genre": [
+        "War",
+        "Animation",
+        "Mystery",
+        "Horror"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Bittersweet",
+        "Thrilling"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A young detective travels through a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated War movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.33,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 17,
+      "item_id": "M147",
+      "title": "AFurious Shadow",
+      "year": 2004,
+      "director": "Tim Burton",
+      "genre": [
+        "War",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Emotional"
+      ],
+      "era": "2000s",
+      "description_brief": "A bored immigrant learns from mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated War movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.26,
+        "high_rating_count": 5,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 18,
+      "item_id": "M455",
+      "title": "Bad Samurai",
+      "year": 1976,
+      "director": "Francis Ford Coppola",
+      "genre": [
+        "History",
+        "Crime",
+        "War"
+      ],
+      "mood": [
+        "Psychological",
+        "Inspirational",
+        "Angry"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A retired explorer learns from dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated War movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.26,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 19,
+      "item_id": "M242",
+      "title": "AShawshank Hero",
+      "year": 1947,
+      "director": "Tim Burton",
+      "genre": [
+        "War",
+        "Adventure",
+        "Thriller"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Exciting",
+        "Philosophical"
+      ],
+      "era": "Classic",
+      "description_brief": "A brilliant detective travels through dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated War movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.22,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 20,
+      "item_id": "M554",
+      "title": "TheFurious King",
+      "year": 1932,
+      "director": "James Cameron",
+      "genre": [
+        "War",
+        "Western"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Emotional"
+      ],
+      "era": "Classic",
+      "description_brief": "A former princess fights against guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated War movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.14,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    }
+  ]
+}

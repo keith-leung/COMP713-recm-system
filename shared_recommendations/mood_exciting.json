@@ -1,0 +1,525 @@
+{
+  "meta": {
+    "tag": "exciting",
+    "type": "mood",
+    "description": "Movies perfect for a exciting mood",
+    "match_keywords": [
+      "exciting",
+      "Exciting",
+      "Thrilling",
+      "Action-packed",
+      "Revolutionary"
+    ],
+    "generated_at": "2026-01-26T01:44:53.775562Z",
+    "candidate_movies": 211
+  },
+  "discovery_questions": [
+    {
+      "question": "Are you in the mood for something exciting?",
+      "positive_signals": [
+        "exciting",
+        "yes",
+        "exciting",
+        "thrilling",
+        "action-packed",
+        "revolutionary"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M801",
+      "title": "AShawshank Betrayal",
+      "year": 1977,
+      "director": "Frank Darabont",
+      "genre": [
+        "Western",
+        "Crime"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Mind-bending",
+        "Exciting"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A retired hacker travels through the ring and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a exciting mood. Rated 2.9/5.0 by 22 users.",
+      "stats": {
+        "avg_rating": 2.9,
+        "high_rating_count": 9,
+        "total_ratings": 22
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M717",
+      "title": "TheSecret Blood",
+      "year": 1942,
+      "director": "Ari Aster",
+      "genre": [
+        "Thriller",
+        "Crime",
+        "War",
+        "Animation"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Thrilling",
+        "Serious"
+      ],
+      "era": "Classic",
+      "description_brief": "A brilliant thief plants guardians and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a exciting mood. Rated 3.6/5.0 by 15 users.",
+      "stats": {
+        "avg_rating": 3.59,
+        "high_rating_count": 7,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 3,
+      "item_id": "M416",
+      "title": "AShawshank Legend",
+      "year": 1992,
+      "director": "Frank Darabont",
+      "genre": [
+        "Action",
+        "Mystery",
+        "Horror",
+        "Music"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Exciting"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A retired boxer struggles a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a exciting mood. Rated 3.2/5.0 by 16 users.",
+      "stats": {
+        "avg_rating": 3.18,
+        "high_rating_count": 7,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 4,
+      "item_id": "M056",
+      "title": "ABrave Quest",
+      "year": 2000,
+      "director": "Tim Burton",
+      "genre": [
+        "Thriller",
+        "History",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Hopeful",
+        "Romantic",
+        "Exciting"
+      ],
+      "era": "2000s",
+      "description_brief": "A troubled princess investigates a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a exciting mood. Rated 3.4/5.0 by 15 users.",
+      "stats": {
+        "avg_rating": 3.42,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 5,
+      "item_id": "M718",
+      "title": "AGladiator Alien",
+      "year": 1931,
+      "director": "Christopher Nolan",
+      "genre": [
+        "Fantasy",
+        "Comedy",
+        "Biography",
+        "Sport"
+      ],
+      "mood": [
+        "Angry",
+        "Thrilling",
+        "Witty"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac warrior struggles guardians and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a exciting mood. Rated 3.4/5.0 by 13 users.",
+      "stats": {
+        "avg_rating": 3.38,
+        "high_rating_count": 6,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 6,
+      "item_id": "M488",
+      "title": "ATrue Vampire",
+      "year": 1957,
+      "director": "Paul Thomas Anderson",
+      "genre": [
+        "History",
+        "Comedy",
+        "Crime"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Thrilling",
+        "Romantic"
+      ],
+      "era": "Classic",
+      "description_brief": "A brilliant immigrant travels through a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a exciting mood. Rated 3.3/5.0 by 15 users.",
+      "stats": {
+        "avg_rating": 3.33,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 7,
+      "item_id": "M548",
+      "title": "TheGreat Storm",
+      "year": 1929,
+      "director": "Alfred Hitchcock",
+      "genre": [
+        "Mystery",
+        "Biography",
+        "Crime",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Witty",
+        "Inspirational",
+        "Thrilling"
+      ],
+      "era": "Classic",
+      "description_brief": "A bored boxer investigates a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a exciting mood. Rated 3.3/5.0 by 14 users.",
+      "stats": {
+        "avg_rating": 3.33,
+        "high_rating_count": 6,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 8,
+      "item_id": "M558",
+      "title": "Dark Night",
+      "year": 1944,
+      "director": "Robert Zemeckis",
+      "genre": [
+        "Animation",
+        "Horror",
+        "Mystery"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Exciting",
+        "Witty"
+      ],
+      "era": "Classic",
+      "description_brief": "A bored hacker struggles a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a exciting mood. Rated 3.3/5.0 by 14 users.",
+      "stats": {
+        "avg_rating": 3.29,
+        "high_rating_count": 6,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 9,
+      "item_id": "M355",
+      "title": "Lost Honor",
+      "year": 1964,
+      "director": "Greta Gerwig",
+      "genre": [
+        "Music",
+        "Mystery",
+        "Crime"
+      ],
+      "mood": [
+        "Charming",
+        "Inspirational",
+        "Thrilling"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A aging hacker takes over a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a exciting mood. Rated 3.3/5.0 by 15 users.",
+      "stats": {
+        "avg_rating": 3.27,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 10,
+      "item_id": "M304",
+      "title": "TheRising Woman",
+      "year": 2012,
+      "director": "Jordan Peele",
+      "genre": [
+        "Animation",
+        "Sport"
+      ],
+      "mood": [
+        "Thrilling",
+        "Witty"
+      ],
+      "era": "Modern",
+      "description_brief": "A young princess investigates the ring and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a exciting mood. Rated 3.3/5.0 by 15 users.",
+      "stats": {
+        "avg_rating": 3.27,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 11,
+      "item_id": "M070",
+      "title": "ADark Betrayal",
+      "year": 1970,
+      "director": "Billy Wilder",
+      "genre": [
+        "Sci-Fi",
+        "Fantasy",
+        "Thriller"
+      ],
+      "mood": [
+        "Intense",
+        "Thrilling",
+        "Powerful"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A troubled thief investigates guardians and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a exciting mood. Rated 3.3/5.0 by 16 users.",
+      "stats": {
+        "avg_rating": 3.25,
+        "high_rating_count": 6,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 12,
+      "item_id": "M945",
+      "title": "TheShawshank Robot",
+      "year": 1990,
+      "director": "Guillermo del Toro",
+      "genre": [
+        "Crime",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Chaotic",
+        "Serious",
+        "Exciting"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A bored hacker escapes the ring and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a exciting mood. Rated 3.2/5.0 by 19 users.",
+      "stats": {
+        "avg_rating": 3.24,
+        "high_rating_count": 6,
+        "total_ratings": 19
+      }
+    },
+    {
+      "rank": 13,
+      "item_id": "M197",
+      "title": "Dark Knight Redemption",
+      "year": 1971,
+      "director": "Lana Wachowski",
+      "genre": [
+        "Thriller",
+        "Horror"
+      ],
+      "mood": [
+        "Exciting",
+        "Thrilling",
+        "Suspenseful"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A young detective fights against a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a exciting mood. Rated 3.2/5.0 by 11 users.",
+      "stats": {
+        "avg_rating": 3.24,
+        "high_rating_count": 6,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 14,
+      "item_id": "M287",
+      "title": "ARising Alien",
+      "year": 2016,
+      "director": "Quentin Tarantino",
+      "genre": [
+        "Adventure",
+        "Biography",
+        "Horror"
+      ],
+      "mood": [
+        "Thrilling",
+        "Exciting",
+        "Hopeful"
+      ],
+      "era": "Modern",
+      "description_brief": "A determined immigrant takes over guardians and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a exciting mood. Rated 3.2/5.0 by 15 users.",
+      "stats": {
+        "avg_rating": 3.23,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 15,
+      "item_id": "M065",
+      "title": "TheGladiator Samurai",
+      "year": 1920,
+      "director": "Christopher Nolan",
+      "genre": [
+        "Romance",
+        "Action"
+      ],
+      "mood": [
+        "Philosophical",
+        "Inspirational",
+        "Exciting"
+      ],
+      "era": "Classic",
+      "description_brief": "A aging scientist struggles mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a exciting mood. Rated 3.2/5.0 by 16 users.",
+      "stats": {
+        "avg_rating": 3.19,
+        "high_rating_count": 6,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 16,
+      "item_id": "M044",
+      "title": "TheBad Legend",
+      "year": 2006,
+      "director": "Michael Curtiz",
+      "genre": [
+        "Adventure",
+        "Thriller",
+        "Animation"
+      ],
+      "mood": [
+        "Thrilling",
+        "Suspenseful"
+      ],
+      "era": "2000s",
+      "description_brief": "A former thief investigates a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a exciting mood. Rated 3.1/5.0 by 16 users.",
+      "stats": {
+        "avg_rating": 3.06,
+        "high_rating_count": 6,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 17,
+      "item_id": "M262",
+      "title": "TheGood Robot",
+      "year": 1987,
+      "director": "Taika Waititi",
+      "genre": [
+        "Sci-Fi",
+        "Thriller",
+        "Action"
+      ],
+      "mood": [
+        "Thrilling",
+        "Chaotic"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A troubled detective travels through dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a exciting mood. Rated 2.9/5.0 by 17 users.",
+      "stats": {
+        "avg_rating": 2.91,
+        "high_rating_count": 6,
+        "total_ratings": 17
+      }
+    },
+    {
+      "rank": 18,
+      "item_id": "M308",
+      "title": "Fight Club War",
+      "year": 2003,
+      "director": "Martin Scorsese",
+      "genre": [
+        "Horror",
+        "Sport",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Thrilling",
+        "Inspirational"
+      ],
+      "era": "2000s",
+      "description_brief": "A bored boxer fights against the ring and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a exciting mood. Rated 2.8/5.0 by 25 users.",
+      "stats": {
+        "avg_rating": 2.79,
+        "high_rating_count": 6,
+        "total_ratings": 25
+      }
+    },
+    {
+      "rank": 19,
+      "item_id": "M603",
+      "title": "Rising Fire",
+      "year": 1928,
+      "director": "James Cameron",
+      "genre": [
+        "Mystery",
+        "Western"
+      ],
+      "mood": [
+        "Intense",
+        "Exciting",
+        "Stylish"
+      ],
+      "era": "Classic",
+      "description_brief": "A young princess investigates the ring and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a exciting mood. Rated 2.7/5.0 by 22 users.",
+      "stats": {
+        "avg_rating": 2.72,
+        "high_rating_count": 6,
+        "total_ratings": 22
+      }
+    },
+    {
+      "rank": 20,
+      "item_id": "M203",
+      "title": "True Monster",
+      "year": 2012,
+      "director": "Taika Waititi",
+      "genre": [
+        "Comedy",
+        "History",
+        "Romance"
+      ],
+      "mood": [
+        "Thrilling",
+        "Angry",
+        "Philosophical"
+      ],
+      "era": "Modern",
+      "description_brief": "A determined immigrant learns from a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a exciting mood. Rated 2.6/5.0 by 18 users.",
+      "stats": {
+        "avg_rating": 2.63,
+        "high_rating_count": 6,
+        "total_ratings": 18
+      }
+    }
+  ]
+}

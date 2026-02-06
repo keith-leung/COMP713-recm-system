@@ -1,0 +1,518 @@
+{
+  "meta": {
+    "tag": "Modern",
+    "type": "era",
+    "description": "Top movies from the Modern era",
+    "match_keywords": [
+      "modern",
+      "Modern"
+    ],
+    "generated_at": "2026-01-26T01:44:53.782010Z",
+    "candidate_movies": 154
+  },
+  "discovery_questions": [
+    {
+      "question": "Do you enjoy movies from the Modern era?",
+      "positive_signals": [
+        "modern",
+        "yes",
+        "love",
+        "Modern"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M869",
+      "title": "AInception Soldier",
+      "year": 2012,
+      "director": "Steven Spielberg",
+      "genre": [
+        "Comedy",
+        "Action",
+        "Drama",
+        "Crime"
+      ],
+      "mood": [
+        "Inspirational",
+        "Chaotic",
+        "Intense"
+      ],
+      "era": "Modern",
+      "description_brief": "A cynical princess investigates guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Modern movie. Average rating: 3.7/5.0",
+      "stats": {
+        "avg_rating": 3.66,
+        "high_rating_count": 7,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M244",
+      "title": "ThePulp Honor",
+      "year": 2015,
+      "director": "Stanley Kubrick",
+      "genre": [
+        "History",
+        "Comedy",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "mood": [
+        "Chaotic",
+        "Inspirational",
+        "Violent"
+      ],
+      "era": "Modern",
+      "description_brief": "A insomniac boxer learns from a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Modern movie. Average rating: 3.5/5.0",
+      "stats": {
+        "avg_rating": 3.52,
+        "high_rating_count": 7,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 3,
+      "item_id": "M362",
+      "title": "AFalling Alien",
+      "year": 2023,
+      "director": "Orson Welles",
+      "genre": [
+        "Sci-Fi",
+        "War",
+        "Thriller",
+        "Adventure"
+      ],
+      "mood": [
+        "Emotional",
+        "Powerful",
+        "Philosophical"
+      ],
+      "era": "Modern",
+      "description_brief": "A aging hacker plants guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Modern movie. Average rating: 3.5/5.0",
+      "stats": {
+        "avg_rating": 3.49,
+        "high_rating_count": 7,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 4,
+      "item_id": "M098",
+      "title": "Furious Ghost",
+      "year": 2023,
+      "director": "Christopher Nolan",
+      "genre": [
+        "Sci-Fi",
+        "Adventure",
+        "Romance"
+      ],
+      "mood": [
+        "Serious",
+        "Intense"
+      ],
+      "era": "Modern",
+      "description_brief": "A insomniac princess escapes a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Modern movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.27,
+        "high_rating_count": 7,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 5,
+      "item_id": "M238",
+      "title": "TheFight Club Blood",
+      "year": 2016,
+      "director": "Lilly Wachowski",
+      "genre": [
+        "Animation",
+        "Action"
+      ],
+      "mood": [
+        "Chaotic",
+        "Bittersweet"
+      ],
+      "era": "Modern",
+      "description_brief": "A insomniac princess travels through a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Modern movie. Average rating: 3.5/5.0",
+      "stats": {
+        "avg_rating": 3.54,
+        "high_rating_count": 6,
+        "total_ratings": 10
+      }
+    },
+    {
+      "rank": 6,
+      "item_id": "M471",
+      "title": "TheSecret Wizard",
+      "year": 2025,
+      "director": "Wes Anderson",
+      "genre": [
+        "War",
+        "Adventure",
+        "Music"
+      ],
+      "mood": [
+        "Inspirational",
+        "Somber"
+      ],
+      "era": "Modern",
+      "description_brief": "A bored explorer fights against a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Modern movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.33,
+        "high_rating_count": 6,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 7,
+      "item_id": "M304",
+      "title": "TheRising Woman",
+      "year": 2012,
+      "director": "Jordan Peele",
+      "genre": [
+        "Animation",
+        "Sport"
+      ],
+      "mood": [
+        "Thrilling",
+        "Witty"
+      ],
+      "era": "Modern",
+      "description_brief": "A young princess investigates the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Modern movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.27,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 8,
+      "item_id": "M287",
+      "title": "ARising Alien",
+      "year": 2016,
+      "director": "Quentin Tarantino",
+      "genre": [
+        "Adventure",
+        "Biography",
+        "Horror"
+      ],
+      "mood": [
+        "Thrilling",
+        "Exciting",
+        "Hopeful"
+      ],
+      "era": "Modern",
+      "description_brief": "A determined immigrant takes over guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Modern movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.23,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 9,
+      "item_id": "M187",
+      "title": "TheSecret Spy",
+      "year": 2025,
+      "director": "Bong Joon-ho",
+      "genre": [
+        "Thriller",
+        "Animation",
+        "Music",
+        "Mystery"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Intense"
+      ],
+      "era": "Modern",
+      "description_brief": "A troubled thief learns from mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Modern movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.14,
+        "high_rating_count": 6,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 10,
+      "item_id": "M338",
+      "title": "Dark Knight Detective",
+      "year": 2020,
+      "director": "Guillermo del Toro",
+      "genre": [
+        "Mystery",
+        "Music",
+        "Adventure",
+        "Animation"
+      ],
+      "mood": [
+        "Philosophical",
+        "Intense",
+        "Psychological"
+      ],
+      "era": "Modern",
+      "description_brief": "A insomniac thief learns from a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Modern movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.12,
+        "high_rating_count": 6,
+        "total_ratings": 17
+      }
+    },
+    {
+      "rank": 11,
+      "item_id": "M465",
+      "title": "AFinal Revenge",
+      "year": 2021,
+      "director": "Ari Aster",
+      "genre": [
+        "Horror",
+        "Romance"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Psychological",
+        "Serious"
+      ],
+      "era": "Modern",
+      "description_brief": "A troubled boxer investigates dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Modern movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.12,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 12,
+      "item_id": "M896",
+      "title": "AMagnificent Killer",
+      "year": 2010,
+      "director": "Ari Aster",
+      "genre": [
+        "Sport",
+        "Thriller",
+        "Action",
+        "War"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Bittersweet"
+      ],
+      "era": "Modern",
+      "description_brief": "A troubled thief plants a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Modern movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.08,
+        "high_rating_count": 6,
+        "total_ratings": 19
+      }
+    },
+    {
+      "rank": 13,
+      "item_id": "M151",
+      "title": "Godfather Quest",
+      "year": 2013,
+      "director": "Frank Darabont",
+      "genre": [
+        "Action",
+        "Music",
+        "Crime"
+      ],
+      "mood": [
+        "Inspirational",
+        "Mind-bending",
+        "Chaotic"
+      ],
+      "era": "Modern",
+      "description_brief": "A former scientist struggles guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Modern movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.91,
+        "high_rating_count": 6,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 14,
+      "item_id": "M203",
+      "title": "True Monster",
+      "year": 2012,
+      "director": "Taika Waititi",
+      "genre": [
+        "Comedy",
+        "History",
+        "Romance"
+      ],
+      "mood": [
+        "Thrilling",
+        "Angry",
+        "Philosophical"
+      ],
+      "era": "Modern",
+      "description_brief": "A determined immigrant learns from a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Modern movie. Average rating: 2.6/5.0",
+      "stats": {
+        "avg_rating": 2.63,
+        "high_rating_count": 6,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 15,
+      "item_id": "M793",
+      "title": "AShawshank Fire",
+      "year": 2018,
+      "director": "Orson Welles",
+      "genre": [
+        "Fantasy",
+        "Music"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Romantic"
+      ],
+      "era": "Modern",
+      "description_brief": "A determined hacker travels through guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Modern movie. Average rating: 3.7/5.0",
+      "stats": {
+        "avg_rating": 3.66,
+        "high_rating_count": 5,
+        "total_ratings": 8
+      }
+    },
+    {
+      "rank": 16,
+      "item_id": "M313",
+      "title": "TheShawshank Eclipse",
+      "year": 2014,
+      "director": "Lana Wachowski",
+      "genre": [
+        "Biography",
+        "War"
+      ],
+      "mood": [
+        "Powerful",
+        "Hopeful"
+      ],
+      "era": "Modern",
+      "description_brief": "A troubled newsman learns from guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Modern movie. Average rating: 3.6/5.0",
+      "stats": {
+        "avg_rating": 3.57,
+        "high_rating_count": 5,
+        "total_ratings": 9
+      }
+    },
+    {
+      "rank": 17,
+      "item_id": "M586",
+      "title": "TheSilent Samurai",
+      "year": 2010,
+      "director": "Billy Wilder",
+      "genre": [
+        "War",
+        "Comedy",
+        "Crime",
+        "Romance"
+      ],
+      "mood": [
+        "Somber",
+        "Bittersweet",
+        "Suspenseful"
+      ],
+      "era": "Modern",
+      "description_brief": "A retired thief escapes a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Modern movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.36,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 18,
+      "item_id": "M020",
+      "title": "Interstellar",
+      "year": 2014,
+      "director": "Christopher Nolan",
+      "genre": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Emotional",
+        "Cosmic"
+      ],
+      "era": "Modern",
+      "description_brief": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "why_recommended": "Top-rated Modern movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.29,
+        "high_rating_count": 5,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 19,
+      "item_id": "M800",
+      "title": "Silent Soldier",
+      "year": 2015,
+      "director": "Robert Zemeckis",
+      "genre": [
+        "Crime",
+        "Action"
+      ],
+      "mood": [
+        "Somber",
+        "Suspenseful",
+        "Bittersweet"
+      ],
+      "era": "Modern",
+      "description_brief": "A aging warrior takes over dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Modern movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.25,
+        "high_rating_count": 5,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 20,
+      "item_id": "M189",
+      "title": "TheTrue Legend",
+      "year": 2022,
+      "director": "Jordan Peele",
+      "genre": [
+        "Mystery",
+        "Sci-Fi",
+        "Music",
+        "Crime"
+      ],
+      "mood": [
+        "Serious",
+        "Philosophical"
+      ],
+      "era": "Modern",
+      "description_brief": "A troubled warrior fights against a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Modern movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.23,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    }
+  ]
+}

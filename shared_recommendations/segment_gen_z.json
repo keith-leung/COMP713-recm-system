@@ -1,0 +1,547 @@
+{
+  "meta": {
+    "tag": "gen Z",
+    "type": "segment",
+    "description": "Movies highly rated by gen Z users",
+    "match_keywords": [
+      "comedy",
+      "crime",
+      "romantic",
+      "horror",
+      "angry",
+      "thrilling",
+      "gen Z"
+    ],
+    "generated_at": "2026-01-26T01:44:53.774508Z",
+    "user_count_in_segment": 488,
+    "candidate_movies": 403
+  },
+  "discovery_questions": [
+    {
+      "question": "Are you interested in movies that gen Z users typically enjoy?",
+      "positive_signals": [
+        "gen Z",
+        "yes",
+        "interested"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M619",
+      "title": "Dirty Robot",
+      "year": 1966,
+      "director": "Quentin Tarantino",
+      "genre": [
+        "Mystery",
+        "Horror",
+        "Adventure"
+      ],
+      "mood": [
+        "Inspirational",
+        "Intense",
+        "Thrilling"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A bored princess fights against a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "1% of gen Z users rated this 4+ stars. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.27,
+        "rating_count_in_segment": 5,
+        "overall_avg_rating": 3.27,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M416",
+      "title": "AShawshank Legend",
+      "year": 1992,
+      "director": "Frank Darabont",
+      "genre": [
+        "Action",
+        "Mystery",
+        "Horror",
+        "Music"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Exciting"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A retired boxer struggles a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "0% of gen Z users rated this 4+ stars. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.18,
+        "rating_count_in_segment": 4,
+        "overall_avg_rating": 3.18,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 3,
+      "item_id": "M718",
+      "title": "AGladiator Alien",
+      "year": 1931,
+      "director": "Christopher Nolan",
+      "genre": [
+        "Fantasy",
+        "Comedy",
+        "Biography",
+        "Sport"
+      ],
+      "mood": [
+        "Angry",
+        "Thrilling",
+        "Witty"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac warrior struggles guardians and becomes obsessed with the truth.",
+      "why_recommended": "0% of gen Z users rated this 4+ stars. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.38,
+        "rating_count_in_segment": 4,
+        "overall_avg_rating": 3.38,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 4,
+      "item_id": "M287",
+      "title": "ARising Alien",
+      "year": 2016,
+      "director": "Quentin Tarantino",
+      "genre": [
+        "Adventure",
+        "Biography",
+        "Horror"
+      ],
+      "mood": [
+        "Thrilling",
+        "Exciting",
+        "Hopeful"
+      ],
+      "era": "Modern",
+      "description_brief": "A determined immigrant takes over guardians and becomes obsessed with the truth.",
+      "why_recommended": "0% of gen Z users rated this 4+ stars. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.23,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 3.23,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 5,
+      "item_id": "M697",
+      "title": "TheShining Spy",
+      "year": 1965,
+      "director": "Steven Spielberg",
+      "genre": [
+        "Biography",
+        "Adventure",
+        "Crime",
+        "Comedy"
+      ],
+      "mood": [
+        "Angry",
+        "Romantic",
+        "Stylish"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A bored immigrant travels through a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "0% of gen Z users rated this 4+ stars. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.16,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 3.16,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 6,
+      "item_id": "M040",
+      "title": "TheDark Alien",
+      "year": 2023,
+      "director": "Frank Darabont",
+      "genre": [
+        "Sport",
+        "Fantasy",
+        "Mystery",
+        "Horror"
+      ],
+      "mood": [
+        "Violent",
+        "Stylish",
+        "Charming"
+      ],
+      "era": "Modern",
+      "description_brief": "A brilliant thief investigates a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "0% of gen Z users rated this 4+ stars. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.16,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 3.16,
+        "total_ratings": 9
+      }
+    },
+    {
+      "rank": 7,
+      "item_id": "M182",
+      "title": "TheDark Revenge",
+      "year": 1946,
+      "director": "Peter Jackson",
+      "genre": [
+        "Romance",
+        "Biography"
+      ],
+      "mood": [
+        "Emotional",
+        "Charming"
+      ],
+      "era": "Classic",
+      "description_brief": "A cynical princess takes over dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "0% of gen Z users rated this 4+ stars. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.14,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 3.14,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 8,
+      "item_id": "M027",
+      "title": "AFalling King",
+      "year": 1932,
+      "director": "Martin Scorsese",
+      "genre": [
+        "Thriller",
+        "History"
+      ],
+      "mood": [
+        "Emotional",
+        "Mind-bending",
+        "Romantic"
+      ],
+      "era": "Classic",
+      "description_brief": "A retired newsman learns from the ring and becomes obsessed with the truth.",
+      "why_recommended": "0% of gen Z users rated this 4+ stars. Average rating: 3.0/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.01,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 3.01,
+        "total_ratings": 17
+      }
+    },
+    {
+      "rank": 9,
+      "item_id": "M972",
+      "title": "ARising Night",
+      "year": 2009,
+      "director": "Ridley Scott",
+      "genre": [
+        "Animation",
+        "Drama",
+        "Romance",
+        "Music"
+      ],
+      "mood": [
+        "Charming",
+        "Violent",
+        "Powerful"
+      ],
+      "era": "2000s",
+      "description_brief": "A former hacker plants the ring and becomes obsessed with the truth.",
+      "why_recommended": "0% of gen Z users rated this 4+ stars. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.82,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 2.82,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 10,
+      "item_id": "M896",
+      "title": "AMagnificent Killer",
+      "year": 2010,
+      "director": "Ari Aster",
+      "genre": [
+        "Sport",
+        "Thriller",
+        "Action",
+        "War"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Bittersweet"
+      ],
+      "era": "Modern",
+      "description_brief": "A troubled thief plants a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "0% of gen Z users rated this 4+ stars. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.08,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 3.08,
+        "total_ratings": 19
+      }
+    },
+    {
+      "rank": 11,
+      "item_id": "M455",
+      "title": "Bad Samurai",
+      "year": 1976,
+      "director": "Francis Ford Coppola",
+      "genre": [
+        "History",
+        "Crime",
+        "War"
+      ],
+      "mood": [
+        "Psychological",
+        "Inspirational",
+        "Angry"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A retired explorer learns from dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "0% of gen Z users rated this 4+ stars. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.26,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 3.26,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 12,
+      "item_id": "M793",
+      "title": "AShawshank Fire",
+      "year": 2018,
+      "director": "Orson Welles",
+      "genre": [
+        "Fantasy",
+        "Music"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Romantic"
+      ],
+      "era": "Modern",
+      "description_brief": "A determined hacker travels through guardians and becomes obsessed with the truth.",
+      "why_recommended": "0% of gen Z users rated this 4+ stars. Average rating: 3.7/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.66,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 3.66,
+        "total_ratings": 8
+      }
+    },
+    {
+      "rank": 13,
+      "item_id": "M076",
+      "title": "TheMagnificent Dawn",
+      "year": 1991,
+      "director": "Guillermo del Toro",
+      "genre": [
+        "Music",
+        "Action",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Psychological",
+        "Philosophical",
+        "Thrilling"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A former detective escapes guardians and becomes obsessed with the truth.",
+      "why_recommended": "0% of gen Z users rated this 4+ stars. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.93,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 2.93,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 14,
+      "item_id": "M701",
+      "title": "TheVertigo Zombie",
+      "year": 1963,
+      "director": "David Fincher",
+      "genre": [
+        "Western",
+        "Comedy",
+        "War"
+      ],
+      "mood": [
+        "Hopeful",
+        "Bittersweet",
+        "Chaotic"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A former immigrant struggles mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "0% of gen Z users rated this 4+ stars. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.35,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 3.35,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 15,
+      "item_id": "M582",
+      "title": "Silent Killer",
+      "year": 1991,
+      "director": "Paul Thomas Anderson",
+      "genre": [
+        "Sport",
+        "Mystery",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Chaotic",
+        "Angry"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A bored scientist learns from a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "0% of gen Z users rated this 4+ stars. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.3,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 3.3,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 16,
+      "item_id": "M851",
+      "title": "AShining Ghost",
+      "year": 1931,
+      "director": "Greta Gerwig",
+      "genre": [
+        "Comedy",
+        "Drama",
+        "Mystery",
+        "Romance"
+      ],
+      "mood": [
+        "Witty",
+        "Angry"
+      ],
+      "era": "Classic",
+      "description_brief": "A cynical boxer fights against guardians and becomes obsessed with the truth.",
+      "why_recommended": "0% of gen Z users rated this 4+ stars. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.77,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 2.77,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 17,
+      "item_id": "M714",
+      "title": "TheDirty Eclipse",
+      "year": 2015,
+      "director": "Lilly Wachowski",
+      "genre": [
+        "Crime",
+        "Horror",
+        "Drama",
+        "Biography"
+      ],
+      "mood": [
+        "Violent",
+        "Witty"
+      ],
+      "era": "Modern",
+      "description_brief": "A retired hacker plants the ring and becomes obsessed with the truth.",
+      "why_recommended": "0% of gen Z users rated this 4+ stars. Average rating: 2.7/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.72,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.72,
+        "total_ratings": 23
+      }
+    },
+    {
+      "rank": 18,
+      "item_id": "M996",
+      "title": "AMatrix King",
+      "year": 1966,
+      "director": "Lana Wachowski",
+      "genre": [
+        "Thriller",
+        "Mystery"
+      ],
+      "mood": [
+        "Powerful",
+        "Suspenseful",
+        "Thrilling"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A bored immigrant travels through a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "0% of gen Z users rated this 4+ stars. Average rating: 3.0/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.05,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 3.05,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 19,
+      "item_id": "M041",
+      "title": "Shining Killer",
+      "year": 1923,
+      "director": "Bong Joon-ho",
+      "genre": [
+        "Sport",
+        "Thriller"
+      ],
+      "mood": [
+        "Somber",
+        "Romantic",
+        "Bittersweet"
+      ],
+      "era": "Classic",
+      "description_brief": "A troubled immigrant fights against a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "0% of gen Z users rated this 4+ stars. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.85,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.85,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 20,
+      "item_id": "M507",
+      "title": "TheMatrix Betrayal",
+      "year": 1929,
+      "director": "Ari Aster",
+      "genre": [
+        "Thriller",
+        "Mystery"
+      ],
+      "mood": [
+        "Thrilling",
+        "Witty",
+        "Hopeful"
+      ],
+      "era": "Classic",
+      "description_brief": "A brilliant boxer investigates dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "0% of gen Z users rated this 4+ stars. Average rating: 2.7/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.65,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.65,
+        "total_ratings": 13
+      }
+    }
+  ]
+}

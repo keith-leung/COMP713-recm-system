@@ -1,0 +1,13 @@
+# COMP713 Movie Recommendation System - Python 3.13
+# Only direct dependencies required by this project
+
+# For the prime (collaborative filtering) approach
+numpy>=2.0.0
+
+# For the interactive recommender (LangChain + LLM)
+langchain>=0.3.0
+langchain-openai>=0.2.0
+langchain-community>=0.3.0
+
+# For testing
+pytest>=7.0.0

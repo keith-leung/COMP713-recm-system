@@ -1,0 +1,552 @@
+{
+  "meta": {
+    "tag": "gamer",
+    "type": "segment",
+    "description": "Movies highly rated by gamer users",
+    "match_keywords": [
+      "gamer",
+      "powerful",
+      "comedy",
+      "mind-bending",
+      "music",
+      "animation",
+      "intense"
+    ],
+    "generated_at": "2026-01-26T01:44:53.773048Z",
+    "user_count_in_segment": 246,
+    "candidate_movies": 219
+  },
+  "discovery_questions": [
+    {
+      "question": "Are you interested in movies that gamer users typically enjoy?",
+      "positive_signals": [
+        "gamer",
+        "yes",
+        "interested"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M355",
+      "title": "Lost Honor",
+      "year": 1964,
+      "director": "Greta Gerwig",
+      "genre": [
+        "Music",
+        "Mystery",
+        "Crime"
+      ],
+      "mood": [
+        "Charming",
+        "Inspirational",
+        "Thrilling"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A aging hacker takes over a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "1% of gamer users rated this 4+ stars. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.27,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 3.27,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M764",
+      "title": "TheGreat King",
+      "year": 2006,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "Adventure",
+        "Biography",
+        "Action",
+        "Horror"
+      ],
+      "mood": [
+        "Hopeful",
+        "Bittersweet"
+      ],
+      "era": "2000s",
+      "description_brief": "A former explorer escapes a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "0% of gamer users rated this 4+ stars. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.32,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 3.32,
+        "total_ratings": 9
+      }
+    },
+    {
+      "rank": 3,
+      "item_id": "M361",
+      "title": "TheFinal Samurai",
+      "year": 1962,
+      "director": "Quentin Tarantino",
+      "genre": [
+        "Western",
+        "Action",
+        "Crime"
+      ],
+      "mood": [
+        "Philosophical",
+        "Somber",
+        "Inspirational"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A aging scientist learns from the ring and becomes obsessed with the truth.",
+      "why_recommended": "0% of gamer users rated this 4+ stars. Average rating: 2.5/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.48,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.48,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 4,
+      "item_id": "M801",
+      "title": "AShawshank Betrayal",
+      "year": 1977,
+      "director": "Frank Darabont",
+      "genre": [
+        "Western",
+        "Crime"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Mind-bending",
+        "Exciting"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A retired hacker travels through the ring and becomes obsessed with the truth.",
+      "why_recommended": "0% of gamer users rated this 4+ stars. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.9,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.9,
+        "total_ratings": 22
+      }
+    },
+    {
+      "rank": 5,
+      "item_id": "M932",
+      "title": "Rising Revenge",
+      "year": 1924,
+      "director": "Brian De Palma",
+      "genre": [
+        "Sci-Fi",
+        "War",
+        "Biography",
+        "Animation"
+      ],
+      "mood": [
+        "Stylish",
+        "Suspenseful",
+        "Mind-bending"
+      ],
+      "era": "Classic",
+      "description_brief": "A young boxer struggles a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "0% of gamer users rated this 4+ stars. Average rating: 2.4/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.41,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.41,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 6,
+      "item_id": "M628",
+      "title": "Final Hero",
+      "year": 1964,
+      "director": "Tim Burton",
+      "genre": [
+        "Romance",
+        "Fantasy",
+        "Music"
+      ],
+      "mood": [
+        "Charming",
+        "Chaotic"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A former boxer escapes the ring and becomes obsessed with the truth.",
+      "why_recommended": "0% of gamer users rated this 4+ stars. Average rating: 3.6/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.58,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 3.58,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 7,
+      "item_id": "M837",
+      "title": "TheFurious Revenge",
+      "year": 1944,
+      "director": "Ari Aster",
+      "genre": [
+        "Mystery",
+        "Sport",
+        "Adventure",
+        "Crime"
+      ],
+      "mood": [
+        "Somber",
+        "Bittersweet"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac newsman escapes a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "0% of gamer users rated this 4+ stars. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.14,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 3.14,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 8,
+      "item_id": "M276",
+      "title": "AMagnificent Robot",
+      "year": 1980,
+      "director": "Wes Anderson",
+      "genre": [
+        "Thriller",
+        "History",
+        "Horror",
+        "Biography"
+      ],
+      "mood": [
+        "Bittersweet",
+        "Violent",
+        "Heartwarming"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A determined thief plants the ring and becomes obsessed with the truth.",
+      "why_recommended": "0% of gamer users rated this 4+ stars. Average rating: 2.3/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.35,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.35,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 9,
+      "item_id": "M038",
+      "title": "TheBad Quest",
+      "year": 1980,
+      "director": "Greta Gerwig",
+      "genre": [
+        "War",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Violent",
+        "Intense",
+        "Philosophical"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A cynical detective investigates a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "0% of gamer users rated this 4+ stars. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.95,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.95,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 10,
+      "item_id": "M116",
+      "title": "ALost Empire",
+      "year": 1957,
+      "director": "Ari Aster",
+      "genre": [
+        "War",
+        "Crime",
+        "Sport",
+        "Drama"
+      ],
+      "mood": [
+        "Stylish",
+        "Somber",
+        "Bittersweet"
+      ],
+      "era": "Classic",
+      "description_brief": "A cynical warrior travels through guardians and becomes obsessed with the truth.",
+      "why_recommended": "0% of gamer users rated this 4+ stars. Average rating: 3.0/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.98,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.98,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 11,
+      "item_id": "M979",
+      "title": "Matrix Woman",
+      "year": 2014,
+      "director": "Lilly Wachowski",
+      "genre": [
+        "Biography",
+        "Adventure",
+        "Comedy",
+        "Music"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Bittersweet",
+        "Heartwarming"
+      ],
+      "era": "Modern",
+      "description_brief": "A aging scientist struggles guardians and becomes obsessed with the truth.",
+      "why_recommended": "0% of gamer users rated this 4+ stars. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.92,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.92,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 12,
+      "item_id": "M844",
+      "title": "Inception Battle",
+      "year": 1931,
+      "director": "Guillermo del Toro",
+      "genre": [
+        "Thriller",
+        "Action"
+      ],
+      "mood": [
+        "Romantic",
+        "Powerful",
+        "Chaotic"
+      ],
+      "era": "Classic",
+      "description_brief": "A determined hacker plants the ring and becomes obsessed with the truth.",
+      "why_recommended": "0% of gamer users rated this 4+ stars. Average rating: 2.5/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.51,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.51,
+        "total_ratings": 25
+      }
+    },
+    {
+      "rank": 13,
+      "item_id": "M187",
+      "title": "TheSecret Spy",
+      "year": 2025,
+      "director": "Bong Joon-ho",
+      "genre": [
+        "Thriller",
+        "Animation",
+        "Music",
+        "Mystery"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Intense"
+      ],
+      "era": "Modern",
+      "description_brief": "A troubled thief learns from mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "0% of gamer users rated this 4+ stars. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.14,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 3.14,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 14,
+      "item_id": "M338",
+      "title": "Dark Knight Detective",
+      "year": 2020,
+      "director": "Guillermo del Toro",
+      "genre": [
+        "Mystery",
+        "Music",
+        "Adventure",
+        "Animation"
+      ],
+      "mood": [
+        "Philosophical",
+        "Intense",
+        "Psychological"
+      ],
+      "era": "Modern",
+      "description_brief": "A insomniac thief learns from a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "0% of gamer users rated this 4+ stars. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.12,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 3.12,
+        "total_ratings": 17
+      }
+    },
+    {
+      "rank": 15,
+      "item_id": "M084",
+      "title": "TheShawshank Vampire",
+      "year": 1992,
+      "director": "Michael Curtiz",
+      "genre": [
+        "Western",
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "mood": [
+        "Powerful",
+        "Somber"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A retired immigrant escapes guardians and becomes obsessed with the truth.",
+      "why_recommended": "0% of gamer users rated this 4+ stars. Average rating: 3.6/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.61,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 3.61,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 16,
+      "item_id": "M761",
+      "title": "Dark King",
+      "year": 1944,
+      "director": "Billy Wilder",
+      "genre": [
+        "Action",
+        "Western",
+        "Romance"
+      ],
+      "mood": [
+        "Bittersweet",
+        "Angry"
+      ],
+      "era": "Classic",
+      "description_brief": "A cynical scientist travels through dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "0% of gamer users rated this 4+ stars. Average rating: 2.6/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.6,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.6,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 17,
+      "item_id": "M121",
+      "title": "Good Storm",
+      "year": 2023,
+      "director": "Stanley Kubrick",
+      "genre": [
+        "Action",
+        "Animation"
+      ],
+      "mood": [
+        "Intense",
+        "Heartwarming",
+        "Stylish"
+      ],
+      "era": "Modern",
+      "description_brief": "A young newsman investigates mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "0% of gamer users rated this 4+ stars. Average rating: 2.7/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.71,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.71,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 18,
+      "item_id": "M956",
+      "title": "Final Eclipse",
+      "year": 1931,
+      "director": "David Fincher",
+      "genre": [
+        "Animation",
+        "War",
+        "Comedy",
+        "Horror"
+      ],
+      "mood": [
+        "Serious",
+        "Psychological",
+        "Charming"
+      ],
+      "era": "Classic",
+      "description_brief": "A aging detective fights against the ring and becomes obsessed with the truth.",
+      "why_recommended": "0% of gamer users rated this 4+ stars. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.86,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.86,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 19,
+      "item_id": "M820",
+      "title": "AFinal Cop",
+      "year": 2020,
+      "director": "Bong Joon-ho",
+      "genre": [
+        "War",
+        "Adventure",
+        "Horror"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Stylish",
+        "Heartwarming"
+      ],
+      "era": "Modern",
+      "description_brief": "A former hacker struggles guardians and becomes obsessed with the truth.",
+      "why_recommended": "0% of gamer users rated this 4+ stars. Average rating: 2.5/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.53,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.53,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 20,
+      "item_id": "M151",
+      "title": "Godfather Quest",
+      "year": 2013,
+      "director": "Frank Darabont",
+      "genre": [
+        "Action",
+        "Music",
+        "Crime"
+      ],
+      "mood": [
+        "Inspirational",
+        "Mind-bending",
+        "Chaotic"
+      ],
+      "era": "Modern",
+      "description_brief": "A former scientist struggles guardians and becomes obsessed with the truth.",
+      "why_recommended": "0% of gamer users rated this 4+ stars. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.91,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.91,
+        "total_ratings": 18
+      }
+    }
+  ]
+}

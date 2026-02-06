@@ -1,0 +1,520 @@
+{
+  "meta": {
+    "tag": "60s-70s",
+    "type": "era",
+    "description": "Top movies from the 60s-70s era",
+    "match_keywords": [
+      "60s-70s",
+      "60s-70s"
+    ],
+    "generated_at": "2026-01-26T01:44:53.782484Z",
+    "candidate_movies": 195
+  },
+  "discovery_questions": [
+    {
+      "question": "Do you enjoy movies from the 60s-70s era?",
+      "positive_signals": [
+        "60s-70s",
+        "yes",
+        "love",
+        "60s-70s"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M801",
+      "title": "AShawshank Betrayal",
+      "year": 1977,
+      "director": "Frank Darabont",
+      "genre": [
+        "Western",
+        "Crime"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Mind-bending",
+        "Exciting"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A retired hacker travels through the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 60s-70s movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.9,
+        "high_rating_count": 9,
+        "total_ratings": 22
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M576",
+      "title": "AVertigo Honor",
+      "year": 1964,
+      "director": "Frank Darabont",
+      "genre": [
+        "Animation",
+        "Crime",
+        "Sport",
+        "Thriller"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Stylish",
+        "Powerful"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A troubled detective investigates a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 60s-70s movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.37,
+        "high_rating_count": 8,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 3,
+      "item_id": "M628",
+      "title": "Final Hero",
+      "year": 1964,
+      "director": "Tim Burton",
+      "genre": [
+        "Romance",
+        "Fantasy",
+        "Music"
+      ],
+      "mood": [
+        "Charming",
+        "Chaotic"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A former boxer escapes the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 60s-70s movie. Average rating: 3.6/5.0",
+      "stats": {
+        "avg_rating": 3.58,
+        "high_rating_count": 7,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 4,
+      "item_id": "M568",
+      "title": "AVertigo Pirate",
+      "year": 1964,
+      "director": "Lilly Wachowski",
+      "genre": [
+        "Adventure",
+        "Thriller",
+        "Animation"
+      ],
+      "mood": [
+        "Romantic",
+        "Serious"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A insomniac warrior learns from a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 60s-70s movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.45,
+        "high_rating_count": 7,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 5,
+      "item_id": "M701",
+      "title": "TheVertigo Zombie",
+      "year": 1963,
+      "director": "David Fincher",
+      "genre": [
+        "Western",
+        "Comedy",
+        "War"
+      ],
+      "mood": [
+        "Hopeful",
+        "Bittersweet",
+        "Chaotic"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A former immigrant struggles mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 60s-70s movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.35,
+        "high_rating_count": 7,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 6,
+      "item_id": "M434",
+      "title": "ADirty Soldier",
+      "year": 1961,
+      "director": "Wes Anderson",
+      "genre": [
+        "Mystery",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Somber"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A bored warrior fights against the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 60s-70s movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.25,
+        "high_rating_count": 7,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 7,
+      "item_id": "M399",
+      "title": "Pulp Soldier",
+      "year": 1965,
+      "director": "Tim Burton",
+      "genre": [
+        "Comedy",
+        "Fantasy",
+        "War"
+      ],
+      "mood": [
+        "Powerful",
+        "Hopeful",
+        "Psychological"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A cynical princess investigates a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 60s-70s movie. Average rating: 3.6/5.0",
+      "stats": {
+        "avg_rating": 3.6,
+        "high_rating_count": 6,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 8,
+      "item_id": "M166",
+      "title": "AGladiator Storm",
+      "year": 1972,
+      "director": "Stanley Kubrick",
+      "genre": [
+        "History",
+        "Sci-Fi",
+        "Fantasy"
+      ],
+      "mood": [
+        "Hopeful",
+        "Chaotic",
+        "Angry"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A young explorer investigates the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 60s-70s movie. Average rating: 3.5/5.0",
+      "stats": {
+        "avg_rating": 3.46,
+        "high_rating_count": 6,
+        "total_ratings": 17
+      }
+    },
+    {
+      "rank": 9,
+      "item_id": "M732",
+      "title": "TheSilent Night",
+      "year": 1967,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "Comedy",
+        "Thriller",
+        "Drama"
+      ],
+      "mood": [
+        "Emotional",
+        "Chaotic",
+        "Suspenseful"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A determined boxer takes over mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 60s-70s movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.35,
+        "high_rating_count": 6,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 10,
+      "item_id": "M355",
+      "title": "Lost Honor",
+      "year": 1964,
+      "director": "Greta Gerwig",
+      "genre": [
+        "Music",
+        "Mystery",
+        "Crime"
+      ],
+      "mood": [
+        "Charming",
+        "Inspirational",
+        "Thrilling"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A aging hacker takes over a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 60s-70s movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.27,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 11,
+      "item_id": "M070",
+      "title": "ADark Betrayal",
+      "year": 1970,
+      "director": "Billy Wilder",
+      "genre": [
+        "Sci-Fi",
+        "Fantasy",
+        "Thriller"
+      ],
+      "mood": [
+        "Intense",
+        "Thrilling",
+        "Powerful"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A troubled thief investigates guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 60s-70s movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.25,
+        "high_rating_count": 6,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 12,
+      "item_id": "M197",
+      "title": "Dark Knight Redemption",
+      "year": 1971,
+      "director": "Lana Wachowski",
+      "genre": [
+        "Thriller",
+        "Horror"
+      ],
+      "mood": [
+        "Exciting",
+        "Thrilling",
+        "Suspenseful"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A young detective fights against a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 60s-70s movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.24,
+        "high_rating_count": 6,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 13,
+      "item_id": "M755",
+      "title": "Vertigo Empire",
+      "year": 1974,
+      "director": "Ari Aster",
+      "genre": [
+        "Music",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Stylish",
+        "Romantic"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A young thief struggles a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 60s-70s movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.23,
+        "high_rating_count": 6,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 14,
+      "item_id": "M175",
+      "title": "Shining Spy",
+      "year": 1973,
+      "director": "Bong Joon-ho",
+      "genre": [
+        "Biography",
+        "Drama",
+        "Romance",
+        "Thriller"
+      ],
+      "mood": [
+        "Somber",
+        "Charming"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A retired hacker fights against the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 60s-70s movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.1,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 15,
+      "item_id": "M022",
+      "title": "ASilent Shadow",
+      "year": 1962,
+      "director": "Robert Zemeckis",
+      "genre": [
+        "Western",
+        "Drama",
+        "Biography",
+        "Adventure"
+      ],
+      "mood": [
+        "Hopeful",
+        "Philosophical",
+        "Psychological"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A aging immigrant plants a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 60s-70s movie. Average rating: 3.0/5.0",
+      "stats": {
+        "avg_rating": 3.01,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 16,
+      "item_id": "M727",
+      "title": "ABrave Samurai",
+      "year": 1973,
+      "director": "Alfred Hitchcock",
+      "genre": [
+        "Western",
+        "Crime"
+      ],
+      "mood": [
+        "Bittersweet",
+        "Suspenseful",
+        "Powerful"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A brilliant princess struggles the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 60s-70s movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.92,
+        "high_rating_count": 6,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 17,
+      "item_id": "M097",
+      "title": "APulp Man",
+      "year": 1968,
+      "director": "David Fincher",
+      "genre": [
+        "War",
+        "Animation",
+        "Mystery",
+        "Horror"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Bittersweet",
+        "Thrilling"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A young detective travels through a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 60s-70s movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.33,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 18,
+      "item_id": "M340",
+      "title": "TheDirty Woman",
+      "year": 1975,
+      "director": "Taika Waititi",
+      "genre": [
+        "Crime",
+        "Music"
+      ],
+      "mood": [
+        "Angry",
+        "Chaotic",
+        "Psychological"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A brilliant explorer escapes mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 60s-70s movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.32,
+        "high_rating_count": 5,
+        "total_ratings": 9
+      }
+    },
+    {
+      "rank": 19,
+      "item_id": "M156",
+      "title": "Shining Legend",
+      "year": 1968,
+      "director": "Steven Spielberg",
+      "genre": [
+        "Thriller",
+        "Horror"
+      ],
+      "mood": [
+        "Chaotic",
+        "Intense"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A cynical boxer struggles a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 60s-70s movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.29,
+        "high_rating_count": 5,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 20,
+      "item_id": "M619",
+      "title": "Dirty Robot",
+      "year": 1966,
+      "director": "Quentin Tarantino",
+      "genre": [
+        "Mystery",
+        "Horror",
+        "Adventure"
+      ],
+      "mood": [
+        "Inspirational",
+        "Intense",
+        "Thrilling"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A bored princess fights against a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 60s-70s movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.27,
+        "high_rating_count": 5,
+        "total_ratings": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,545 @@
+{
+  "meta": {
+    "tag": "parent",
+    "type": "segment",
+    "description": "Movies highly rated by parent users",
+    "match_keywords": [
+      "comedy",
+      "crime",
+      "romantic",
+      "drama",
+      "thrilling",
+      "intense",
+      "parent"
+    ],
+    "generated_at": "2026-01-26T01:44:53.773340Z",
+    "user_count_in_segment": 256,
+    "candidate_movies": 220
+  },
+  "discovery_questions": [
+    {
+      "question": "Are you interested in movies that parent users typically enjoy?",
+      "positive_signals": [
+        "parent",
+        "yes",
+        "interested"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M999",
+      "title": "TheGreat Killer",
+      "year": 1930,
+      "director": "Francis Ford Coppola",
+      "genre": [
+        "Drama",
+        "Sci-Fi",
+        "Action"
+      ],
+      "mood": [
+        "Philosophical",
+        "Stylish",
+        "Emotional"
+      ],
+      "era": "Classic",
+      "description_brief": "A aging immigrant escapes the ring and becomes obsessed with the truth.",
+      "why_recommended": "1% of parent users rated this 4+ stars. Average rating: 3.0/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.99,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 2.99,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M965",
+      "title": "True Killer",
+      "year": 1943,
+      "director": "Peter Jackson",
+      "genre": [
+        "Sci-Fi",
+        "Drama",
+        "Biography"
+      ],
+      "mood": [
+        "Powerful",
+        "Violent"
+      ],
+      "era": "Classic",
+      "description_brief": "A cynical thief struggles a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "1% of parent users rated this 4+ stars. Average rating: 3.6/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.59,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 3.59,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 3,
+      "item_id": "M434",
+      "title": "ADirty Soldier",
+      "year": 1961,
+      "director": "Wes Anderson",
+      "genre": [
+        "Mystery",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Somber"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A bored warrior fights against the ring and becomes obsessed with the truth.",
+      "why_recommended": "1% of parent users rated this 4+ stars. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.25,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 3.25,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 4,
+      "item_id": "M009",
+      "title": "Forrest Gump",
+      "year": 1994,
+      "director": "Robert Zemeckis",
+      "genre": [
+        "Drama",
+        "Romance"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Inspirational"
+      ],
+      "era": "90s",
+      "description_brief": "The history of the US from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns for a single goal throughout his life.",
+      "why_recommended": "0% of parent users rated this 4+ stars. Average rating: 2.3/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.31,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.31,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 5,
+      "item_id": "M326",
+      "title": "ALost Legend",
+      "year": 1937,
+      "director": "Greta Gerwig",
+      "genre": [
+        "Comedy",
+        "Adventure",
+        "Romance",
+        "History"
+      ],
+      "mood": [
+        "Violent",
+        "Chaotic",
+        "Mind-bending"
+      ],
+      "era": "Classic",
+      "description_brief": "A troubled princess investigates the ring and becomes obsessed with the truth.",
+      "why_recommended": "0% of parent users rated this 4+ stars. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.22,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 3.22,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 6,
+      "item_id": "M727",
+      "title": "ABrave Samurai",
+      "year": 1973,
+      "director": "Alfred Hitchcock",
+      "genre": [
+        "Western",
+        "Crime"
+      ],
+      "mood": [
+        "Bittersweet",
+        "Suspenseful",
+        "Powerful"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A brilliant princess struggles the ring and becomes obsessed with the truth.",
+      "why_recommended": "0% of parent users rated this 4+ stars. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.92,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.92,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 7,
+      "item_id": "M509",
+      "title": "TheTrue King",
+      "year": 1944,
+      "director": "Lilly Wachowski",
+      "genre": [
+        "Crime",
+        "Horror",
+        "Animation"
+      ],
+      "mood": [
+        "Exciting",
+        "Inspirational",
+        "Intense"
+      ],
+      "era": "Classic",
+      "description_brief": "A retired princess takes over guardians and becomes obsessed with the truth.",
+      "why_recommended": "0% of parent users rated this 4+ stars. Average rating: 3.0/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.97,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.97,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 8,
+      "item_id": "M206",
+      "title": "TheGreat Dream",
+      "year": 1945,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "Action",
+        "Horror",
+        "Crime"
+      ],
+      "mood": [
+        "Intense",
+        "Thrilling"
+      ],
+      "era": "Classic",
+      "description_brief": "A bored scientist takes over the ring and becomes obsessed with the truth.",
+      "why_recommended": "0% of parent users rated this 4+ stars. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.18,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 3.18,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 9,
+      "item_id": "M109",
+      "title": "Shawshank Vampire",
+      "year": 1998,
+      "director": "Jordan Peele",
+      "genre": [
+        "Comedy",
+        "Horror"
+      ],
+      "mood": [
+        "Psychological",
+        "Inspirational",
+        "Witty"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A brilliant explorer fights against a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "0% of parent users rated this 4+ stars. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.83,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.83,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 10,
+      "item_id": "M589",
+      "title": "TheGladiator Alien",
+      "year": 1985,
+      "director": "Alfred Hitchcock",
+      "genre": [
+        "Adventure",
+        "War",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "mood": [
+        "Violent",
+        "Emotional",
+        "Bittersweet"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A bored hacker escapes the ring and becomes obsessed with the truth.",
+      "why_recommended": "0% of parent users rated this 4+ stars. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.83,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.83,
+        "total_ratings": 17
+      }
+    },
+    {
+      "rank": 11,
+      "item_id": "M603",
+      "title": "Rising Fire",
+      "year": 1928,
+      "director": "James Cameron",
+      "genre": [
+        "Mystery",
+        "Western"
+      ],
+      "mood": [
+        "Intense",
+        "Exciting",
+        "Stylish"
+      ],
+      "era": "Classic",
+      "description_brief": "A young princess investigates the ring and becomes obsessed with the truth.",
+      "why_recommended": "0% of parent users rated this 4+ stars. Average rating: 2.7/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.72,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.72,
+        "total_ratings": 22
+      }
+    },
+    {
+      "rank": 12,
+      "item_id": "M644",
+      "title": "TheShining Ghost",
+      "year": 1963,
+      "director": "Alfred Hitchcock",
+      "genre": [
+        "Horror",
+        "Biography",
+        "Crime",
+        "War"
+      ],
+      "mood": [
+        "Chaotic",
+        "Heartwarming"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A retired thief travels through mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "0% of parent users rated this 4+ stars. Average rating: 3.0/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.0,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 3.0,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 13,
+      "item_id": "M679",
+      "title": "Rising Samurai",
+      "year": 1967,
+      "director": "Michael Curtiz",
+      "genre": [
+        "Crime",
+        "Comedy"
+      ],
+      "mood": [
+        "Exciting",
+        "Violent",
+        "Stylish"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A troubled scientist takes over a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "0% of parent users rated this 4+ stars. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.24,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 3.24,
+        "total_ratings": 7
+      }
+    },
+    {
+      "rank": 14,
+      "item_id": "M521",
+      "title": "Shining Night",
+      "year": 1953,
+      "director": "Christopher Nolan",
+      "genre": [
+        "Animation",
+        "Thriller"
+      ],
+      "mood": [
+        "Hopeful",
+        "Stylish",
+        "Chaotic"
+      ],
+      "era": "Classic",
+      "description_brief": "A brilliant hacker takes over guardians and becomes obsessed with the truth.",
+      "why_recommended": "0% of parent users rated this 4+ stars. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.92,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.92,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 15,
+      "item_id": "M445",
+      "title": "ABrave Detective",
+      "year": 1995,
+      "director": "Wes Anderson",
+      "genre": [
+        "Thriller",
+        "Crime",
+        "Animation"
+      ],
+      "mood": [
+        "Somber",
+        "Mind-bending",
+        "Emotional"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A cynical warrior travels through a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "0% of parent users rated this 4+ stars. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.1,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 3.1,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 16,
+      "item_id": "M331",
+      "title": "TheGodfather Spy",
+      "year": 1996,
+      "director": "Frank Darabont",
+      "genre": [
+        "Western",
+        "Adventure",
+        "Romance",
+        "Action"
+      ],
+      "mood": [
+        "Psychological",
+        "Intense"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A former boxer fights against the ring and becomes obsessed with the truth.",
+      "why_recommended": "0% of parent users rated this 4+ stars. Average rating: 2.4/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.43,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.43,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 17,
+      "item_id": "M212",
+      "title": "Final Eclipse",
+      "year": 1961,
+      "director": "Michael Curtiz",
+      "genre": [
+        "Thriller",
+        "Adventure",
+        "Horror"
+      ],
+      "mood": [
+        "Somber",
+        "Hopeful",
+        "Angry"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A former hacker takes over mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "0% of parent users rated this 4+ stars. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.07,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 3.07,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 18,
+      "item_id": "M754",
+      "title": "Shining Robot",
+      "year": 2017,
+      "director": "Lana Wachowski",
+      "genre": [
+        "Animation",
+        "Drama",
+        "War",
+        "Romance"
+      ],
+      "mood": [
+        "Angry",
+        "Thrilling"
+      ],
+      "era": "Modern",
+      "description_brief": "A insomniac immigrant fights against a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "0% of parent users rated this 4+ stars. Average rating: 2.7/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.7,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.7,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 19,
+      "item_id": "M199",
+      "title": "TheMatrix Soldier",
+      "year": 1958,
+      "director": "Frank Darabont",
+      "genre": [
+        "Action",
+        "Animation",
+        "History",
+        "Mystery"
+      ],
+      "mood": [
+        "Charming",
+        "Serious",
+        "Romantic"
+      ],
+      "era": "Classic",
+      "description_brief": "A bored detective travels through a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "0% of parent users rated this 4+ stars. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.89,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.89,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 20,
+      "item_id": "M094",
+      "title": "Falling Killer",
+      "year": 1941,
+      "director": "Orson Welles",
+      "genre": [
+        "Western",
+        "Biography",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Romantic",
+        "Philosophical",
+        "Witty"
+      ],
+      "era": "Classic",
+      "description_brief": "A former thief plants dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "0% of parent users rated this 4+ stars. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.82,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.82,
+        "total_ratings": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "tag": "relaxing",
+    "type": "mood",
+    "description": "Movies perfect for a relaxing mood",
+    "match_keywords": [
+      "relaxing",
+      "Charming",
+      "Romantic",
+      "Heartwarming",
+      "Witty"
+    ],
+    "generated_at": "2026-01-26T01:44:53.775918Z",
+    "candidate_movies": 421
+  },
+  "discovery_questions": [
+    {
+      "question": "Are you in the mood for something relaxing?",
+      "positive_signals": [
+        "relaxing",
+        "yes",
+        "charming",
+        "romantic",
+        "heartwarming",
+        "witty"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M611",
+      "title": "ASilent Battle",
+      "year": 1927,
+      "director": "James Cameron",
+      "genre": [
+        "Sport",
+        "Drama",
+        "Thriller"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Hopeful",
+        "Serious"
+      ],
+      "era": "Classic",
+      "description_brief": "A former newsman learns from a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a relaxing mood. Rated 3.2/5.0 by 18 users.",
+      "stats": {
+        "avg_rating": 3.2,
+        "high_rating_count": 9,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M801",
+      "title": "AShawshank Betrayal",
+      "year": 1977,
+      "director": "Frank Darabont",
+      "genre": [
+        "Western",
+        "Crime"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Mind-bending",
+        "Exciting"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A retired hacker travels through the ring and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a relaxing mood. Rated 2.9/5.0 by 22 users.",
+      "stats": {
+        "avg_rating": 2.9,
+        "high_rating_count": 9,
+        "total_ratings": 22
+      }
+    },
+    {
+      "rank": 3,
+      "item_id": "M576",
+      "title": "AVertigo Honor",
+      "year": 1964,
+      "director": "Frank Darabont",
+      "genre": [
+        "Animation",
+        "Crime",
+        "Sport",
+        "Thriller"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Stylish",
+        "Powerful"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A troubled detective investigates a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a relaxing mood. Rated 3.4/5.0 by 15 users.",
+      "stats": {
+        "avg_rating": 3.37,
+        "high_rating_count": 8,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 4,
+      "item_id": "M110",
+      "title": "TheInterstellar City",
+      "year": 1935,
+      "director": "Orson Welles",
+      "genre": [
+        "Western",
+        "Mystery",
+        "Comedy",
+        "Music"
+      ],
+      "mood": [
+        "Stylish",
+        "Charming"
+      ],
+      "era": "Classic",
+      "description_brief": "A former boxer plants a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a relaxing mood. Rated 3.2/5.0 by 19 users.",
+      "stats": {
+        "avg_rating": 3.24,
+        "high_rating_count": 8,
+        "total_ratings": 19
+      }
+    },
+    {
+      "rank": 5,
+      "item_id": "M677",
+      "title": "Good King",
+      "year": 2007,
+      "director": "James Cameron",
+      "genre": [
+        "Thriller",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Charming",
+        "Angry"
+      ],
+      "era": "2000s",
+      "description_brief": "A young newsman plants the ring and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a relaxing mood. Rated 3.2/5.0 by 19 users.",
+      "stats": {
+        "avg_rating": 3.16,
+        "high_rating_count": 8,
+        "total_ratings": 19
+      }
+    },
+    {
+      "rank": 6,
+      "item_id": "M628",
+      "title": "Final Hero",
+      "year": 1964,
+      "director": "Tim Burton",
+      "genre": [
+        "Romance",
+        "Fantasy",
+        "Music"
+      ],
+      "mood": [
+        "Charming",
+        "Chaotic"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A former boxer escapes the ring and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a relaxing mood. Rated 3.6/5.0 by 16 users.",
+      "stats": {
+        "avg_rating": 3.58,
+        "high_rating_count": 7,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 7,
+      "item_id": "M568",
+      "title": "AVertigo Pirate",
+      "year": 1964,
+      "director": "Lilly Wachowski",
+      "genre": [
+        "Adventure",
+        "Thriller",
+        "Animation"
+      ],
+      "mood": [
+        "Romantic",
+        "Serious"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A insomniac warrior learns from a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a relaxing mood. Rated 3.4/5.0 by 13 users.",
+      "stats": {
+        "avg_rating": 3.45,
+        "high_rating_count": 7,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 8,
+      "item_id": "M434",
+      "title": "ADirty Soldier",
+      "year": 1961,
+      "director": "Wes Anderson",
+      "genre": [
+        "Mystery",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Somber"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A bored warrior fights against the ring and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a relaxing mood. Rated 3.2/5.0 by 20 users.",
+      "stats": {
+        "avg_rating": 3.25,
+        "high_rating_count": 7,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 9,
+      "item_id": "M398",
+      "title": "TheShawshank Soldier",
+      "year": 1937,
+      "director": "Peter Jackson",
+      "genre": [
+        "Comedy",
+        "Sci-Fi",
+        "Biography"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Philosophical"
+      ],
+      "era": "Classic",
+      "description_brief": "A bored explorer investigates a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a relaxing mood. Rated 3.2/5.0 by 18 users.",
+      "stats": {
+        "avg_rating": 3.16,
+        "high_rating_count": 7,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 10,
+      "item_id": "M786",
+      "title": "TheSilent Vampire",
+      "year": 1939,
+      "director": "David Fincher",
+      "genre": [
+        "Mystery",
+        "Western",
+        "Horror"
+      ],
+      "mood": [
+        "Romantic",
+        "Philosophical"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac princess fights against mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a relaxing mood. Rated 2.8/5.0 by 20 users.",
+      "stats": {
+        "avg_rating": 2.79,
+        "high_rating_count": 7,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 11,
+      "item_id": "M730",
+      "title": "TheDark Revenge",
+      "year": 1936,
+      "director": "Steven Spielberg",
+      "genre": [
+        "Sci-Fi",
+        "Animation",
+        "Fantasy"
+      ],
+      "mood": [
+        "Intense",
+        "Romantic"
+      ],
+      "era": "Classic",
+      "description_brief": "A brilliant explorer plants the ring and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a relaxing mood. Rated 2.8/5.0 by 19 users.",
+      "stats": {
+        "avg_rating": 2.79,
+        "high_rating_count": 7,
+        "total_ratings": 19
+      }
+    },
+    {
+      "rank": 12,
+      "item_id": "M343",
+      "title": "ARising Detective",
+      "year": 1993,
+      "director": "Taika Waititi",
+      "genre": [
+        "War",
+        "Biography",
+        "Comedy",
+        "Music"
+      ],
+      "mood": [
+        "Emotional",
+        "Heartwarming"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A determined scientist plants dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a relaxing mood. Rated 3.4/5.0 by 11 users.",
+      "stats": {
+        "avg_rating": 3.45,
+        "high_rating_count": 6,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 13,
+      "item_id": "M056",
+      "title": "ABrave Quest",
+      "year": 2000,
+      "director": "Tim Burton",
+      "genre": [
+        "Thriller",
+        "History",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Hopeful",
+        "Romantic",
+        "Exciting"
+      ],
+      "era": "2000s",
+      "description_brief": "A troubled princess investigates a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a relaxing mood. Rated 3.4/5.0 by 15 users.",
+      "stats": {
+        "avg_rating": 3.42,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 14,
+      "item_id": "M718",
+      "title": "AGladiator Alien",
+      "year": 1931,
+      "director": "Christopher Nolan",
+      "genre": [
+        "Fantasy",
+        "Comedy",
+        "Biography",
+        "Sport"
+      ],
+      "mood": [
+        "Angry",
+        "Thrilling",
+        "Witty"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac warrior struggles guardians and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a relaxing mood. Rated 3.4/5.0 by 13 users.",
+      "stats": {
+        "avg_rating": 3.38,
+        "high_rating_count": 6,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 15,
+      "item_id": "M488",
+      "title": "ATrue Vampire",
+      "year": 1957,
+      "director": "Paul Thomas Anderson",
+      "genre": [
+        "History",
+        "Comedy",
+        "Crime"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Thrilling",
+        "Romantic"
+      ],
+      "era": "Classic",
+      "description_brief": "A brilliant immigrant travels through a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a relaxing mood. Rated 3.3/5.0 by 15 users.",
+      "stats": {
+        "avg_rating": 3.33,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 16,
+      "item_id": "M548",
+      "title": "TheGreat Storm",
+      "year": 1929,
+      "director": "Alfred Hitchcock",
+      "genre": [
+        "Mystery",
+        "Biography",
+        "Crime",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Witty",
+        "Inspirational",
+        "Thrilling"
+      ],
+      "era": "Classic",
+      "description_brief": "A bored boxer investigates a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a relaxing mood. Rated 3.3/5.0 by 14 users.",
+      "stats": {
+        "avg_rating": 3.33,
+        "high_rating_count": 6,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 17,
+      "item_id": "M558",
+      "title": "Dark Night",
+      "year": 1944,
+      "director": "Robert Zemeckis",
+      "genre": [
+        "Animation",
+        "Horror",
+        "Mystery"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Exciting",
+        "Witty"
+      ],
+      "era": "Classic",
+      "description_brief": "A bored hacker struggles a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a relaxing mood. Rated 3.3/5.0 by 14 users.",
+      "stats": {
+        "avg_rating": 3.29,
+        "high_rating_count": 6,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 18,
+      "item_id": "M355",
+      "title": "Lost Honor",
+      "year": 1964,
+      "director": "Greta Gerwig",
+      "genre": [
+        "Music",
+        "Mystery",
+        "Crime"
+      ],
+      "mood": [
+        "Charming",
+        "Inspirational",
+        "Thrilling"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A aging hacker takes over a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a relaxing mood. Rated 3.3/5.0 by 15 users.",
+      "stats": {
+        "avg_rating": 3.27,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 19,
+      "item_id": "M304",
+      "title": "TheRising Woman",
+      "year": 2012,
+      "director": "Jordan Peele",
+      "genre": [
+        "Animation",
+        "Sport"
+      ],
+      "mood": [
+        "Thrilling",
+        "Witty"
+      ],
+      "era": "Modern",
+      "description_brief": "A young princess investigates the ring and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a relaxing mood. Rated 3.3/5.0 by 15 users.",
+      "stats": {
+        "avg_rating": 3.27,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 20,
+      "item_id": "M555",
+      "title": "TheFalling Wizard",
+      "year": 1957,
+      "director": "Jordan Peele",
+      "genre": [
+        "Comedy",
+        "Adventure",
+        "Crime",
+        "War"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Bittersweet"
+      ],
+      "era": "Classic",
+      "description_brief": "A troubled hacker escapes mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Perfect for a relaxing mood. Rated 3.3/5.0 by 14 users.",
+      "stats": {
+        "avg_rating": 3.26,
+        "high_rating_count": 6,
+        "total_ratings": 14
+      }
+    }
+  ]
+}

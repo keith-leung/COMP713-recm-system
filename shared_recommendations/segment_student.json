@@ -1,0 +1,536 @@
+{
+  "meta": {
+    "tag": "student",
+    "type": "segment",
+    "description": "Movies highly rated by student users",
+    "match_keywords": [
+      "sci-fi",
+      "emotional",
+      "romantic",
+      "thrilling",
+      "student",
+      "thriller",
+      "music"
+    ],
+    "generated_at": "2026-01-26T01:44:53.773594Z",
+    "user_count_in_segment": 261,
+    "candidate_movies": 213
+  },
+  "discovery_questions": [
+    {
+      "question": "Are you interested in movies that student users typically enjoy?",
+      "positive_signals": [
+        "student",
+        "yes",
+        "interested"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M262",
+      "title": "TheGood Robot",
+      "year": 1987,
+      "director": "Taika Waititi",
+      "genre": [
+        "Sci-Fi",
+        "Thriller",
+        "Action"
+      ],
+      "mood": [
+        "Thrilling",
+        "Chaotic"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A troubled detective travels through dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "1% of student users rated this 4+ stars. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.91,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 2.91,
+        "total_ratings": 17
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M755",
+      "title": "Vertigo Empire",
+      "year": 1974,
+      "director": "Ari Aster",
+      "genre": [
+        "Music",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Stylish",
+        "Romantic"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A young thief struggles a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "1% of student users rated this 4+ stars. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.23,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 3.23,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 3,
+      "item_id": "M502",
+      "title": "TheBrave Redemption",
+      "year": 1967,
+      "director": "Guillermo del Toro",
+      "genre": [
+        "Music",
+        "Comedy",
+        "Biography",
+        "Horror"
+      ],
+      "mood": [
+        "Romantic",
+        "Mind-bending"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A troubled hacker plants mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "0% of student users rated this 4+ stars. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.79,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.79,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 4,
+      "item_id": "M734",
+      "title": "ALost Legend",
+      "year": 1964,
+      "director": "Greta Gerwig",
+      "genre": [
+        "Romance",
+        "History"
+      ],
+      "mood": [
+        "Romantic",
+        "Philosophical"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A aging warrior struggles a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "0% of student users rated this 4+ stars. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.07,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 3.07,
+        "total_ratings": 10
+      }
+    },
+    {
+      "rank": 5,
+      "item_id": "M164",
+      "title": "Interstellar Shadow",
+      "year": 1957,
+      "director": "Stanley Kubrick",
+      "genre": [
+        "Thriller",
+        "Action"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Exciting"
+      ],
+      "era": "Classic",
+      "description_brief": "A cynical scientist travels through a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "0% of student users rated this 4+ stars. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.9,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.9,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 6,
+      "item_id": "M804",
+      "title": "Brave City",
+      "year": 1985,
+      "director": "Lana Wachowski",
+      "genre": [
+        "Biography",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Bittersweet",
+        "Somber"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A cynical explorer plants a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "0% of student users rated this 4+ stars. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.92,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.92,
+        "total_ratings": 9
+      }
+    },
+    {
+      "rank": 7,
+      "item_id": "M029",
+      "title": "Matrix Honor",
+      "year": 1935,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "Biography",
+        "Action",
+        "History"
+      ],
+      "mood": [
+        "Thrilling",
+        "Psychological"
+      ],
+      "era": "Classic",
+      "description_brief": "A troubled explorer plants a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "0% of student users rated this 4+ stars. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.1,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 3.1,
+        "total_ratings": 8
+      }
+    },
+    {
+      "rank": 8,
+      "item_id": "M203",
+      "title": "True Monster",
+      "year": 2012,
+      "director": "Taika Waititi",
+      "genre": [
+        "Comedy",
+        "History",
+        "Romance"
+      ],
+      "mood": [
+        "Thrilling",
+        "Angry",
+        "Philosophical"
+      ],
+      "era": "Modern",
+      "description_brief": "A determined immigrant learns from a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "0% of student users rated this 4+ stars. Average rating: 2.6/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.63,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.63,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 9,
+      "item_id": "M594",
+      "title": "Bad Hero",
+      "year": 1977,
+      "director": "Christopher Nolan",
+      "genre": [
+        "Music",
+        "Romance",
+        "Animation",
+        "Biography"
+      ],
+      "mood": [
+        "Intense",
+        "Violent"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A determined scientist travels through mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "0% of student users rated this 4+ stars. Average rating: 2.4/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.4,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.4,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 10,
+      "item_id": "M914",
+      "title": "Falling Man",
+      "year": 1970,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "Music",
+        "Drama"
+      ],
+      "mood": [
+        "Violent",
+        "Thrilling",
+        "Inspirational"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A cynical newsman travels through a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "0% of student users rated this 4+ stars. Average rating: 2.5/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.53,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.53,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 11,
+      "item_id": "M434",
+      "title": "ADirty Soldier",
+      "year": 1961,
+      "director": "Wes Anderson",
+      "genre": [
+        "Mystery",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Somber"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A bored warrior fights against the ring and becomes obsessed with the truth.",
+      "why_recommended": "0% of student users rated this 4+ stars. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.25,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 3.25,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 12,
+      "item_id": "M881",
+      "title": "TheFurious Vampire",
+      "year": 1974,
+      "director": "Taika Waititi",
+      "genre": [
+        "Comedy",
+        "War"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Serious",
+        "Emotional"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A determined princess escapes a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "0% of student users rated this 4+ stars. Average rating: 2.7/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.7,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.7,
+        "total_ratings": 10
+      }
+    },
+    {
+      "rank": 13,
+      "item_id": "M661",
+      "title": "ARising Cop",
+      "year": 2009,
+      "director": "Lilly Wachowski",
+      "genre": [
+        "Horror",
+        "Music",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Serious",
+        "Suspenseful"
+      ],
+      "era": "2000s",
+      "description_brief": "A brilliant warrior plants a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "0% of student users rated this 4+ stars. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.35,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 3.35,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 14,
+      "item_id": "M983",
+      "title": "TheSilent Honor",
+      "year": 1998,
+      "director": "Robert Zemeckis",
+      "genre": [
+        "Western",
+        "Crime"
+      ],
+      "mood": [
+        "Witty",
+        "Philosophical",
+        "Inspirational"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A retired newsman investigates dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "0% of student users rated this 4+ stars. Average rating: 2.5/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.49,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.49,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 15,
+      "item_id": "M728",
+      "title": "TheFight Club City",
+      "year": 1955,
+      "director": "David Fincher",
+      "genre": [
+        "Sci-Fi",
+        "Thriller",
+        "Animation"
+      ],
+      "mood": [
+        "Philosophical",
+        "Powerful"
+      ],
+      "era": "Classic",
+      "description_brief": "A determined detective investigates guardians and becomes obsessed with the truth.",
+      "why_recommended": "0% of student users rated this 4+ stars. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.14,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 3.14,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 16,
+      "item_id": "M404",
+      "title": "TheSilent Night",
+      "year": 1997,
+      "director": "Jordan Peele",
+      "genre": [
+        "Adventure",
+        "War",
+        "Comedy"
+      ],
+      "mood": [
+        "Hopeful",
+        "Inspirational"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A troubled warrior takes over mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "0% of student users rated this 4+ stars. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.22,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 3.22,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 17,
+      "item_id": "M331",
+      "title": "TheGodfather Spy",
+      "year": 1996,
+      "director": "Frank Darabont",
+      "genre": [
+        "Western",
+        "Adventure",
+        "Romance",
+        "Action"
+      ],
+      "mood": [
+        "Psychological",
+        "Intense"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A former boxer fights against the ring and becomes obsessed with the truth.",
+      "why_recommended": "0% of student users rated this 4+ stars. Average rating: 2.4/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.43,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.43,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 18,
+      "item_id": "M827",
+      "title": "ADark Knight Eclipse",
+      "year": 2011,
+      "director": "Bong Joon-ho",
+      "genre": [
+        "Biography",
+        "Thriller"
+      ],
+      "mood": [
+        "Somber",
+        "Mind-bending"
+      ],
+      "era": "Modern",
+      "description_brief": "A young immigrant escapes a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "0% of student users rated this 4+ stars. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.05,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 3.05,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 19,
+      "item_id": "M533",
+      "title": "Inception Legend",
+      "year": 1920,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "Horror",
+        "Sport",
+        "Biography"
+      ],
+      "mood": [
+        "Serious",
+        "Powerful",
+        "Inspirational"
+      ],
+      "era": "Classic",
+      "description_brief": "A brilliant scientist fights against a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "0% of student users rated this 4+ stars. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.82,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.82,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 20,
+      "item_id": "M051",
+      "title": "TheVertigo Killer",
+      "year": 2000,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "Action",
+        "Horror",
+        "Music"
+      ],
+      "mood": [
+        "Romantic",
+        "Chaotic",
+        "Philosophical"
+      ],
+      "era": "2000s",
+      "description_brief": "A aging hacker investigates mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "0% of student users rated this 4+ stars. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.81,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.81,
+        "total_ratings": 19
+      }
+    }
+  ]
+}

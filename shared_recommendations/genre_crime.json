@@ -1,0 +1,525 @@
+{
+  "meta": {
+    "tag": "Crime",
+    "type": "genre",
+    "description": "Top Crime movies",
+    "match_keywords": [
+      "crime",
+      "Crime"
+    ],
+    "generated_at": "2026-01-26T01:44:53.777916Z",
+    "candidate_movies": 167
+  },
+  "discovery_questions": [
+    {
+      "question": "Do you enjoy Crime movies?",
+      "positive_signals": [
+        "crime",
+        "yes",
+        "love",
+        "Crime"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M801",
+      "title": "AShawshank Betrayal",
+      "year": 1977,
+      "director": "Frank Darabont",
+      "genre": [
+        "Western",
+        "Crime"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Mind-bending",
+        "Exciting"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A retired hacker travels through the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Crime movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.9,
+        "high_rating_count": 9,
+        "total_ratings": 22
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M576",
+      "title": "AVertigo Honor",
+      "year": 1964,
+      "director": "Frank Darabont",
+      "genre": [
+        "Animation",
+        "Crime",
+        "Sport",
+        "Thriller"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Stylish",
+        "Powerful"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A troubled detective investigates a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Crime movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.37,
+        "high_rating_count": 8,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 3,
+      "item_id": "M837",
+      "title": "TheFurious Revenge",
+      "year": 1944,
+      "director": "Ari Aster",
+      "genre": [
+        "Mystery",
+        "Sport",
+        "Adventure",
+        "Crime"
+      ],
+      "mood": [
+        "Somber",
+        "Bittersweet"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac newsman escapes a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Crime movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.14,
+        "high_rating_count": 8,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 4,
+      "item_id": "M869",
+      "title": "AInception Soldier",
+      "year": 2012,
+      "director": "Steven Spielberg",
+      "genre": [
+        "Comedy",
+        "Action",
+        "Drama",
+        "Crime"
+      ],
+      "mood": [
+        "Inspirational",
+        "Chaotic",
+        "Intense"
+      ],
+      "era": "Modern",
+      "description_brief": "A cynical princess investigates guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Crime movie. Average rating: 3.7/5.0",
+      "stats": {
+        "avg_rating": 3.66,
+        "high_rating_count": 7,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 5,
+      "item_id": "M717",
+      "title": "TheSecret Blood",
+      "year": 1942,
+      "director": "Ari Aster",
+      "genre": [
+        "Thriller",
+        "Crime",
+        "War",
+        "Animation"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Thrilling",
+        "Serious"
+      ],
+      "era": "Classic",
+      "description_brief": "A brilliant thief plants guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Crime movie. Average rating: 3.6/5.0",
+      "stats": {
+        "avg_rating": 3.59,
+        "high_rating_count": 7,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 6,
+      "item_id": "M488",
+      "title": "ATrue Vampire",
+      "year": 1957,
+      "director": "Paul Thomas Anderson",
+      "genre": [
+        "History",
+        "Comedy",
+        "Crime"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Thrilling",
+        "Romantic"
+      ],
+      "era": "Classic",
+      "description_brief": "A brilliant immigrant travels through a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Crime movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.33,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 7,
+      "item_id": "M548",
+      "title": "TheGreat Storm",
+      "year": 1929,
+      "director": "Alfred Hitchcock",
+      "genre": [
+        "Mystery",
+        "Biography",
+        "Crime",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Witty",
+        "Inspirational",
+        "Thrilling"
+      ],
+      "era": "Classic",
+      "description_brief": "A bored boxer investigates a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Crime movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.33,
+        "high_rating_count": 6,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 8,
+      "item_id": "M355",
+      "title": "Lost Honor",
+      "year": 1964,
+      "director": "Greta Gerwig",
+      "genre": [
+        "Music",
+        "Mystery",
+        "Crime"
+      ],
+      "mood": [
+        "Charming",
+        "Inspirational",
+        "Thrilling"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A aging hacker takes over a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Crime movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.27,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 9,
+      "item_id": "M555",
+      "title": "TheFalling Wizard",
+      "year": 1957,
+      "director": "Jordan Peele",
+      "genre": [
+        "Comedy",
+        "Adventure",
+        "Crime",
+        "War"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Bittersweet"
+      ],
+      "era": "Classic",
+      "description_brief": "A troubled hacker escapes mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Crime movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.26,
+        "high_rating_count": 6,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 10,
+      "item_id": "M945",
+      "title": "TheShawshank Robot",
+      "year": 1990,
+      "director": "Guillermo del Toro",
+      "genre": [
+        "Crime",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Chaotic",
+        "Serious",
+        "Exciting"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A bored hacker escapes the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Crime movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.24,
+        "high_rating_count": 6,
+        "total_ratings": 19
+      }
+    },
+    {
+      "rank": 11,
+      "item_id": "M445",
+      "title": "ABrave Detective",
+      "year": 1995,
+      "director": "Wes Anderson",
+      "genre": [
+        "Thriller",
+        "Crime",
+        "Animation"
+      ],
+      "mood": [
+        "Somber",
+        "Mind-bending",
+        "Emotional"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A cynical warrior travels through a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Crime movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.1,
+        "high_rating_count": 6,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 12,
+      "item_id": "M727",
+      "title": "ABrave Samurai",
+      "year": 1973,
+      "director": "Alfred Hitchcock",
+      "genre": [
+        "Western",
+        "Crime"
+      ],
+      "mood": [
+        "Bittersweet",
+        "Suspenseful",
+        "Powerful"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A brilliant princess struggles the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Crime movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.92,
+        "high_rating_count": 6,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 13,
+      "item_id": "M151",
+      "title": "Godfather Quest",
+      "year": 2013,
+      "director": "Frank Darabont",
+      "genre": [
+        "Action",
+        "Music",
+        "Crime"
+      ],
+      "mood": [
+        "Inspirational",
+        "Mind-bending",
+        "Chaotic"
+      ],
+      "era": "Modern",
+      "description_brief": "A former scientist struggles guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Crime movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.91,
+        "high_rating_count": 6,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 14,
+      "item_id": "M662",
+      "title": "Silent Cop",
+      "year": 1957,
+      "director": "Michael Curtiz",
+      "genre": [
+        "Western",
+        "Mystery",
+        "Action",
+        "Crime"
+      ],
+      "mood": [
+        "Powerful",
+        "Chaotic"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac princess fights against the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Crime movie. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating": 2.8,
+        "high_rating_count": 6,
+        "total_ratings": 22
+      }
+    },
+    {
+      "rank": 15,
+      "item_id": "M586",
+      "title": "TheSilent Samurai",
+      "year": 2010,
+      "director": "Billy Wilder",
+      "genre": [
+        "War",
+        "Comedy",
+        "Crime",
+        "Romance"
+      ],
+      "mood": [
+        "Somber",
+        "Bittersweet",
+        "Suspenseful"
+      ],
+      "era": "Modern",
+      "description_brief": "A retired thief escapes a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Crime movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.36,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 16,
+      "item_id": "M340",
+      "title": "TheDirty Woman",
+      "year": 1975,
+      "director": "Taika Waititi",
+      "genre": [
+        "Crime",
+        "Music"
+      ],
+      "mood": [
+        "Angry",
+        "Chaotic",
+        "Psychological"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A brilliant explorer escapes mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Crime movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.32,
+        "high_rating_count": 5,
+        "total_ratings": 9
+      }
+    },
+    {
+      "rank": 17,
+      "item_id": "M455",
+      "title": "Bad Samurai",
+      "year": 1976,
+      "director": "Francis Ford Coppola",
+      "genre": [
+        "History",
+        "Crime",
+        "War"
+      ],
+      "mood": [
+        "Psychological",
+        "Inspirational",
+        "Angry"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A retired explorer learns from dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Crime movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.26,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 18,
+      "item_id": "M004",
+      "title": "Goodfellas",
+      "year": 1990,
+      "director": "Martin Scorsese",
+      "genre": [
+        "Crime",
+        "Drama",
+        "Biography"
+      ],
+      "mood": [
+        "Exciting",
+        "Violent"
+      ],
+      "era": "90s",
+      "description_brief": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+      "why_recommended": "Top-rated Crime movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.26,
+        "high_rating_count": 5,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 19,
+      "item_id": "M800",
+      "title": "Silent Soldier",
+      "year": 2015,
+      "director": "Robert Zemeckis",
+      "genre": [
+        "Crime",
+        "Action"
+      ],
+      "mood": [
+        "Somber",
+        "Suspenseful",
+        "Bittersweet"
+      ],
+      "era": "Modern",
+      "description_brief": "A aging warrior takes over dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Crime movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.25,
+        "high_rating_count": 5,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 20,
+      "item_id": "M189",
+      "title": "TheTrue Legend",
+      "year": 2022,
+      "director": "Jordan Peele",
+      "genre": [
+        "Mystery",
+        "Sci-Fi",
+        "Music",
+        "Crime"
+      ],
+      "mood": [
+        "Serious",
+        "Philosophical"
+      ],
+      "era": "Modern",
+      "description_brief": "A troubled warrior fights against a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Crime movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.23,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,524 @@
+{
+  "meta": {
+    "tag": "Sport",
+    "type": "genre",
+    "description": "Top Sport movies",
+    "match_keywords": [
+      "sport",
+      "Sport"
+    ],
+    "generated_at": "2026-01-26T01:44:53.778634Z",
+    "candidate_movies": 139
+  },
+  "discovery_questions": [
+    {
+      "question": "Do you enjoy Sport movies?",
+      "positive_signals": [
+        "sport",
+        "yes",
+        "love",
+        "Sport"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M582",
+      "title": "Silent Killer",
+      "year": 1991,
+      "director": "Paul Thomas Anderson",
+      "genre": [
+        "Sport",
+        "Mystery",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Chaotic",
+        "Angry"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A bored scientist learns from a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Sport movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.3,
+        "high_rating_count": 9,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M611",
+      "title": "ASilent Battle",
+      "year": 1927,
+      "director": "James Cameron",
+      "genre": [
+        "Sport",
+        "Drama",
+        "Thriller"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Hopeful",
+        "Serious"
+      ],
+      "era": "Classic",
+      "description_brief": "A former newsman learns from a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Sport movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.2,
+        "high_rating_count": 9,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 3,
+      "item_id": "M576",
+      "title": "AVertigo Honor",
+      "year": 1964,
+      "director": "Frank Darabont",
+      "genre": [
+        "Animation",
+        "Crime",
+        "Sport",
+        "Thriller"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Stylish",
+        "Powerful"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A troubled detective investigates a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Sport movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.37,
+        "high_rating_count": 8,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 4,
+      "item_id": "M837",
+      "title": "TheFurious Revenge",
+      "year": 1944,
+      "director": "Ari Aster",
+      "genre": [
+        "Mystery",
+        "Sport",
+        "Adventure",
+        "Crime"
+      ],
+      "mood": [
+        "Somber",
+        "Bittersweet"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac newsman escapes a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Sport movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.14,
+        "high_rating_count": 8,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 5,
+      "item_id": "M411",
+      "title": "TheFinal Pirate",
+      "year": 1998,
+      "director": "Bong Joon-ho",
+      "genre": [
+        "Comedy",
+        "Sport"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Powerful",
+        "Bittersweet"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A brilliant newsman investigates dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Sport movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.44,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 6,
+      "item_id": "M718",
+      "title": "AGladiator Alien",
+      "year": 1931,
+      "director": "Christopher Nolan",
+      "genre": [
+        "Fantasy",
+        "Comedy",
+        "Biography",
+        "Sport"
+      ],
+      "mood": [
+        "Angry",
+        "Thrilling",
+        "Witty"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac warrior struggles guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Sport movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.38,
+        "high_rating_count": 6,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 7,
+      "item_id": "M304",
+      "title": "TheRising Woman",
+      "year": 2012,
+      "director": "Jordan Peele",
+      "genre": [
+        "Animation",
+        "Sport"
+      ],
+      "mood": [
+        "Thrilling",
+        "Witty"
+      ],
+      "era": "Modern",
+      "description_brief": "A young princess investigates the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Sport movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.27,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 8,
+      "item_id": "M896",
+      "title": "AMagnificent Killer",
+      "year": 2010,
+      "director": "Ari Aster",
+      "genre": [
+        "Sport",
+        "Thriller",
+        "Action",
+        "War"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Bittersweet"
+      ],
+      "era": "Modern",
+      "description_brief": "A troubled thief plants a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Sport movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.08,
+        "high_rating_count": 6,
+        "total_ratings": 19
+      }
+    },
+    {
+      "rank": 9,
+      "item_id": "M308",
+      "title": "Fight Club War",
+      "year": 2003,
+      "director": "Martin Scorsese",
+      "genre": [
+        "Horror",
+        "Sport",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Thrilling",
+        "Inspirational"
+      ],
+      "era": "2000s",
+      "description_brief": "A bored boxer fights against the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Sport movie. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating": 2.79,
+        "high_rating_count": 6,
+        "total_ratings": 25
+      }
+    },
+    {
+      "rank": 10,
+      "item_id": "M437",
+      "title": "TheInception City",
+      "year": 2006,
+      "director": "Michael Curtiz",
+      "genre": [
+        "Romance",
+        "Sci-Fi",
+        "Adventure",
+        "Sport"
+      ],
+      "mood": [
+        "Romantic",
+        "Inspirational",
+        "Hopeful"
+      ],
+      "era": "2000s",
+      "description_brief": "A cynical immigrant takes over a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Sport movie. Average rating: 2.5/5.0",
+      "stats": {
+        "avg_rating": 2.51,
+        "high_rating_count": 6,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 11,
+      "item_id": "M581",
+      "title": "TheMatrix Spy",
+      "year": 2008,
+      "director": "Billy Wilder",
+      "genre": [
+        "History",
+        "Sport"
+      ],
+      "mood": [
+        "Exciting",
+        "Charming",
+        "Violent"
+      ],
+      "era": "2000s",
+      "description_brief": "A former princess learns from mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Sport movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.4,
+        "high_rating_count": 5,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 12,
+      "item_id": "M805",
+      "title": "AShining Man",
+      "year": 1972,
+      "director": "Taika Waititi",
+      "genre": [
+        "Sport",
+        "History",
+        "Animation"
+      ],
+      "mood": [
+        "Angry",
+        "Suspenseful",
+        "Violent"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A aging boxer travels through dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Sport movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.19,
+        "high_rating_count": 5,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 13,
+      "item_id": "M825",
+      "title": "TheDark Knight Fire",
+      "year": 1978,
+      "director": "David Fincher",
+      "genre": [
+        "Biography",
+        "War",
+        "Sport",
+        "Horror"
+      ],
+      "mood": [
+        "Serious",
+        "Angry",
+        "Thrilling"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A troubled thief escapes a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Sport movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.11,
+        "high_rating_count": 5,
+        "total_ratings": 19
+      }
+    },
+    {
+      "rank": 14,
+      "item_id": "M490",
+      "title": "AShawshank Spy",
+      "year": 1928,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "Crime",
+        "Sport",
+        "Adventure",
+        "War"
+      ],
+      "mood": [
+        "Angry",
+        "Heartwarming",
+        "Somber"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac immigrant fights against mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Sport movie. Average rating: 3.0/5.0",
+      "stats": {
+        "avg_rating": 2.97,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 15,
+      "item_id": "M289",
+      "title": "TheVertigo Woman",
+      "year": 1947,
+      "director": "Steven Spielberg",
+      "genre": [
+        "Romance",
+        "Comedy",
+        "Sport",
+        "Drama"
+      ],
+      "mood": [
+        "Powerful",
+        "Bittersweet",
+        "Stylish"
+      ],
+      "era": "Classic",
+      "description_brief": "A young detective learns from mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Sport movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.91,
+        "high_rating_count": 5,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 16,
+      "item_id": "M981",
+      "title": "Magnificent Shadow",
+      "year": 1930,
+      "director": "Stanley Kubrick",
+      "genre": [
+        "Horror",
+        "Romance",
+        "Sport"
+      ],
+      "mood": [
+        "Serious",
+        "Emotional"
+      ],
+      "era": "Classic",
+      "description_brief": "A retired explorer investigates a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Sport movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.88,
+        "high_rating_count": 5,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 17,
+      "item_id": "M474",
+      "title": "Shining Eclipse",
+      "year": 2023,
+      "director": "Greta Gerwig",
+      "genre": [
+        "Sport",
+        "Horror"
+      ],
+      "mood": [
+        "Violent",
+        "Bittersweet"
+      ],
+      "era": "Modern",
+      "description_brief": "A insomniac detective investigates the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Sport movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.85,
+        "high_rating_count": 5,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 18,
+      "item_id": "M549",
+      "title": "AMatrix Spy",
+      "year": 1959,
+      "director": "Orson Welles",
+      "genre": [
+        "Adventure",
+        "Sport",
+        "Thriller"
+      ],
+      "mood": [
+        "Inspirational",
+        "Witty",
+        "Bittersweet"
+      ],
+      "era": "Classic",
+      "description_brief": "A troubled warrior escapes a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Sport movie. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating": 2.76,
+        "high_rating_count": 5,
+        "total_ratings": 17
+      }
+    },
+    {
+      "rank": 19,
+      "item_id": "M407",
+      "title": "AShining Fire",
+      "year": 1972,
+      "director": "Jordan Peele",
+      "genre": [
+        "Horror",
+        "Mystery",
+        "Sport",
+        "Drama"
+      ],
+      "mood": [
+        "Thrilling",
+        "Charming"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A brilliant princess investigates guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Sport movie. Average rating: 3.5/5.0",
+      "stats": {
+        "avg_rating": 3.47,
+        "high_rating_count": 4,
+        "total_ratings": 7
+      }
+    },
+    {
+      "rank": 20,
+      "item_id": "M789",
+      "title": "TheGreat Battle",
+      "year": 1993,
+      "director": "Ari Aster",
+      "genre": [
+        "Sport",
+        "Biography",
+        "Comedy"
+      ],
+      "mood": [
+        "Chaotic",
+        "Intense"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A aging princess travels through a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Sport movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.42,
+        "high_rating_count": 4,
+        "total_ratings": 12
+      }
+    }
+  ]
+}

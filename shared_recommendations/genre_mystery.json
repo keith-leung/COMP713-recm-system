@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "tag": "Mystery",
+    "type": "genre",
+    "description": "Top Mystery movies",
+    "match_keywords": [
+      "mystery",
+      "Mystery"
+    ],
+    "generated_at": "2026-01-26T01:44:53.777460Z",
+    "candidate_movies": 172
+  },
+  "discovery_questions": [
+    {
+      "question": "Do you enjoy Mystery movies?",
+      "positive_signals": [
+        "mystery",
+        "yes",
+        "love",
+        "Mystery"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M582",
+      "title": "Silent Killer",
+      "year": 1991,
+      "director": "Paul Thomas Anderson",
+      "genre": [
+        "Sport",
+        "Mystery",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Chaotic",
+        "Angry"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A bored scientist learns from a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Mystery movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.3,
+        "high_rating_count": 9,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M110",
+      "title": "TheInterstellar City",
+      "year": 1935,
+      "director": "Orson Welles",
+      "genre": [
+        "Western",
+        "Mystery",
+        "Comedy",
+        "Music"
+      ],
+      "mood": [
+        "Stylish",
+        "Charming"
+      ],
+      "era": "Classic",
+      "description_brief": "A former boxer plants a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Mystery movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.24,
+        "high_rating_count": 8,
+        "total_ratings": 19
+      }
+    },
+    {
+      "rank": 3,
+      "item_id": "M837",
+      "title": "TheFurious Revenge",
+      "year": 1944,
+      "director": "Ari Aster",
+      "genre": [
+        "Mystery",
+        "Sport",
+        "Adventure",
+        "Crime"
+      ],
+      "mood": [
+        "Somber",
+        "Bittersweet"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac newsman escapes a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Mystery movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.14,
+        "high_rating_count": 8,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 4,
+      "item_id": "M434",
+      "title": "ADirty Soldier",
+      "year": 1961,
+      "director": "Wes Anderson",
+      "genre": [
+        "Mystery",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Somber"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A bored warrior fights against the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Mystery movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.25,
+        "high_rating_count": 7,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 5,
+      "item_id": "M416",
+      "title": "AShawshank Legend",
+      "year": 1992,
+      "director": "Frank Darabont",
+      "genre": [
+        "Action",
+        "Mystery",
+        "Horror",
+        "Music"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Exciting"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A retired boxer struggles a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Mystery movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.18,
+        "high_rating_count": 7,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 6,
+      "item_id": "M786",
+      "title": "TheSilent Vampire",
+      "year": 1939,
+      "director": "David Fincher",
+      "genre": [
+        "Mystery",
+        "Western",
+        "Horror"
+      ],
+      "mood": [
+        "Romantic",
+        "Philosophical"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac princess fights against mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Mystery movie. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating": 2.79,
+        "high_rating_count": 7,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 7,
+      "item_id": "M548",
+      "title": "TheGreat Storm",
+      "year": 1929,
+      "director": "Alfred Hitchcock",
+      "genre": [
+        "Mystery",
+        "Biography",
+        "Crime",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Witty",
+        "Inspirational",
+        "Thrilling"
+      ],
+      "era": "Classic",
+      "description_brief": "A bored boxer investigates a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Mystery movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.33,
+        "high_rating_count": 6,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 8,
+      "item_id": "M558",
+      "title": "Dark Night",
+      "year": 1944,
+      "director": "Robert Zemeckis",
+      "genre": [
+        "Animation",
+        "Horror",
+        "Mystery"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Exciting",
+        "Witty"
+      ],
+      "era": "Classic",
+      "description_brief": "A bored hacker struggles a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Mystery movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.29,
+        "high_rating_count": 6,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 9,
+      "item_id": "M355",
+      "title": "Lost Honor",
+      "year": 1964,
+      "director": "Greta Gerwig",
+      "genre": [
+        "Music",
+        "Mystery",
+        "Crime"
+      ],
+      "mood": [
+        "Charming",
+        "Inspirational",
+        "Thrilling"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A aging hacker takes over a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Mystery movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.27,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 10,
+      "item_id": "M187",
+      "title": "TheSecret Spy",
+      "year": 2025,
+      "director": "Bong Joon-ho",
+      "genre": [
+        "Thriller",
+        "Animation",
+        "Music",
+        "Mystery"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Intense"
+      ],
+      "era": "Modern",
+      "description_brief": "A troubled thief learns from mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Mystery movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.14,
+        "high_rating_count": 6,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 11,
+      "item_id": "M338",
+      "title": "Dark Knight Detective",
+      "year": 2020,
+      "director": "Guillermo del Toro",
+      "genre": [
+        "Mystery",
+        "Music",
+        "Adventure",
+        "Animation"
+      ],
+      "mood": [
+        "Philosophical",
+        "Intense",
+        "Psychological"
+      ],
+      "era": "Modern",
+      "description_brief": "A insomniac thief learns from a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Mystery movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.12,
+        "high_rating_count": 6,
+        "total_ratings": 17
+      }
+    },
+    {
+      "rank": 12,
+      "item_id": "M662",
+      "title": "Silent Cop",
+      "year": 1957,
+      "director": "Michael Curtiz",
+      "genre": [
+        "Western",
+        "Mystery",
+        "Action",
+        "Crime"
+      ],
+      "mood": [
+        "Powerful",
+        "Chaotic"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac princess fights against the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Mystery movie. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating": 2.8,
+        "high_rating_count": 6,
+        "total_ratings": 22
+      }
+    },
+    {
+      "rank": 13,
+      "item_id": "M851",
+      "title": "AShining Ghost",
+      "year": 1931,
+      "director": "Greta Gerwig",
+      "genre": [
+        "Comedy",
+        "Drama",
+        "Mystery",
+        "Romance"
+      ],
+      "mood": [
+        "Witty",
+        "Angry"
+      ],
+      "era": "Classic",
+      "description_brief": "A cynical boxer fights against guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Mystery movie. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating": 2.77,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 14,
+      "item_id": "M603",
+      "title": "Rising Fire",
+      "year": 1928,
+      "director": "James Cameron",
+      "genre": [
+        "Mystery",
+        "Western"
+      ],
+      "mood": [
+        "Intense",
+        "Exciting",
+        "Stylish"
+      ],
+      "era": "Classic",
+      "description_brief": "A young princess investigates the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Mystery movie. Average rating: 2.7/5.0",
+      "stats": {
+        "avg_rating": 2.72,
+        "high_rating_count": 6,
+        "total_ratings": 22
+      }
+    },
+    {
+      "rank": 15,
+      "item_id": "M097",
+      "title": "APulp Man",
+      "year": 1968,
+      "director": "David Fincher",
+      "genre": [
+        "War",
+        "Animation",
+        "Mystery",
+        "Horror"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Bittersweet",
+        "Thrilling"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A young detective travels through a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Mystery movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.33,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 16,
+      "item_id": "M619",
+      "title": "Dirty Robot",
+      "year": 1966,
+      "director": "Quentin Tarantino",
+      "genre": [
+        "Mystery",
+        "Horror",
+        "Adventure"
+      ],
+      "mood": [
+        "Inspirational",
+        "Intense",
+        "Thrilling"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A bored princess fights against a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Mystery movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.27,
+        "high_rating_count": 5,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 17,
+      "item_id": "M189",
+      "title": "TheTrue Legend",
+      "year": 2022,
+      "director": "Jordan Peele",
+      "genre": [
+        "Mystery",
+        "Sci-Fi",
+        "Music",
+        "Crime"
+      ],
+      "mood": [
+        "Serious",
+        "Philosophical"
+      ],
+      "era": "Modern",
+      "description_brief": "A troubled warrior fights against a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Mystery movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.23,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 18,
+      "item_id": "M856",
+      "title": "Matrix Vampire",
+      "year": 1995,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "History",
+        "Mystery"
+      ],
+      "mood": [
+        "Intense",
+        "Serious"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A determined newsman plants a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Mystery movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.19,
+        "high_rating_count": 5,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 19,
+      "item_id": "M791",
+      "title": "TheRising War",
+      "year": 2024,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "Horror",
+        "Mystery"
+      ],
+      "mood": [
+        "Intense",
+        "Stylish",
+        "Heartwarming"
+      ],
+      "era": "Modern",
+      "description_brief": "A young immigrant takes over a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Mystery movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.13,
+        "high_rating_count": 5,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 20,
+      "item_id": "M991",
+      "title": "Shining Zombie",
+      "year": 2013,
+      "director": "David Fincher",
+      "genre": [
+        "Crime",
+        "Animation",
+        "Adventure",
+        "Mystery"
+      ],
+      "mood": [
+        "Psychological",
+        "Heartwarming"
+      ],
+      "era": "Modern",
+      "description_brief": "A aging princess fights against mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Mystery movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.06,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    }
+  ]
+}

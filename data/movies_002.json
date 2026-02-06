@@ -1,0 +1,5313 @@
+[
+  {
+    "item_id": "M201",
+    "title": "AFurious Redemption",
+    "year": 1983,
+    "content": {
+      "description": "A retired explorer plants mysterious rebels and becomes obsessed with the truth.",
+      "director": "Guillermo del Toro",
+      "cast": [
+        "Ingrid Bergman",
+        "Nicole Kidman",
+        "Christian Bale"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Horror",
+        "Animation"
+      ],
+      "mood": [
+        "Charming",
+        "Psychological"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M202",
+    "title": "ASilent Queen",
+    "year": 1972,
+    "content": {
+      "description": "A aging warrior investigates guardians and becomes obsessed with the truth.",
+      "director": "Lana Wachowski",
+      "cast": [
+        "Daniel Day-Lewis",
+        "Marlon Brando",
+        "Gene Hackman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Animation",
+        "Thriller"
+      ],
+      "mood": [
+        "Emotional",
+        "Thrilling",
+        "Angry"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M203",
+    "title": "True Monster",
+    "year": 2012,
+    "content": {
+      "description": "A determined immigrant learns from a woman's suicide attempts and becomes obsessed with the truth.",
+      "director": "Taika Waititi",
+      "cast": [
+        "Heath Ledger",
+        "Gene Hackman",
+        "Audrey Hepburn"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Comedy",
+        "History",
+        "Romance"
+      ],
+      "mood": [
+        "Thrilling",
+        "Angry",
+        "Philosophical"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M204",
+    "title": "ABrave Fire",
+    "year": 1971,
+    "content": {
+      "description": "A cynical explorer plants a woman's suicide attempts and becomes obsessed with the truth.",
+      "director": "Denis Villeneuve",
+      "cast": [
+        "Viola Davis",
+        "Margot Robbie",
+        "Chris Hemsworth"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Action",
+        "Adventure",
+        "Romance",
+        "Crime"
+      ],
+      "mood": [
+        "Stylish",
+        "Heartwarming"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M205",
+    "title": "AMatrix Blood",
+    "year": 2022,
+    "content": {
+      "description": "A young thief fights against dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Ridley Scott",
+      "cast": [
+        "Tom Hanks",
+        "Matt Damon",
+        "Meryl Streep"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Thriller",
+        "Western"
+      ],
+      "mood": [
+        "Serious",
+        "Bittersweet"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M206",
+    "title": "TheGreat Dream",
+    "year": 1945,
+    "content": {
+      "description": "A bored scientist takes over the ring and becomes obsessed with the truth.",
+      "director": "Denis Villeneuve",
+      "cast": [
+        "Samuel L. Jackson",
+        "James Stewart",
+        "Gene Hackman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Action",
+        "Horror",
+        "Crime"
+      ],
+      "mood": [
+        "Intense",
+        "Thrilling"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M207",
+    "title": "TheDark Knight Wizard",
+    "year": 1936,
+    "content": {
+      "description": "A young detective travels through a wormhole and becomes obsessed with the truth.",
+      "director": "Denis Villeneuve",
+      "cast": [
+        "Tom Hardy",
+        "Nicole Kidman",
+        "Viola Davis"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Adventure",
+        "Drama",
+        "Romance"
+      ],
+      "mood": [
+        "Angry",
+        "Powerful"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M208",
+    "title": "Great Spy",
+    "year": 1970,
+    "content": {
+      "description": "A retired immigrant struggles mysterious rebels and becomes obsessed with the truth.",
+      "director": "Guillermo del Toro",
+      "cast": [
+        "Meryl Streep",
+        "George Clooney",
+        "Scarlett Johansson"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Music",
+        "Western"
+      ],
+      "mood": [
+        "Hopeful",
+        "Angry"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M209",
+    "title": "Godfather Storm",
+    "year": 2019,
+    "content": {
+      "description": "A young explorer investigates dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Lana Wachowski",
+      "cast": [
+        "Natalie Portman",
+        "Humphrey Bogart",
+        "George Clooney"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Action",
+        "Mystery",
+        "War",
+        "Biography"
+      ],
+      "mood": [
+        "Intense",
+        "Witty",
+        "Serious"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M210",
+    "title": "ABrave Eclipse",
+    "year": 2011,
+    "content": {
+      "description": "A retired explorer travels through guardians and becomes obsessed with the truth.",
+      "director": "Paul Thomas Anderson",
+      "cast": [
+        "Humphrey Bogart",
+        "Viola Davis",
+        "Russell Crowe"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Drama",
+        "Adventure"
+      ],
+      "mood": [
+        "Witty",
+        "Intense"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M211",
+    "title": "TheVertigo Betrayal",
+    "year": 1990,
+    "content": {
+      "description": "A insomniac thief learns from a wormhole and becomes obsessed with the truth.",
+      "director": "Wes Anderson",
+      "cast": [
+        "Jack Nicholson",
+        "Leonardo DiCaprio",
+        "Marlon Brando"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "History",
+        "Horror"
+      ],
+      "mood": [
+        "Thrilling",
+        "Witty",
+        "Hopeful"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M212",
+    "title": "Final Eclipse",
+    "year": 1961,
+    "content": {
+      "description": "A former hacker takes over mysterious rebels and becomes obsessed with the truth.",
+      "director": "Michael Curtiz",
+      "cast": [
+        "Nicole Kidman",
+        "Audrey Hepburn",
+        "Marlon Brando"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Thriller",
+        "Adventure",
+        "Horror"
+      ],
+      "mood": [
+        "Somber",
+        "Hopeful",
+        "Angry"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M213",
+    "title": "Gladiator Redemption",
+    "year": 1971,
+    "content": {
+      "description": "A bored scientist struggles a drug cartel and becomes obsessed with the truth.",
+      "director": "Michael Curtiz",
+      "cast": [
+        "George Clooney",
+        "Denzel Washington",
+        "Charlize Theron"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "History",
+        "Romance",
+        "Music"
+      ],
+      "mood": [
+        "Intense",
+        "Emotional",
+        "Chaotic"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M214",
+    "title": "TheDark Zombie",
+    "year": 1954,
+    "content": {
+      "description": "A bored warrior fights against a drug cartel and becomes obsessed with the truth.",
+      "director": "Ari Aster",
+      "cast": [
+        "Dustin Hoffman",
+        "Humphrey Bogart",
+        "Viola Davis"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "War",
+        "Fantasy",
+        "Mystery"
+      ],
+      "mood": [
+        "Somber",
+        "Mind-bending",
+        "Thrilling"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M215",
+    "title": "Great Hero",
+    "year": 1929,
+    "content": {
+      "description": "A troubled scientist plants a wormhole and becomes obsessed with the truth.",
+      "director": "Quentin Tarantino",
+      "cast": [
+        "Charlize Theron",
+        "Laurence Olivier",
+        "Heath Ledger"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Fantasy",
+        "Thriller",
+        "Western"
+      ],
+      "mood": [
+        "Emotional",
+        "Philosophical",
+        "Heartwarming"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M216",
+    "title": "Great Legend",
+    "year": 1944,
+    "content": {
+      "description": "A determined warrior investigates mysterious rebels and becomes obsessed with the truth.",
+      "director": "Martin Scorsese",
+      "cast": [
+        "Julia Roberts",
+        "Amy Adams",
+        "Joaquin Phoenix"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Drama",
+        "Music",
+        "Romance",
+        "War"
+      ],
+      "mood": [
+        "Somber",
+        "Intense"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M217",
+    "title": "AFurious Ghost",
+    "year": 1979,
+    "content": {
+      "description": "A cynical detective escapes dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Martin Scorsese",
+      "cast": [
+        "Tom Hardy",
+        "Robert De Niro",
+        "Margot Robbie"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Biography",
+        "Drama",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "mood": [
+        "Violent",
+        "Hopeful"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M218",
+    "title": "TheInception Quest",
+    "year": 1979,
+    "content": {
+      "description": "A bored explorer learns from dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Orson Welles",
+      "cast": [
+        "Keanu Reeves",
+        "Joaquin Phoenix",
+        "Emma Stone"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Action",
+        "History"
+      ],
+      "mood": [
+        "Romantic",
+        "Angry",
+        "Suspenseful"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M219",
+    "title": "Dark Knight Robot",
+    "year": 2012,
+    "content": {
+      "description": "A aging warrior investigates a woman's suicide attempts and becomes obsessed with the truth.",
+      "director": "Ridley Scott",
+      "cast": [
+        "Ingrid Bergman",
+        "Denzel Washington",
+        "Benedict Cumberbatch"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Fantasy",
+        "Thriller",
+        "Mystery",
+        "Horror"
+      ],
+      "mood": [
+        "Stylish",
+        "Intense"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M220",
+    "title": "TheGreat Detective",
+    "year": 1972,
+    "content": {
+      "description": "A bored newsman investigates a woman's suicide attempts and becomes obsessed with the truth.",
+      "director": "Brian De Palma",
+      "cast": [
+        "Chris Hemsworth",
+        "Tom Hardy",
+        "Sean Penn"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Drama",
+        "Music",
+        "Comedy"
+      ],
+      "mood": [
+        "Inspirational",
+        "Hopeful",
+        "Serious"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M221",
+    "title": "Lost Dream",
+    "year": 2004,
+    "content": {
+      "description": "A troubled boxer plants a wormhole and becomes obsessed with the truth.",
+      "director": "Bong Joon-ho",
+      "cast": [
+        "Daniel Day-Lewis",
+        "Chris Pratt",
+        "Adrien Brody"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "War",
+        "Fantasy",
+        "Action",
+        "Adventure"
+      ],
+      "mood": [
+        "Powerful",
+        "Intense"
+      ],
+      "era": "2000s"
+    }
+  },
+  {
+    "item_id": "M222",
+    "title": "ASilent Robot",
+    "year": 1990,
+    "content": {
+      "description": "A troubled princess fights against the ring and becomes obsessed with the truth.",
+      "director": "Steven Spielberg",
+      "cast": [
+        "Matt Damon",
+        "Emma Stone",
+        "Natalie Portman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Romance",
+        "Biography",
+        "Action"
+      ],
+      "mood": [
+        "Intense",
+        "Mind-bending",
+        "Suspenseful"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M223",
+    "title": "Shining Redemption",
+    "year": 1996,
+    "content": {
+      "description": "A brilliant hacker takes over a drug cartel and becomes obsessed with the truth.",
+      "director": "Guillermo del Toro",
+      "cast": [
+        "Humphrey Bogart",
+        "Will Smith",
+        "Gene Hackman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Horror",
+        "Comedy",
+        "Fantasy"
+      ],
+      "mood": [
+        "Violent",
+        "Heartwarming"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M224",
+    "title": "TheBrave City",
+    "year": 1936,
+    "content": {
+      "description": "A former thief travels through mysterious rebels and becomes obsessed with the truth.",
+      "director": "Denis Villeneuve",
+      "cast": [
+        "Morgan Freeman",
+        "Ryan Gosling",
+        "Brad Pitt"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Romance",
+        "History",
+        "Sport"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Somber"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M225",
+    "title": "TheBad Eclipse",
+    "year": 1958,
+    "content": {
+      "description": "A bored boxer plants dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Billy Wilder",
+      "cast": [
+        "Emma Stone",
+        "Dustin Hoffman",
+        "Bette Davis"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Comedy",
+        "War"
+      ],
+      "mood": [
+        "Emotional",
+        "Stylish",
+        "Violent"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M226",
+    "title": "Dirty Spy",
+    "year": 1936,
+    "content": {
+      "description": "A cynical detective travels through the ring and becomes obsessed with the truth.",
+      "director": "Brian De Palma",
+      "cast": [
+        "Adrien Brody",
+        "Sean Penn",
+        "Charlize Theron"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "History",
+        "Romance",
+        "Animation"
+      ],
+      "mood": [
+        "Hopeful",
+        "Emotional"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M227",
+    "title": "Magnificent Monster",
+    "year": 1951,
+    "content": {
+      "description": "A bored thief struggles guardians and becomes obsessed with the truth.",
+      "director": "James Cameron",
+      "cast": [
+        "Dwayne Johnson",
+        "Dustin Hoffman",
+        "Joaquin Phoenix"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Animation",
+        "Biography",
+        "Adventure"
+      ],
+      "mood": [
+        "Bittersweet",
+        "Serious",
+        "Hopeful"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M228",
+    "title": "Final War",
+    "year": 1951,
+    "content": {
+      "description": "A troubled boxer investigates a drug cartel and becomes obsessed with the truth.",
+      "director": "James Cameron",
+      "cast": [
+        "Ingrid Bergman",
+        "Vivien Leigh",
+        "Russell Crowe"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Horror",
+        "Biography",
+        "Action",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Mind-bending",
+        "Serious"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M229",
+    "title": "AGood Cop",
+    "year": 1921,
+    "content": {
+      "description": "A aging boxer escapes mysterious rebels and becomes obsessed with the truth.",
+      "director": "Paul Thomas Anderson",
+      "cast": [
+        "Tom Hardy",
+        "Benedict Cumberbatch",
+        "Al Pacino"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "History",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Powerful"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M230",
+    "title": "TheTrue Detective",
+    "year": 1991,
+    "content": {
+      "description": "A bored warrior plants a woman's suicide attempts and becomes obsessed with the truth.",
+      "director": "James Cameron",
+      "cast": [
+        "Clark Gable",
+        "Emma Stone",
+        "Sandra Bullock"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "War",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Powerful"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M231",
+    "title": "Lost Samurai",
+    "year": 1988,
+    "content": {
+      "description": "A troubled hacker takes over a woman's suicide attempts and becomes obsessed with the truth.",
+      "director": "Ari Aster",
+      "cast": [
+        "Benedict Cumberbatch",
+        "Heath Ledger",
+        "Scarlett Johansson"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "War",
+        "Biography",
+        "Action"
+      ],
+      "mood": [
+        "Romantic",
+        "Inspirational",
+        "Angry"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M232",
+    "title": "Fight Club Betrayal",
+    "year": 1981,
+    "content": {
+      "description": "A cynical explorer fights against guardians and becomes obsessed with the truth.",
+      "director": "Ari Aster",
+      "cast": [
+        "Joaquin Phoenix",
+        "Will Smith",
+        "Vivien Leigh"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Animation",
+        "Music"
+      ],
+      "mood": [
+        "Chaotic",
+        "Violent",
+        "Inspirational"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M233",
+    "title": "Shawshank Monster",
+    "year": 2013,
+    "content": {
+      "description": "A aging hacker fights against guardians and becomes obsessed with the truth.",
+      "director": "Brian De Palma",
+      "cast": [
+        "Anne Hathaway",
+        "Dwayne Johnson",
+        "Margot Robbie"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Thriller",
+        "Sci-Fi",
+        "Comedy",
+        "Music"
+      ],
+      "mood": [
+        "Serious",
+        "Intense"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M234",
+    "title": "AFurious War",
+    "year": 1980,
+    "content": {
+      "description": "A cynical scientist takes over guardians and becomes obsessed with the truth.",
+      "director": "Tim Burton",
+      "cast": [
+        "Al Pacino",
+        "Ryan Gosling",
+        "George Clooney"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Psychological",
+        "Romantic"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M235",
+    "title": "Matrix Ghost",
+    "year": 1983,
+    "content": {
+      "description": "A brilliant detective plants a drug cartel and becomes obsessed with the truth.",
+      "director": "Bong Joon-ho",
+      "cast": [
+        "Gene Hackman",
+        "Al Pacino",
+        "Jessica Chastain"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Romance",
+        "Fantasy",
+        "Biography",
+        "Music"
+      ],
+      "mood": [
+        "Romantic",
+        "Angry",
+        "Emotional"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M236",
+    "title": "Gladiator Revenge",
+    "year": 1971,
+    "content": {
+      "description": "A former newsman plants dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Wes Anderson",
+      "cast": [
+        "Joaquin Phoenix",
+        "Scarlett Johansson",
+        "Ingrid Bergman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Biography",
+        "War",
+        "Sport",
+        "History"
+      ],
+      "mood": [
+        "Witty",
+        "Heartwarming"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M237",
+    "title": "AShining Robot",
+    "year": 1930,
+    "content": {
+      "description": "A determined detective escapes mysterious rebels and becomes obsessed with the truth.",
+      "director": "Guillermo del Toro",
+      "cast": [
+        "Tom Hardy",
+        "Sandra Bullock",
+        "Benedict Cumberbatch"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Animation",
+        "Thriller",
+        "Action"
+      ],
+      "mood": [
+        "Bittersweet",
+        "Suspenseful",
+        "Romantic"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M238",
+    "title": "TheFight Club Blood",
+    "year": 2016,
+    "content": {
+      "description": "A insomniac princess travels through a woman's suicide attempts and becomes obsessed with the truth.",
+      "director": "Lilly Wachowski",
+      "cast": [
+        "Amy Adams",
+        "Jack Nicholson",
+        "Scarlett Johansson"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Animation",
+        "Action"
+      ],
+      "mood": [
+        "Chaotic",
+        "Bittersweet"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M239",
+    "title": "ADirty Legend",
+    "year": 2018,
+    "content": {
+      "description": "A aging boxer fights against the ring and becomes obsessed with the truth.",
+      "director": "Tim Burton",
+      "cast": [
+        "Samuel L. Jackson",
+        "Ingrid Bergman",
+        "Julia Roberts"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Biography",
+        "Horror"
+      ],
+      "mood": [
+        "Romantic",
+        "Violent",
+        "Heartwarming"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M240",
+    "title": "Final Pirate",
+    "year": 1924,
+    "content": {
+      "description": "A aging immigrant escapes a woman's suicide attempts and becomes obsessed with the truth.",
+      "director": "Orson Welles",
+      "cast": [
+        "Clark Gable",
+        "Charlize Theron",
+        "Jack Nicholson"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Fantasy",
+        "Adventure",
+        "Drama"
+      ],
+      "mood": [
+        "Bittersweet",
+        "Powerful",
+        "Inspirational"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M241",
+    "title": "True Wizard",
+    "year": 1924,
+    "content": {
+      "description": "A aging scientist travels through guardians and becomes obsessed with the truth.",
+      "director": "Robert Zemeckis",
+      "cast": [
+        "Robert De Niro",
+        "Chris Pratt",
+        "Sean Penn"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Drama",
+        "Romance",
+        "Adventure",
+        "Crime"
+      ],
+      "mood": [
+        "Bittersweet",
+        "Romantic",
+        "Philosophical"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M242",
+    "title": "AShawshank Hero",
+    "year": 1947,
+    "content": {
+      "description": "A brilliant detective travels through dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Tim Burton",
+      "cast": [
+        "Emma Stone",
+        "Nicole Kidman",
+        "Natalie Portman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "War",
+        "Adventure",
+        "Thriller"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Exciting",
+        "Philosophical"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M243",
+    "title": "AFight Club Killer",
+    "year": 1962,
+    "content": {
+      "description": "A insomniac thief takes over guardians and becomes obsessed with the truth.",
+      "director": "Ari Aster",
+      "cast": [
+        "Cary Grant",
+        "Sean Penn",
+        "Heath Ledger"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Sport",
+        "Crime"
+      ],
+      "mood": [
+        "Angry",
+        "Bittersweet"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M244",
+    "title": "ThePulp Honor",
+    "year": 2015,
+    "content": {
+      "description": "A insomniac boxer learns from a woman's suicide attempts and becomes obsessed with the truth.",
+      "director": "Stanley Kubrick",
+      "cast": [
+        "Keanu Reeves",
+        "Dwayne Johnson",
+        "Will Smith"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "History",
+        "Comedy",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "mood": [
+        "Chaotic",
+        "Inspirational",
+        "Violent"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M245",
+    "title": "Lost King",
+    "year": 1968,
+    "content": {
+      "description": "A brilliant explorer fights against a wormhole and becomes obsessed with the truth.",
+      "director": "Stanley Kubrick",
+      "cast": [
+        "Matt Damon",
+        "Viola Davis",
+        "Dustin Hoffman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Sci-Fi",
+        "Mystery",
+        "History"
+      ],
+      "mood": [
+        "Intense",
+        "Inspirational"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M246",
+    "title": "Bad Alien",
+    "year": 1944,
+    "content": {
+      "description": "A troubled scientist travels through a wormhole and becomes obsessed with the truth.",
+      "director": "Bong Joon-ho",
+      "cast": [
+        "Cary Grant",
+        "Anne Hathaway",
+        "Ryan Gosling"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Action",
+        "Comedy"
+      ],
+      "mood": [
+        "Charming",
+        "Psychological"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M247",
+    "title": "Lost Battle",
+    "year": 1949,
+    "content": {
+      "description": "A cynical immigrant fights against a wormhole and becomes obsessed with the truth.",
+      "director": "Guillermo del Toro",
+      "cast": [
+        "Matt Damon",
+        "Morgan Freeman",
+        "Denzel Washington"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Sci-Fi",
+        "Horror",
+        "Drama"
+      ],
+      "mood": [
+        "Somber",
+        "Intense",
+        "Witty"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M248",
+    "title": "Silent Alien",
+    "year": 1920,
+    "content": {
+      "description": "A retired hacker fights against guardians and becomes obsessed with the truth.",
+      "director": "Robert Zemeckis",
+      "cast": [
+        "Philip Seymour Hoffman",
+        "Matt Damon",
+        "Ingrid Bergman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Thriller",
+        "Biography",
+        "Crime"
+      ],
+      "mood": [
+        "Psychological",
+        "Emotional",
+        "Inspirational"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M249",
+    "title": "AGood Spy",
+    "year": 1994,
+    "content": {
+      "description": "A brilliant newsman learns from the ring and becomes obsessed with the truth.",
+      "director": "David Fincher",
+      "cast": [
+        "Keanu Reeves",
+        "George Clooney",
+        "Samuel L. Jackson"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Sport",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Somber",
+        "Romantic"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M250",
+    "title": "TheDark Betrayal",
+    "year": 1961,
+    "content": {
+      "description": "A former warrior takes over the ring and becomes obsessed with the truth.",
+      "director": "Guillermo del Toro",
+      "cast": [
+        "Humphrey Bogart",
+        "Chris Hemsworth",
+        "Meryl Streep"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Romance",
+        "Biography",
+        "Fantasy"
+      ],
+      "mood": [
+        "Psychological",
+        "Heartwarming"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M251",
+    "title": "TheGreat Cop",
+    "year": 1962,
+    "content": {
+      "description": "A bored scientist learns from a wormhole and becomes obsessed with the truth.",
+      "director": "Paul Thomas Anderson",
+      "cast": [
+        "Leonardo DiCaprio",
+        "Al Pacino",
+        "Nicole Kidman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Western",
+        "Action"
+      ],
+      "mood": [
+        "Serious",
+        "Psychological",
+        "Philosophical"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M252",
+    "title": "Furious King",
+    "year": 1973,
+    "content": {
+      "description": "A retired warrior struggles a woman's suicide attempts and becomes obsessed with the truth.",
+      "director": "Christopher Nolan",
+      "cast": [
+        "Sean Penn",
+        "Ingrid Bergman",
+        "Chris Pratt"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Drama",
+        "Comedy",
+        "Mystery",
+        "Biography"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Serious",
+        "Witty"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M253",
+    "title": "Furious Robot",
+    "year": 1938,
+    "content": {
+      "description": "A retired hacker struggles mysterious rebels and becomes obsessed with the truth.",
+      "director": "Wes Anderson",
+      "cast": [
+        "Marlon Brando",
+        "Tom Hardy",
+        "Jessica Chastain"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Horror",
+        "Western",
+        "Thriller",
+        "Fantasy"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Romantic"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M254",
+    "title": "TheDirty Zombie",
+    "year": 1946,
+    "content": {
+      "description": "A young princess struggles a woman's suicide attempts and becomes obsessed with the truth.",
+      "director": "Brian De Palma",
+      "cast": [
+        "Morgan Freeman",
+        "Keanu Reeves",
+        "Reese Witherspoon"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Thriller",
+        "Drama",
+        "War",
+        "Music"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Psychological",
+        "Chaotic"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M255",
+    "title": "TheRising Wizard",
+    "year": 1957,
+    "content": {
+      "description": "A troubled detective fights against dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Denis Villeneuve",
+      "cast": [
+        "Dustin Hoffman",
+        "Al Pacino",
+        "Audrey Hepburn"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "War",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Charming",
+        "Somber"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M256",
+    "title": "ADark Knight Robot",
+    "year": 1955,
+    "content": {
+      "description": "A cynical newsman investigates mysterious rebels and becomes obsessed with the truth.",
+      "director": "Alfred Hitchcock",
+      "cast": [
+        "Keanu Reeves",
+        "Dwayne Johnson",
+        "Marlon Brando"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Biography",
+        "Comedy"
+      ],
+      "mood": [
+        "Stylish",
+        "Psychological",
+        "Violent"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M257",
+    "title": "TheDark Knight Empire",
+    "year": 1929,
+    "content": {
+      "description": "A bored princess learns from a woman's suicide attempts and becomes obsessed with the truth.",
+      "director": "Lilly Wachowski",
+      "cast": [
+        "Benedict Cumberbatch",
+        "Al Pacino",
+        "Jessica Chastain"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Western",
+        "Sci-Fi",
+        "Biography"
+      ],
+      "mood": [
+        "Exciting",
+        "Mind-bending"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M258",
+    "title": "Secret Storm",
+    "year": 1920,
+    "content": {
+      "description": "A brilliant hacker plants the ring and becomes obsessed with the truth.",
+      "director": "Frank Darabont",
+      "cast": [
+        "Matt Damon",
+        "Scarlett Johansson",
+        "Clark Gable"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Mystery",
+        "Fantasy",
+        "Horror",
+        "Romance"
+      ],
+      "mood": [
+        "Hopeful",
+        "Witty",
+        "Stylish"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M259",
+    "title": "Lost Ghost",
+    "year": 2022,
+    "content": {
+      "description": "A aging immigrant learns from the ring and becomes obsessed with the truth.",
+      "director": "Stanley Kubrick",
+      "cast": [
+        "Russell Crowe",
+        "Natalie Portman",
+        "Al Pacino"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Drama",
+        "Mystery",
+        "Thriller",
+        "Western"
+      ],
+      "mood": [
+        "Somber",
+        "Powerful",
+        "Intense"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M260",
+    "title": "ThePulp Spy",
+    "year": 2013,
+    "content": {
+      "description": "A insomniac detective investigates the ring and becomes obsessed with the truth.",
+      "director": "David Fincher",
+      "cast": [
+        "Meryl Streep",
+        "Marlon Brando",
+        "Chris Pratt"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Horror",
+        "Music",
+        "Comedy"
+      ],
+      "mood": [
+        "Psychological",
+        "Violent"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M261",
+    "title": "TheSilent Wizard",
+    "year": 1949,
+    "content": {
+      "description": "A brilliant immigrant takes over dream-sharing technology and becomes obsessed with the truth.",
+      "director": "James Cameron",
+      "cast": [
+        "Morgan Freeman",
+        "Benedict Cumberbatch",
+        "Al Pacino"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Sci-Fi",
+        "History",
+        "Fantasy",
+        "Music"
+      ],
+      "mood": [
+        "Charming",
+        "Heartwarming"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M262",
+    "title": "TheGood Robot",
+    "year": 1987,
+    "content": {
+      "description": "A troubled detective travels through dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Taika Waititi",
+      "cast": [
+        "Meryl Streep",
+        "Viola Davis",
+        "Joaquin Phoenix"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Sci-Fi",
+        "Thriller",
+        "Action"
+      ],
+      "mood": [
+        "Thrilling",
+        "Chaotic"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M263",
+    "title": "ABad Empire",
+    "year": 1922,
+    "content": {
+      "description": "A troubled explorer takes over a woman's suicide attempts and becomes obsessed with the truth.",
+      "director": "Wes Anderson",
+      "cast": [
+        "Chris Pratt",
+        "Daniel Day-Lewis",
+        "Emma Stone"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Mystery",
+        "Sport",
+        "Music",
+        "Animation"
+      ],
+      "mood": [
+        "Emotional",
+        "Angry",
+        "Heartwarming"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M264",
+    "title": "AInception Hero",
+    "year": 1938,
+    "content": {
+      "description": "A determined hacker learns from the ring and becomes obsessed with the truth.",
+      "director": "Martin Scorsese",
+      "cast": [
+        "Gene Hackman",
+        "James Stewart",
+        "Marlon Brando"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Horror",
+        "Sport",
+        "Adventure"
+      ],
+      "mood": [
+        "Exciting",
+        "Mind-bending"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M265",
+    "title": "TheSilent Night",
+    "year": 1993,
+    "content": {
+      "description": "A bored warrior struggles a drug cartel and becomes obsessed with the truth.",
+      "director": "Bong Joon-ho",
+      "cast": [
+        "Keanu Reeves",
+        "Brad Pitt",
+        "Ingrid Bergman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Thriller",
+        "Romance",
+        "Biography",
+        "Crime"
+      ],
+      "mood": [
+        "Hopeful",
+        "Witty",
+        "Exciting"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M266",
+    "title": "TheGood Robot",
+    "year": 1973,
+    "content": {
+      "description": "A determined thief escapes dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Denis Villeneuve",
+      "cast": [
+        "Samuel L. Jackson",
+        "Sean Penn",
+        "Dwayne Johnson"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Sport",
+        "Horror"
+      ],
+      "mood": [
+        "Charming",
+        "Suspenseful"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M267",
+    "title": "Good Ghost",
+    "year": 1964,
+    "content": {
+      "description": "A troubled boxer takes over a wormhole and becomes obsessed with the truth.",
+      "director": "Bong Joon-ho",
+      "cast": [
+        "Natalie Portman",
+        "Denzel Washington",
+        "Morgan Freeman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Adventure",
+        "Horror",
+        "History",
+        "Romance"
+      ],
+      "mood": [
+        "Bittersweet",
+        "Romantic",
+        "Chaotic"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M268",
+    "title": "TheShining Man",
+    "year": 1976,
+    "content": {
+      "description": "A aging warrior learns from the ring and becomes obsessed with the truth.",
+      "director": "Quentin Tarantino",
+      "cast": [
+        "Reese Witherspoon",
+        "Marlon Brando",
+        "Philip Seymour Hoffman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "History",
+        "Comedy"
+      ],
+      "mood": [
+        "Charming",
+        "Bittersweet"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M269",
+    "title": "AInterstellar Legend",
+    "year": 2020,
+    "content": {
+      "description": "A determined boxer escapes dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Tim Burton",
+      "cast": [
+        "Anne Hathaway",
+        "Scarlett Johansson",
+        "Morgan Freeman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Sci-Fi",
+        "Romance",
+        "Thriller"
+      ],
+      "mood": [
+        "Romantic",
+        "Exciting",
+        "Stylish"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M270",
+    "title": "TheGood Robot",
+    "year": 1950,
+    "content": {
+      "description": "A former warrior struggles a woman's suicide attempts and becomes obsessed with the truth.",
+      "director": "Peter Jackson",
+      "cast": [
+        "Matt Damon",
+        "Chris Hemsworth",
+        "Russell Crowe"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Western",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Stylish",
+        "Emotional",
+        "Chaotic"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M271",
+    "title": "TheGreat Blood",
+    "year": 1943,
+    "content": {
+      "description": "A young detective struggles a drug cartel and becomes obsessed with the truth.",
+      "director": "Greta Gerwig",
+      "cast": [
+        "Tom Hanks",
+        "Laurence Olivier",
+        "Robert Downey Jr."
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Fantasy",
+        "Thriller",
+        "Biography",
+        "History"
+      ],
+      "mood": [
+        "Charming",
+        "Emotional"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M272",
+    "title": "TheGreat Storm",
+    "year": 1949,
+    "content": {
+      "description": "A bored princess plants a drug cartel and becomes obsessed with the truth.",
+      "director": "Francis Ford Coppola",
+      "cast": [
+        "Laurence Olivier",
+        "Tom Hardy",
+        "Natalie Portman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Biography",
+        "Music",
+        "Western",
+        "Crime"
+      ],
+      "mood": [
+        "Romantic",
+        "Philosophical"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M273",
+    "title": "TheGladiator Detective",
+    "year": 2012,
+    "content": {
+      "description": "A cynical thief escapes the ring and becomes obsessed with the truth.",
+      "director": "Wes Anderson",
+      "cast": [
+        "Tom Hanks",
+        "Denzel Washington",
+        "Dustin Hoffman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Drama",
+        "Romance"
+      ],
+      "mood": [
+        "Serious",
+        "Chaotic"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M274",
+    "title": "TheDirty Legend",
+    "year": 2008,
+    "content": {
+      "description": "A aging detective struggles mysterious rebels and becomes obsessed with the truth.",
+      "director": "Denis Villeneuve",
+      "cast": [
+        "Adrien Brody",
+        "Dustin Hoffman",
+        "Robert De Niro"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Comedy",
+        "Biography",
+        "Music",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Psychological",
+        "Heartwarming",
+        "Bittersweet"
+      ],
+      "era": "2000s"
+    }
+  },
+  {
+    "item_id": "M275",
+    "title": "Matrix Battle",
+    "year": 1953,
+    "content": {
+      "description": "A cynical scientist takes over a woman's suicide attempts and becomes obsessed with the truth.",
+      "director": "Christopher Nolan",
+      "cast": [
+        "Keanu Reeves",
+        "Robert De Niro",
+        "Scarlett Johansson"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Comedy",
+        "Romance",
+        "History"
+      ],
+      "mood": [
+        "Philosophical",
+        "Powerful",
+        "Suspenseful"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M276",
+    "title": "AMagnificent Robot",
+    "year": 1980,
+    "content": {
+      "description": "A determined thief plants the ring and becomes obsessed with the truth.",
+      "director": "Wes Anderson",
+      "cast": [
+        "Matt Damon",
+        "Sandra Bullock",
+        "George Clooney"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Thriller",
+        "History",
+        "Horror",
+        "Biography"
+      ],
+      "mood": [
+        "Bittersweet",
+        "Violent",
+        "Heartwarming"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M277",
+    "title": "AGreat Spy",
+    "year": 1933,
+    "content": {
+      "description": "A bored hacker investigates dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Lana Wachowski",
+      "cast": [
+        "Morgan Freeman",
+        "Margot Robbie",
+        "Cary Grant"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Music",
+        "Biography",
+        "Western",
+        "Fantasy"
+      ],
+      "mood": [
+        "Romantic",
+        "Suspenseful",
+        "Inspirational"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M278",
+    "title": "Rising Storm",
+    "year": 1947,
+    "content": {
+      "description": "A cynical warrior takes over a wormhole and becomes obsessed with the truth.",
+      "director": "Denis Villeneuve",
+      "cast": [
+        "Leonardo DiCaprio",
+        "Reese Witherspoon",
+        "Will Smith"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "War",
+        "Biography"
+      ],
+      "mood": [
+        "Stylish",
+        "Powerful"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M279",
+    "title": "ATrue Dawn",
+    "year": 2000,
+    "content": {
+      "description": "A cynical detective takes over a woman's suicide attempts and becomes obsessed with the truth.",
+      "director": "Greta Gerwig",
+      "cast": [
+        "Vivien Leigh",
+        "Jack Nicholson",
+        "Charlize Theron"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Comedy",
+        "Mystery",
+        "Animation",
+        "Adventure"
+      ],
+      "mood": [
+        "Thrilling",
+        "Charming"
+      ],
+      "era": "2000s"
+    }
+  },
+  {
+    "item_id": "M280",
+    "title": "ThePulp Fire",
+    "year": 2023,
+    "content": {
+      "description": "A cynical explorer travels through a drug cartel and becomes obsessed with the truth.",
+      "director": "Frank Darabont",
+      "cast": [
+        "Joaquin Phoenix",
+        "Dwayne Johnson",
+        "Keanu Reeves"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Adventure",
+        "War"
+      ],
+      "mood": [
+        "Violent",
+        "Mind-bending",
+        "Angry"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M281",
+    "title": "Bad Shadow",
+    "year": 1979,
+    "content": {
+      "description": "A bored princess escapes mysterious rebels and becomes obsessed with the truth.",
+      "director": "Bong Joon-ho",
+      "cast": [
+        "Audrey Hepburn",
+        "Dustin Hoffman",
+        "Benedict Cumberbatch"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Animation",
+        "Sci-Fi",
+        "Thriller",
+        "War"
+      ],
+      "mood": [
+        "Chaotic",
+        "Stylish",
+        "Angry"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M282",
+    "title": "TheMatrix Wizard",
+    "year": 1933,
+    "content": {
+      "description": "A bored newsman investigates mysterious rebels and becomes obsessed with the truth.",
+      "director": "Quentin Tarantino",
+      "cast": [
+        "Bette Davis",
+        "Viola Davis",
+        "Vivien Leigh"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Thriller",
+        "Adventure"
+      ],
+      "mood": [
+        "Inspirational",
+        "Somber"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M283",
+    "title": "TheSecret Honor",
+    "year": 2004,
+    "content": {
+      "description": "A retired boxer escapes the ring and becomes obsessed with the truth.",
+      "director": "Christopher Nolan",
+      "cast": [
+        "Charlize Theron",
+        "Keanu Reeves",
+        "James Stewart"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "History",
+        "Sport",
+        "Adventure",
+        "Animation"
+      ],
+      "mood": [
+        "Intense",
+        "Angry",
+        "Thrilling"
+      ],
+      "era": "2000s"
+    }
+  },
+  {
+    "item_id": "M284",
+    "title": "TheTrue Storm",
+    "year": 2001,
+    "content": {
+      "description": "A retired thief learns from a wormhole and becomes obsessed with the truth.",
+      "director": "Denis Villeneuve",
+      "cast": [
+        "Clark Gable",
+        "Anne Hathaway",
+        "Russell Crowe"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "mood": [
+        "Inspirational",
+        "Mind-bending"
+      ],
+      "era": "2000s"
+    }
+  },
+  {
+    "item_id": "M285",
+    "title": "AInterstellar Killer",
+    "year": 1950,
+    "content": {
+      "description": "A troubled thief plants dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Frank Darabont",
+      "cast": [
+        "Emma Stone",
+        "Amy Adams",
+        "Tom Hanks"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Mystery",
+        "Fantasy",
+        "Thriller",
+        "Animation"
+      ],
+      "mood": [
+        "Powerful",
+        "Romantic",
+        "Violent"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M286",
+    "title": "ATrue Legend",
+    "year": 1927,
+    "content": {
+      "description": "A bored newsman investigates the ring and becomes obsessed with the truth.",
+      "director": "Michael Curtiz",
+      "cast": [
+        "Robert De Niro",
+        "Will Smith",
+        "Tom Hanks"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Comedy",
+        "Action"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Romantic"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M287",
+    "title": "ARising Alien",
+    "year": 2016,
+    "content": {
+      "description": "A determined immigrant takes over guardians and becomes obsessed with the truth.",
+      "director": "Quentin Tarantino",
+      "cast": [
+        "Christian Bale",
+        "Julia Roberts",
+        "Anne Hathaway"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Adventure",
+        "Biography",
+        "Horror"
+      ],
+      "mood": [
+        "Thrilling",
+        "Exciting",
+        "Hopeful"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M288",
+    "title": "AGreat Shadow",
+    "year": 1976,
+    "content": {
+      "description": "A bored explorer learns from the ring and becomes obsessed with the truth.",
+      "director": "Billy Wilder",
+      "cast": [
+        "Chris Hemsworth",
+        "Sandra Bullock",
+        "Sean Penn"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Drama",
+        "Sport",
+        "Crime",
+        "Biography"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Hopeful",
+        "Angry"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M289",
+    "title": "TheVertigo Woman",
+    "year": 1947,
+    "content": {
+      "description": "A young detective learns from mysterious rebels and becomes obsessed with the truth.",
+      "director": "Steven Spielberg",
+      "cast": [
+        "Julia Roberts",
+        "Heath Ledger",
+        "Natalie Portman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Romance",
+        "Comedy",
+        "Sport",
+        "Drama"
+      ],
+      "mood": [
+        "Powerful",
+        "Bittersweet",
+        "Stylish"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M290",
+    "title": "Dark Knight Woman",
+    "year": 2002,
+    "content": {
+      "description": "A determined warrior plants dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Martin Scorsese",
+      "cast": [
+        "Jessica Chastain",
+        "Charlize Theron",
+        "Reese Witherspoon"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Animation",
+        "Horror",
+        "War"
+      ],
+      "mood": [
+        "Violent",
+        "Chaotic"
+      ],
+      "era": "2000s"
+    }
+  },
+  {
+    "item_id": "M291",
+    "title": "Great Night",
+    "year": 1945,
+    "content": {
+      "description": "A aging thief plants dream-sharing technology and becomes obsessed with the truth.",
+      "director": "James Cameron",
+      "cast": [
+        "Emma Stone",
+        "Charlize Theron",
+        "Reese Witherspoon"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Drama",
+        "Adventure",
+        "War",
+        "Fantasy"
+      ],
+      "mood": [
+        "Intense",
+        "Angry",
+        "Powerful"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M292",
+    "title": "Interstellar Storm",
+    "year": 1948,
+    "content": {
+      "description": "A insomniac princess plants a drug cartel and becomes obsessed with the truth.",
+      "director": "Taika Waititi",
+      "cast": [
+        "Morgan Freeman",
+        "Julia Roberts",
+        "Bette Davis"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Biography",
+        "Music",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "mood": [
+        "Intense",
+        "Mind-bending",
+        "Psychological"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M293",
+    "title": "AGladiator Queen",
+    "year": 2003,
+    "content": {
+      "description": "A young newsman fights against mysterious rebels and becomes obsessed with the truth.",
+      "director": "Alfred Hitchcock",
+      "cast": [
+        "Audrey Hepburn",
+        "Humphrey Bogart",
+        "Reese Witherspoon"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Adventure",
+        "War",
+        "Mystery"
+      ],
+      "mood": [
+        "Emotional",
+        "Romantic"
+      ],
+      "era": "2000s"
+    }
+  },
+  {
+    "item_id": "M294",
+    "title": "TheShawshank Vampire",
+    "year": 1986,
+    "content": {
+      "description": "A insomniac explorer investigates a woman's suicide attempts and becomes obsessed with the truth.",
+      "director": "Frank Darabont",
+      "cast": [
+        "Audrey Hepburn",
+        "Bette Davis",
+        "Morgan Freeman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Horror",
+        "Music",
+        "Animation"
+      ],
+      "mood": [
+        "Bittersweet",
+        "Intense",
+        "Suspenseful"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M295",
+    "title": "Silent Dream",
+    "year": 1938,
+    "content": {
+      "description": "A aging scientist escapes guardians and becomes obsessed with the truth.",
+      "director": "James Cameron",
+      "cast": [
+        "Matt Damon",
+        "Chris Pratt",
+        "Philip Seymour Hoffman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Adventure",
+        "Animation"
+      ],
+      "mood": [
+        "Thrilling",
+        "Chaotic"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M296",
+    "title": "AShawshank Legend",
+    "year": 1934,
+    "content": {
+      "description": "A troubled warrior investigates dream-sharing technology and becomes obsessed with the truth.",
+      "director": "David Fincher",
+      "cast": [
+        "Chris Pratt",
+        "Tom Hardy",
+        "Ryan Gosling"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Mystery",
+        "Animation",
+        "Action",
+        "Horror"
+      ],
+      "mood": [
+        "Philosophical",
+        "Hopeful"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M297",
+    "title": "Great Killer",
+    "year": 1953,
+    "content": {
+      "description": "A retired detective learns from a woman's suicide attempts and becomes obsessed with the truth.",
+      "director": "Michael Curtiz",
+      "cast": [
+        "Sean Penn",
+        "Natalie Portman",
+        "Nicole Kidman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Mystery",
+        "Adventure"
+      ],
+      "mood": [
+        "Chaotic",
+        "Powerful",
+        "Violent"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M298",
+    "title": "Magnificent Empire",
+    "year": 1973,
+    "content": {
+      "description": "A former immigrant fights against the ring and becomes obsessed with the truth.",
+      "director": "Alfred Hitchcock",
+      "cast": [
+        "Benedict Cumberbatch",
+        "Dwayne Johnson",
+        "Christian Bale"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Romance",
+        "Sci-Fi",
+        "Fantasy"
+      ],
+      "mood": [
+        "Inspirational",
+        "Angry",
+        "Psychological"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M299",
+    "title": "TheBrave Hero",
+    "year": 2004,
+    "content": {
+      "description": "A determined thief escapes guardians and becomes obsessed with the truth.",
+      "director": "Jordan Peele",
+      "cast": [
+        "Margot Robbie",
+        "Brad Pitt",
+        "Laurence Olivier"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Biography",
+        "Action"
+      ],
+      "mood": [
+        "Thrilling",
+        "Exciting"
+      ],
+      "era": "2000s"
+    }
+  },
+  {
+    "item_id": "M300",
+    "title": "AGladiator Queen",
+    "year": 1968,
+    "content": {
+      "description": "A young detective plants guardians and becomes obsessed with the truth.",
+      "director": "David Fincher",
+      "cast": [
+        "Gene Hackman",
+        "Daniel Day-Lewis",
+        "Benedict Cumberbatch"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "History",
+        "Horror",
+        "Western",
+        "Action"
+      ],
+      "mood": [
+        "Philosophical",
+        "Angry"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M301",
+    "title": "TheFight Club Legend",
+    "year": 1954,
+    "content": {
+      "description": "A aging detective investigates a wormhole and becomes obsessed with the truth.",
+      "director": "Orson Welles",
+      "cast": [
+        "Chris Pratt",
+        "Margot Robbie",
+        "Vivien Leigh"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Fantasy",
+        "Action",
+        "Animation",
+        "Horror"
+      ],
+      "mood": [
+        "Charming",
+        "Inspirational",
+        "Philosophical"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M302",
+    "title": "Brave Empire",
+    "year": 2010,
+    "content": {
+      "description": "A insomniac thief fights against guardians and becomes obsessed with the truth.",
+      "director": "Stanley Kubrick",
+      "cast": [
+        "Daniel Day-Lewis",
+        "Robert Downey Jr.",
+        "Gene Hackman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Animation",
+        "Comedy"
+      ],
+      "mood": [
+        "Exciting",
+        "Heartwarming"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M303",
+    "title": "TheDirty War",
+    "year": 2007,
+    "content": {
+      "description": "A insomniac thief travels through a drug cartel and becomes obsessed with the truth.",
+      "director": "Greta Gerwig",
+      "cast": [
+        "Meryl Streep",
+        "Morgan Freeman",
+        "Chris Pratt"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "War",
+        "Sci-Fi",
+        "Music"
+      ],
+      "mood": [
+        "Exciting",
+        "Bittersweet",
+        "Intense"
+      ],
+      "era": "2000s"
+    }
+  },
+  {
+    "item_id": "M304",
+    "title": "TheRising Woman",
+    "year": 2012,
+    "content": {
+      "description": "A young princess investigates the ring and becomes obsessed with the truth.",
+      "director": "Jordan Peele",
+      "cast": [
+        "Will Smith",
+        "Heath Ledger",
+        "Ingrid Bergman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Animation",
+        "Sport"
+      ],
+      "mood": [
+        "Thrilling",
+        "Witty"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M305",
+    "title": "TheShining Storm",
+    "year": 2010,
+    "content": {
+      "description": "A determined immigrant investigates a drug cartel and becomes obsessed with the truth.",
+      "director": "Denis Villeneuve",
+      "cast": [
+        "Laurence Olivier",
+        "Anne Hathaway",
+        "Sandra Bullock"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Western",
+        "Comedy"
+      ],
+      "mood": [
+        "Witty",
+        "Suspenseful",
+        "Charming"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M306",
+    "title": "TheInception Man",
+    "year": 1994,
+    "content": {
+      "description": "A aging newsman escapes dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Paul Thomas Anderson",
+      "cast": [
+        "Will Smith",
+        "Christian Bale",
+        "Reese Witherspoon"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Comedy",
+        "Drama",
+        "Animation"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Hopeful",
+        "Witty"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M307",
+    "title": "TheGodfather Eclipse",
+    "year": 1938,
+    "content": {
+      "description": "A retired newsman learns from guardians and becomes obsessed with the truth.",
+      "director": "Paul Thomas Anderson",
+      "cast": [
+        "Bette Davis",
+        "Leonardo DiCaprio",
+        "Benedict Cumberbatch"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Western",
+        "Comedy",
+        "Romance",
+        "Mystery"
+      ],
+      "mood": [
+        "Thrilling",
+        "Angry"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M308",
+    "title": "Fight Club War",
+    "year": 2003,
+    "content": {
+      "description": "A bored boxer fights against the ring and becomes obsessed with the truth.",
+      "director": "Martin Scorsese",
+      "cast": [
+        "Al Pacino",
+        "Philip Seymour Hoffman",
+        "Jack Nicholson"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Horror",
+        "Sport",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Thrilling",
+        "Inspirational"
+      ],
+      "era": "2000s"
+    }
+  },
+  {
+    "item_id": "M309",
+    "title": "Great Alien",
+    "year": 2003,
+    "content": {
+      "description": "A young boxer struggles a drug cartel and becomes obsessed with the truth.",
+      "director": "Alfred Hitchcock",
+      "cast": [
+        "Emma Stone",
+        "Denzel Washington",
+        "Robert Downey Jr."
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Animation",
+        "Sport",
+        "Western",
+        "Mystery"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Romantic"
+      ],
+      "era": "2000s"
+    }
+  },
+  {
+    "item_id": "M310",
+    "title": "Godfather Revenge",
+    "year": 1992,
+    "content": {
+      "description": "A retired explorer struggles a woman's suicide attempts and becomes obsessed with the truth.",
+      "director": "Christopher Nolan",
+      "cast": [
+        "Scarlett Johansson",
+        "Dustin Hoffman",
+        "Charlize Theron"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Horror",
+        "Biography",
+        "Sport",
+        "War"
+      ],
+      "mood": [
+        "Witty",
+        "Thrilling"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M311",
+    "title": "TheInterstellar Detective",
+    "year": 1945,
+    "content": {
+      "description": "A young immigrant fights against a wormhole and becomes obsessed with the truth.",
+      "director": "Denis Villeneuve",
+      "cast": [
+        "Audrey Hepburn",
+        "Robert Downey Jr.",
+        "Heath Ledger"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Horror",
+        "Biography"
+      ],
+      "mood": [
+        "Philosophical",
+        "Hopeful",
+        "Violent"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M312",
+    "title": "AGood Robot",
+    "year": 1930,
+    "content": {
+      "description": "A insomniac boxer investigates dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Denis Villeneuve",
+      "cast": [
+        "Keanu Reeves",
+        "Matt Damon",
+        "Daniel Day-Lewis"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Sport",
+        "Romance"
+      ],
+      "mood": [
+        "Psychological",
+        "Romantic",
+        "Emotional"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M313",
+    "title": "TheShawshank Eclipse",
+    "year": 2014,
+    "content": {
+      "description": "A troubled newsman learns from guardians and becomes obsessed with the truth.",
+      "director": "Lana Wachowski",
+      "cast": [
+        "Benedict Cumberbatch",
+        "Amy Adams",
+        "Jessica Chastain"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Biography",
+        "War"
+      ],
+      "mood": [
+        "Powerful",
+        "Hopeful"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M314",
+    "title": "AGreat Battle",
+    "year": 2006,
+    "content": {
+      "description": "A retired explorer travels through dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Stanley Kubrick",
+      "cast": [
+        "Adrien Brody",
+        "Reese Witherspoon",
+        "Brad Pitt"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Music",
+        "Horror"
+      ],
+      "mood": [
+        "Inspirational",
+        "Emotional"
+      ],
+      "era": "2000s"
+    }
+  },
+  {
+    "item_id": "M315",
+    "title": "TheMatrix Betrayal",
+    "year": 2022,
+    "content": {
+      "description": "A troubled boxer plants dream-sharing technology and becomes obsessed with the truth.",
+      "director": "James Cameron",
+      "cast": [
+        "Leonardo DiCaprio",
+        "Emma Stone",
+        "Vivien Leigh"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Adventure",
+        "History",
+        "Thriller",
+        "Romance"
+      ],
+      "mood": [
+        "Chaotic",
+        "Somber"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M316",
+    "title": "TheFinal Pirate",
+    "year": 1955,
+    "content": {
+      "description": "A insomniac warrior travels through dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Michael Curtiz",
+      "cast": [
+        "Benedict Cumberbatch",
+        "Nicole Kidman",
+        "Samuel L. Jackson"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Comedy",
+        "Adventure",
+        "Animation",
+        "Crime"
+      ],
+      "mood": [
+        "Witty",
+        "Hopeful"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M317",
+    "title": "TheMatrix Soldier",
+    "year": 2025,
+    "content": {
+      "description": "A retired princess fights against mysterious rebels and becomes obsessed with the truth.",
+      "director": "Ari Aster",
+      "cast": [
+        "Humphrey Bogart",
+        "Russell Crowe",
+        "Scarlett Johansson"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Romance",
+        "Sci-Fi",
+        "Music",
+        "Thriller"
+      ],
+      "mood": [
+        "Exciting",
+        "Chaotic"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M318",
+    "title": "Pulp Blood",
+    "year": 1950,
+    "content": {
+      "description": "A retired princess struggles the ring and becomes obsessed with the truth.",
+      "director": "Lana Wachowski",
+      "cast": [
+        "Will Smith",
+        "Matt Damon",
+        "Amy Adams"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Romance",
+        "Sport",
+        "History"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Angry",
+        "Bittersweet"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M319",
+    "title": "ASecret Fire",
+    "year": 1990,
+    "content": {
+      "description": "A cynical warrior travels through the ring and becomes obsessed with the truth.",
+      "director": "Alfred Hitchcock",
+      "cast": [
+        "Will Smith",
+        "Sandra Bullock",
+        "Reese Witherspoon"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "History",
+        "Biography",
+        "Mystery"
+      ],
+      "mood": [
+        "Philosophical",
+        "Serious"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M320",
+    "title": "TheBad Detective",
+    "year": 1983,
+    "content": {
+      "description": "A brilliant newsman plants mysterious rebels and becomes obsessed with the truth.",
+      "director": "Ari Aster",
+      "cast": [
+        "Brad Pitt",
+        "Marlon Brando",
+        "Charlize Theron"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Drama",
+        "Action"
+      ],
+      "mood": [
+        "Psychological",
+        "Mind-bending",
+        "Philosophical"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M321",
+    "title": "TheFurious King",
+    "year": 1976,
+    "content": {
+      "description": "A retired hacker investigates mysterious rebels and becomes obsessed with the truth.",
+      "director": "Jordan Peele",
+      "cast": [
+        "Heath Ledger",
+        "Anne Hathaway",
+        "Benedict Cumberbatch"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Romance",
+        "Western",
+        "Sport",
+        "Music"
+      ],
+      "mood": [
+        "Angry",
+        "Romantic"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M322",
+    "title": "TheTrue Vampire",
+    "year": 1970,
+    "content": {
+      "description": "A troubled thief investigates guardians and becomes obsessed with the truth.",
+      "director": "Denis Villeneuve",
+      "cast": [
+        "Cary Grant",
+        "Keanu Reeves",
+        "Julia Roberts"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Sport",
+        "Animation",
+        "Horror",
+        "History"
+      ],
+      "mood": [
+        "Inspirational",
+        "Stylish"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M323",
+    "title": "Final Soldier",
+    "year": 1921,
+    "content": {
+      "description": "A cynical scientist escapes a woman's suicide attempts and becomes obsessed with the truth.",
+      "director": "Robert Zemeckis",
+      "cast": [
+        "Tom Hanks",
+        "Sandra Bullock",
+        "Daniel Day-Lewis"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Biography",
+        "Thriller",
+        "Fantasy",
+        "Comedy"
+      ],
+      "mood": [
+        "Angry",
+        "Bittersweet"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M324",
+    "title": "TheGladiator Hero",
+    "year": 2014,
+    "content": {
+      "description": "A bored princess takes over mysterious rebels and becomes obsessed with the truth.",
+      "director": "Ari Aster",
+      "cast": [
+        "Jessica Chastain",
+        "Clark Gable",
+        "Ingrid Bergman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Crime",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Romantic",
+        "Heartwarming",
+        "Somber"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M325",
+    "title": "Bad Dream",
+    "year": 1976,
+    "content": {
+      "description": "A aging detective fights against the ring and becomes obsessed with the truth.",
+      "director": "Orson Welles",
+      "cast": [
+        "Jessica Chastain",
+        "Joaquin Phoenix",
+        "Audrey Hepburn"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Music",
+        "Biography",
+        "War",
+        "Fantasy"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Somber",
+        "Chaotic"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M326",
+    "title": "ALost Legend",
+    "year": 1937,
+    "content": {
+      "description": "A troubled princess investigates the ring and becomes obsessed with the truth.",
+      "director": "Greta Gerwig",
+      "cast": [
+        "Russell Crowe",
+        "Dwayne Johnson",
+        "Emma Stone"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Comedy",
+        "Adventure",
+        "Romance",
+        "History"
+      ],
+      "mood": [
+        "Violent",
+        "Chaotic",
+        "Mind-bending"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M327",
+    "title": "ADark Knight Spy",
+    "year": 1926,
+    "content": {
+      "description": "A aging princess takes over dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Martin Scorsese",
+      "cast": [
+        "Humphrey Bogart",
+        "Cary Grant",
+        "Jessica Chastain"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Animation",
+        "Horror",
+        "Comedy"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Angry",
+        "Powerful"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M328",
+    "title": "AFurious Empire",
+    "year": 2010,
+    "content": {
+      "description": "A bored newsman plants mysterious rebels and becomes obsessed with the truth.",
+      "director": "Alfred Hitchcock",
+      "cast": [
+        "Jessica Chastain",
+        "Heath Ledger",
+        "Will Smith"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "War",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Hopeful",
+        "Chaotic",
+        "Thrilling"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M329",
+    "title": "Final Soldier",
+    "year": 1991,
+    "content": {
+      "description": "A former boxer fights against dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Francis Ford Coppola",
+      "cast": [
+        "Philip Seymour Hoffman",
+        "Laurence Olivier",
+        "Sean Penn"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Action",
+        "Biography"
+      ],
+      "mood": [
+        "Romantic",
+        "Angry",
+        "Bittersweet"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M330",
+    "title": "Secret Monster",
+    "year": 2019,
+    "content": {
+      "description": "A young immigrant plants a drug cartel and becomes obsessed with the truth.",
+      "director": "David Fincher",
+      "cast": [
+        "Nicole Kidman",
+        "Sandra Bullock",
+        "Keanu Reeves"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Mystery",
+        "Comedy",
+        "History"
+      ],
+      "mood": [
+        "Romantic",
+        "Exciting"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M331",
+    "title": "TheGodfather Spy",
+    "year": 1996,
+    "content": {
+      "description": "A former boxer fights against the ring and becomes obsessed with the truth.",
+      "director": "Frank Darabont",
+      "cast": [
+        "Nicole Kidman",
+        "Leonardo DiCaprio",
+        "Sean Penn"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Western",
+        "Adventure",
+        "Romance",
+        "Action"
+      ],
+      "mood": [
+        "Psychological",
+        "Intense"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M332",
+    "title": "AShining Dream",
+    "year": 2009,
+    "content": {
+      "description": "A bored scientist investigates mysterious rebels and becomes obsessed with the truth.",
+      "director": "Brian De Palma",
+      "cast": [
+        "Benedict Cumberbatch",
+        "Brad Pitt",
+        "Reese Witherspoon"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Fantasy",
+        "Crime",
+        "Romance"
+      ],
+      "mood": [
+        "Bittersweet",
+        "Stylish",
+        "Angry"
+      ],
+      "era": "2000s"
+    }
+  },
+  {
+    "item_id": "M333",
+    "title": "Interstellar Cop",
+    "year": 1988,
+    "content": {
+      "description": "A troubled immigrant takes over guardians and becomes obsessed with the truth.",
+      "director": "Bong Joon-ho",
+      "cast": [
+        "Emma Stone",
+        "Robert Downey Jr.",
+        "Nicole Kidman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Fantasy",
+        "Comedy"
+      ],
+      "mood": [
+        "Psychological",
+        "Powerful",
+        "Violent"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M334",
+    "title": "Magnificent Fire",
+    "year": 1984,
+    "content": {
+      "description": "A troubled scientist investigates mysterious rebels and becomes obsessed with the truth.",
+      "director": "Wes Anderson",
+      "cast": [
+        "Emma Stone",
+        "Samuel L. Jackson",
+        "Reese Witherspoon"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Comedy",
+        "Western",
+        "War"
+      ],
+      "mood": [
+        "Romantic",
+        "Suspenseful"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M335",
+    "title": "Silent Cop",
+    "year": 1932,
+    "content": {
+      "description": "A aging hacker travels through a drug cartel and becomes obsessed with the truth.",
+      "director": "Robert Zemeckis",
+      "cast": [
+        "Scarlett Johansson",
+        "Heath Ledger",
+        "Natalie Portman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Psychological",
+        "Stylish"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M336",
+    "title": "TheInterstellar Quest",
+    "year": 1970,
+    "content": {
+      "description": "A determined hacker escapes a drug cartel and becomes obsessed with the truth.",
+      "director": "Jordan Peele",
+      "cast": [
+        "Keanu Reeves",
+        "Natalie Portman",
+        "Nicole Kidman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "History",
+        "Music",
+        "Western",
+        "Romance"
+      ],
+      "mood": [
+        "Inspirational",
+        "Charming"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M337",
+    "title": "AMagnificent Eclipse",
+    "year": 1968,
+    "content": {
+      "description": "A cynical scientist learns from guardians and becomes obsessed with the truth.",
+      "director": "David Fincher",
+      "cast": [
+        "Heath Ledger",
+        "Marlon Brando",
+        "Sean Penn"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Music",
+        "Thriller",
+        "Crime",
+        "Sport"
+      ],
+      "mood": [
+        "Charming",
+        "Powerful",
+        "Serious"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M338",
+    "title": "Dark Knight Detective",
+    "year": 2020,
+    "content": {
+      "description": "A insomniac thief learns from a drug cartel and becomes obsessed with the truth.",
+      "director": "Guillermo del Toro",
+      "cast": [
+        "Anne Hathaway",
+        "Dwayne Johnson",
+        "Will Smith"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Mystery",
+        "Music",
+        "Adventure",
+        "Animation"
+      ],
+      "mood": [
+        "Philosophical",
+        "Intense",
+        "Psychological"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M339",
+    "title": "TheGood King",
+    "year": 1927,
+    "content": {
+      "description": "A determined scientist escapes dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Stanley Kubrick",
+      "cast": [
+        "Clark Gable",
+        "Gene Hackman",
+        "Benedict Cumberbatch"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Animation",
+        "Thriller"
+      ],
+      "mood": [
+        "Angry",
+        "Charming",
+        "Inspirational"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M340",
+    "title": "TheDirty Woman",
+    "year": 1975,
+    "content": {
+      "description": "A brilliant explorer escapes mysterious rebels and becomes obsessed with the truth.",
+      "director": "Taika Waititi",
+      "cast": [
+        "Morgan Freeman",
+        "Dwayne Johnson",
+        "George Clooney"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Crime",
+        "Music"
+      ],
+      "mood": [
+        "Angry",
+        "Chaotic",
+        "Psychological"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M341",
+    "title": "TheRising Fire",
+    "year": 1958,
+    "content": {
+      "description": "A bored immigrant struggles mysterious rebels and becomes obsessed with the truth.",
+      "director": "Taika Waititi",
+      "cast": [
+        "Keanu Reeves",
+        "Anne Hathaway",
+        "Marlon Brando"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "War",
+        "Fantasy",
+        "Mystery"
+      ],
+      "mood": [
+        "Emotional",
+        "Bittersweet"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M342",
+    "title": "ASilent Shadow",
+    "year": 1947,
+    "content": {
+      "description": "A former newsman learns from a wormhole and becomes obsessed with the truth.",
+      "director": "Brian De Palma",
+      "cast": [
+        "Gene Hackman",
+        "Charlize Theron",
+        "Samuel L. Jackson"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Horror",
+        "Fantasy"
+      ],
+      "mood": [
+        "Thrilling",
+        "Charming"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M343",
+    "title": "ARising Detective",
+    "year": 1993,
+    "content": {
+      "description": "A determined scientist plants dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Taika Waititi",
+      "cast": [
+        "Anne Hathaway",
+        "Heath Ledger",
+        "Joaquin Phoenix"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "War",
+        "Biography",
+        "Comedy",
+        "Music"
+      ],
+      "mood": [
+        "Emotional",
+        "Heartwarming"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M344",
+    "title": "TheBrave Alien",
+    "year": 2007,
+    "content": {
+      "description": "A determined explorer struggles guardians and becomes obsessed with the truth.",
+      "director": "Paul Thomas Anderson",
+      "cast": [
+        "Anne Hathaway",
+        "Laurence Olivier",
+        "Morgan Freeman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Music",
+        "Romance",
+        "Biography"
+      ],
+      "mood": [
+        "Psychological",
+        "Witty"
+      ],
+      "era": "2000s"
+    }
+  },
+  {
+    "item_id": "M345",
+    "title": "TheGladiator Fire",
+    "year": 1988,
+    "content": {
+      "description": "A aging detective takes over a wormhole and becomes obsessed with the truth.",
+      "director": "Tim Burton",
+      "cast": [
+        "Gene Hackman",
+        "Marlon Brando",
+        "Clark Gable"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Mystery",
+        "Adventure"
+      ],
+      "mood": [
+        "Violent",
+        "Romantic"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M346",
+    "title": "ASilent Cop",
+    "year": 1947,
+    "content": {
+      "description": "A determined thief fights against a wormhole and becomes obsessed with the truth.",
+      "director": "Frank Darabont",
+      "cast": [
+        "Jessica Chastain",
+        "Scarlett Johansson",
+        "Clark Gable"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Adventure",
+        "Western",
+        "Biography",
+        "History"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Violent",
+        "Emotional"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M347",
+    "title": "Magnificent Robot",
+    "year": 1922,
+    "content": {
+      "description": "A former scientist escapes the ring and becomes obsessed with the truth.",
+      "director": "Denis Villeneuve",
+      "cast": [
+        "Al Pacino",
+        "Morgan Freeman",
+        "Dustin Hoffman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Crime",
+        "Music",
+        "Comedy",
+        "War"
+      ],
+      "mood": [
+        "Angry",
+        "Mind-bending",
+        "Intense"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M348",
+    "title": "Final Wizard",
+    "year": 1952,
+    "content": {
+      "description": "A bored warrior fights against dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Christopher Nolan",
+      "cast": [
+        "Julia Roberts",
+        "Sean Penn",
+        "Clark Gable"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Thriller",
+        "Crime",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Intense",
+        "Angry",
+        "Bittersweet"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M349",
+    "title": "Lost Storm",
+    "year": 1981,
+    "content": {
+      "description": "A bored hacker investigates a drug cartel and becomes obsessed with the truth.",
+      "director": "Paul Thomas Anderson",
+      "cast": [
+        "Ryan Gosling",
+        "Natalie Portman",
+        "Humphrey Bogart"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "War",
+        "Thriller",
+        "Western",
+        "Comedy"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Violent"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M350",
+    "title": "Interstellar Man",
+    "year": 1958,
+    "content": {
+      "description": "A aging hacker escapes dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Quentin Tarantino",
+      "cast": [
+        "Sandra Bullock",
+        "Reese Witherspoon",
+        "Adrien Brody"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Fantasy",
+        "History"
+      ],
+      "mood": [
+        "Witty",
+        "Powerful",
+        "Somber"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M351",
+    "title": "TheDirty Vampire",
+    "year": 1928,
+    "content": {
+      "description": "A troubled boxer takes over the ring and becomes obsessed with the truth.",
+      "director": "Bong Joon-ho",
+      "cast": [
+        "Viola Davis",
+        "Emma Stone",
+        "Tom Hardy"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Adventure",
+        "Romance",
+        "War"
+      ],
+      "mood": [
+        "Angry",
+        "Charming"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M352",
+    "title": "Fight Club Dream",
+    "year": 2024,
+    "content": {
+      "description": "A troubled warrior escapes mysterious rebels and becomes obsessed with the truth.",
+      "director": "Jordan Peele",
+      "cast": [
+        "Joaquin Phoenix",
+        "Dwayne Johnson",
+        "James Stewart"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Western",
+        "Crime",
+        "Adventure",
+        "Biography"
+      ],
+      "mood": [
+        "Hopeful",
+        "Serious"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M353",
+    "title": "TheDark Ghost",
+    "year": 1971,
+    "content": {
+      "description": "A troubled newsman fights against a drug cartel and becomes obsessed with the truth.",
+      "director": "Orson Welles",
+      "cast": [
+        "Ingrid Bergman",
+        "Chris Hemsworth",
+        "Philip Seymour Hoffman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Biography",
+        "Crime",
+        "Thriller",
+        "Music"
+      ],
+      "mood": [
+        "Powerful",
+        "Violent"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M354",
+    "title": "ABrave City",
+    "year": 1939,
+    "content": {
+      "description": "A aging explorer takes over a wormhole and becomes obsessed with the truth.",
+      "director": "Robert Zemeckis",
+      "cast": [
+        "Amy Adams",
+        "Keanu Reeves",
+        "Adrien Brody"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Fantasy",
+        "Romance",
+        "Mystery"
+      ],
+      "mood": [
+        "Chaotic",
+        "Bittersweet",
+        "Exciting"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M355",
+    "title": "Lost Honor",
+    "year": 1964,
+    "content": {
+      "description": "A aging hacker takes over a wormhole and becomes obsessed with the truth.",
+      "director": "Greta Gerwig",
+      "cast": [
+        "Scarlett Johansson",
+        "James Stewart",
+        "Chris Pratt"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Music",
+        "Mystery",
+        "Crime"
+      ],
+      "mood": [
+        "Charming",
+        "Inspirational",
+        "Thrilling"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M356",
+    "title": "TheGreat War",
+    "year": 2024,
+    "content": {
+      "description": "A aging thief struggles mysterious rebels and becomes obsessed with the truth.",
+      "director": "Quentin Tarantino",
+      "cast": [
+        "Charlize Theron",
+        "Bette Davis",
+        "Anne Hathaway"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Biography",
+        "Animation",
+        "Romance",
+        "War"
+      ],
+      "mood": [
+        "Witty",
+        "Heartwarming"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M357",
+    "title": "AGood Revenge",
+    "year": 1990,
+    "content": {
+      "description": "A determined detective plants a drug cartel and becomes obsessed with the truth.",
+      "director": "Lilly Wachowski",
+      "cast": [
+        "Chris Pratt",
+        "Adrien Brody",
+        "Natalie Portman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Action",
+        "Drama",
+        "Animation",
+        "Thriller"
+      ],
+      "mood": [
+        "Stylish",
+        "Powerful"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M358",
+    "title": "TheBrave Quest",
+    "year": 2023,
+    "content": {
+      "description": "A determined detective investigates mysterious rebels and becomes obsessed with the truth.",
+      "director": "James Cameron",
+      "cast": [
+        "Samuel L. Jackson",
+        "Benedict Cumberbatch",
+        "Keanu Reeves"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Drama",
+        "Sci-Fi",
+        "Fantasy",
+        "Biography"
+      ],
+      "mood": [
+        "Serious",
+        "Mind-bending"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M359",
+    "title": "Bad Shadow",
+    "year": 1977,
+    "content": {
+      "description": "A brilliant warrior struggles a woman's suicide attempts and becomes obsessed with the truth.",
+      "director": "Ari Aster",
+      "cast": [
+        "Robert De Niro",
+        "Vivien Leigh",
+        "Anne Hathaway"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "History",
+        "Sci-Fi",
+        "Western",
+        "Action"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Hopeful"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M360",
+    "title": "ABrave Ghost",
+    "year": 1991,
+    "content": {
+      "description": "A aging scientist escapes a drug cartel and becomes obsessed with the truth.",
+      "director": "Jordan Peele",
+      "cast": [
+        "Amy Adams",
+        "Margot Robbie",
+        "Dustin Hoffman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Western",
+        "Biography"
+      ],
+      "mood": [
+        "Thrilling",
+        "Hopeful",
+        "Bittersweet"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M361",
+    "title": "TheFinal Samurai",
+    "year": 1962,
+    "content": {
+      "description": "A aging scientist learns from the ring and becomes obsessed with the truth.",
+      "director": "Quentin Tarantino",
+      "cast": [
+        "George Clooney",
+        "Humphrey Bogart",
+        "Joaquin Phoenix"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Western",
+        "Action",
+        "Crime"
+      ],
+      "mood": [
+        "Philosophical",
+        "Somber",
+        "Inspirational"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M362",
+    "title": "AFalling Alien",
+    "year": 2023,
+    "content": {
+      "description": "A aging hacker plants guardians and becomes obsessed with the truth.",
+      "director": "Orson Welles",
+      "cast": [
+        "Reese Witherspoon",
+        "Leonardo DiCaprio",
+        "Benedict Cumberbatch"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Sci-Fi",
+        "War",
+        "Thriller",
+        "Adventure"
+      ],
+      "mood": [
+        "Emotional",
+        "Powerful",
+        "Philosophical"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M363",
+    "title": "TheDirty Night",
+    "year": 2015,
+    "content": {
+      "description": "A troubled warrior escapes mysterious rebels and becomes obsessed with the truth.",
+      "director": "Jordan Peele",
+      "cast": [
+        "Audrey Hepburn",
+        "Denzel Washington",
+        "Meryl Streep"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "History",
+        "Mystery"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Serious"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M364",
+    "title": "TheDark Blood",
+    "year": 1920,
+    "content": {
+      "description": "A brilliant princess learns from dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Michael Curtiz",
+      "cast": [
+        "Clark Gable",
+        "Will Smith",
+        "Humphrey Bogart"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Adventure",
+        "Action"
+      ],
+      "mood": [
+        "Witty",
+        "Hopeful",
+        "Thrilling"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M365",
+    "title": "TheGodfather Dawn",
+    "year": 1990,
+    "content": {
+      "description": "A brilliant warrior struggles a drug cartel and becomes obsessed with the truth.",
+      "director": "Alfred Hitchcock",
+      "cast": [
+        "Sandra Bullock",
+        "Meryl Streep",
+        "Clark Gable"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Romance",
+        "Music"
+      ],
+      "mood": [
+        "Intense",
+        "Powerful"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M366",
+    "title": "AInterstellar Soldier",
+    "year": 2025,
+    "content": {
+      "description": "A retired scientist fights against a woman's suicide attempts and becomes obsessed with the truth.",
+      "director": "James Cameron",
+      "cast": [
+        "Clark Gable",
+        "Sandra Bullock",
+        "Amy Adams"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Comedy",
+        "Sci-Fi",
+        "Drama",
+        "Mystery"
+      ],
+      "mood": [
+        "Emotional",
+        "Charming"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M367",
+    "title": "AFalling Ghost",
+    "year": 2023,
+    "content": {
+      "description": "A retired newsman fights against a woman's suicide attempts and becomes obsessed with the truth.",
+      "director": "Frank Darabont",
+      "cast": [
+        "Morgan Freeman",
+        "Joaquin Phoenix",
+        "Charlize Theron"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Western",
+        "Drama",
+        "History",
+        "Mystery"
+      ],
+      "mood": [
+        "Serious",
+        "Intense",
+        "Mind-bending"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M368",
+    "title": "TheShawshank Dream",
+    "year": 2023,
+    "content": {
+      "description": "A bored warrior investigates the ring and becomes obsessed with the truth.",
+      "director": "Peter Jackson",
+      "cast": [
+        "Amy Adams",
+        "Morgan Freeman",
+        "Matt Damon"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Adventure",
+        "Western",
+        "Comedy"
+      ],
+      "mood": [
+        "Powerful",
+        "Angry"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M369",
+    "title": "ADirty Zombie",
+    "year": 1952,
+    "content": {
+      "description": "A bored hacker fights against the ring and becomes obsessed with the truth.",
+      "director": "Bong Joon-ho",
+      "cast": [
+        "Gene Hackman",
+        "Anne Hathaway",
+        "Jack Nicholson"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Romance",
+        "Fantasy",
+        "Mystery",
+        "Sport"
+      ],
+      "mood": [
+        "Bittersweet",
+        "Chaotic"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M370",
+    "title": "TheFight Club Redemption",
+    "year": 1978,
+    "content": {
+      "description": "A retired hacker fights against dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Denis Villeneuve",
+      "cast": [
+        "Morgan Freeman",
+        "Russell Crowe",
+        "Emma Stone"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Crime",
+        "Mystery"
+      ],
+      "mood": [
+        "Hopeful",
+        "Witty"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M371",
+    "title": "TheGodfather City",
+    "year": 1987,
+    "content": {
+      "description": "A determined newsman struggles a drug cartel and becomes obsessed with the truth.",
+      "director": "Paul Thomas Anderson",
+      "cast": [
+        "Denzel Washington",
+        "Benedict Cumberbatch",
+        "Natalie Portman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Romance",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "mood": [
+        "Violent",
+        "Romantic"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M372",
+    "title": "Godfather Ghost",
+    "year": 1928,
+    "content": {
+      "description": "A retired warrior struggles the ring and becomes obsessed with the truth.",
+      "director": "Wes Anderson",
+      "cast": [
+        "Christian Bale",
+        "Anne Hathaway",
+        "George Clooney"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Mystery",
+        "Adventure"
+      ],
+      "mood": [
+        "Witty",
+        "Exciting",
+        "Intense"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M373",
+    "title": "Great Fire",
+    "year": 1984,
+    "content": {
+      "description": "A troubled thief plants a drug cartel and becomes obsessed with the truth.",
+      "director": "Taika Waititi",
+      "cast": [
+        "Reese Witherspoon",
+        "Denzel Washington",
+        "Christian Bale"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Western",
+        "Animation",
+        "Fantasy",
+        "Romance"
+      ],
+      "mood": [
+        "Chaotic",
+        "Heartwarming",
+        "Somber"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M374",
+    "title": "TheMagnificent Honor",
+    "year": 1944,
+    "content": {
+      "description": "A brilliant immigrant fights against the ring and becomes obsessed with the truth.",
+      "director": "Ridley Scott",
+      "cast": [
+        "Bette Davis",
+        "Gene Hackman",
+        "Leonardo DiCaprio"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Adventure",
+        "Drama",
+        "Crime"
+      ],
+      "mood": [
+        "Chaotic",
+        "Exciting"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M375",
+    "title": "ADirty Wizard",
+    "year": 1943,
+    "content": {
+      "description": "A aging scientist struggles mysterious rebels and becomes obsessed with the truth.",
+      "director": "Michael Curtiz",
+      "cast": [
+        "Vivien Leigh",
+        "Tom Hanks",
+        "Reese Witherspoon"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Animation",
+        "Music",
+        "Sport"
+      ],
+      "mood": [
+        "Thrilling",
+        "Violent"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M376",
+    "title": "TheMagnificent Blood",
+    "year": 1997,
+    "content": {
+      "description": "A former thief learns from dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Denis Villeneuve",
+      "cast": [
+        "Heath Ledger",
+        "Ryan Gosling",
+        "Sandra Bullock"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Biography",
+        "Comedy",
+        "History"
+      ],
+      "mood": [
+        "Psychological",
+        "Charming",
+        "Somber"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M377",
+    "title": "TheSilent Killer",
+    "year": 1983,
+    "content": {
+      "description": "A retired hacker plants guardians and becomes obsessed with the truth.",
+      "director": "Alfred Hitchcock",
+      "cast": [
+        "Meryl Streep",
+        "Dustin Hoffman",
+        "Morgan Freeman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "History",
+        "Mystery",
+        "Animation",
+        "Comedy"
+      ],
+      "mood": [
+        "Philosophical",
+        "Exciting"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M378",
+    "title": "Rising Killer",
+    "year": 1933,
+    "content": {
+      "description": "A former newsman travels through guardians and becomes obsessed with the truth.",
+      "director": "James Cameron",
+      "cast": [
+        "Anne Hathaway",
+        "Philip Seymour Hoffman",
+        "Margot Robbie"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Animation",
+        "Fantasy"
+      ],
+      "mood": [
+        "Hopeful",
+        "Serious",
+        "Heartwarming"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M379",
+    "title": "Godfather Fire",
+    "year": 2000,
+    "content": {
+      "description": "A insomniac hacker learns from mysterious rebels and becomes obsessed with the truth.",
+      "director": "Taika Waititi",
+      "cast": [
+        "Joaquin Phoenix",
+        "Charlize Theron",
+        "Gene Hackman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Adventure",
+        "Romance",
+        "History",
+        "Western"
+      ],
+      "mood": [
+        "Violent",
+        "Thrilling"
+      ],
+      "era": "2000s"
+    }
+  },
+  {
+    "item_id": "M380",
+    "title": "Gladiator Woman",
+    "year": 1979,
+    "content": {
+      "description": "A young newsman escapes a wormhole and becomes obsessed with the truth.",
+      "director": "Christopher Nolan",
+      "cast": [
+        "Chris Pratt",
+        "Charlize Theron",
+        "Samuel L. Jackson"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Fantasy",
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "mood": [
+        "Inspirational",
+        "Charming"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M381",
+    "title": "AFalling King",
+    "year": 2021,
+    "content": {
+      "description": "A young princess struggles a woman's suicide attempts and becomes obsessed with the truth.",
+      "director": "Denis Villeneuve",
+      "cast": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Al Pacino"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Drama",
+        "Crime",
+        "Sport"
+      ],
+      "mood": [
+        "Psychological",
+        "Suspenseful"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M382",
+    "title": "AShawshank Robot",
+    "year": 1948,
+    "content": {
+      "description": "A former thief travels through dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Greta Gerwig",
+      "cast": [
+        "Samuel L. Jackson",
+        "Denzel Washington",
+        "Laurence Olivier"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Horror",
+        "History"
+      ],
+      "mood": [
+        "Psychological",
+        "Charming"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M383",
+    "title": "Silent Woman",
+    "year": 1982,
+    "content": {
+      "description": "A former scientist fights against dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Orson Welles",
+      "cast": [
+        "Dustin Hoffman",
+        "Russell Crowe",
+        "Chris Pratt"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Fantasy",
+        "Comedy",
+        "Western",
+        "Music"
+      ],
+      "mood": [
+        "Charming",
+        "Emotional"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M384",
+    "title": "ATrue City",
+    "year": 1985,
+    "content": {
+      "description": "A retired scientist learns from a wormhole and becomes obsessed with the truth.",
+      "director": "Francis Ford Coppola",
+      "cast": [
+        "Robert Downey Jr.",
+        "Margot Robbie",
+        "Julia Roberts"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Mystery",
+        "Romance"
+      ],
+      "mood": [
+        "Witty",
+        "Exciting",
+        "Stylish"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M385",
+    "title": "Fight Club Shadow",
+    "year": 1937,
+    "content": {
+      "description": "A young princess plants the ring and becomes obsessed with the truth.",
+      "director": "Bong Joon-ho",
+      "cast": [
+        "Clark Gable",
+        "Dwayne Johnson",
+        "Scarlett Johansson"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Action",
+        "Romance"
+      ],
+      "mood": [
+        "Inspirational",
+        "Angry",
+        "Charming"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M386",
+    "title": "TheGreat Redemption",
+    "year": 1926,
+    "content": {
+      "description": "A young princess plants a wormhole and becomes obsessed with the truth.",
+      "director": "Greta Gerwig",
+      "cast": [
+        "Amy Adams",
+        "Heath Ledger",
+        "Philip Seymour Hoffman"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Drama",
+        "War",
+        "Horror"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Violent",
+        "Serious"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M387",
+    "title": "Fight Club Revenge",
+    "year": 1933,
+    "content": {
+      "description": "A determined princess investigates mysterious rebels and becomes obsessed with the truth.",
+      "director": "Paul Thomas Anderson",
+      "cast": [
+        "Morgan Freeman",
+        "Daniel Day-Lewis",
+        "Jack Nicholson"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "History",
+        "Action",
+        "Animation",
+        "War"
+      ],
+      "mood": [
+        "Romantic",
+        "Powerful",
+        "Philosophical"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M388",
+    "title": "TheDark Knight Zombie",
+    "year": 1986,
+    "content": {
+      "description": "A troubled thief plants mysterious rebels and becomes obsessed with the truth.",
+      "director": "Francis Ford Coppola",
+      "cast": [
+        "Adrien Brody",
+        "Ryan Gosling",
+        "Leonardo DiCaprio"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Biography",
+        "War"
+      ],
+      "mood": [
+        "Chaotic",
+        "Thrilling",
+        "Romantic"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M389",
+    "title": "ABad Robot",
+    "year": 2024,
+    "content": {
+      "description": "A cynical immigrant plants a drug cartel and becomes obsessed with the truth.",
+      "director": "Taika Waititi",
+      "cast": [
+        "Humphrey Bogart",
+        "Julia Roberts",
+        "Benedict Cumberbatch"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Horror",
+        "Crime"
+      ],
+      "mood": [
+        "Inspirational",
+        "Charming"
+      ],
+      "era": "Modern"
+    }
+  },
+  {
+    "item_id": "M390",
+    "title": "TheDark Night",
+    "year": 1930,
+    "content": {
+      "description": "A aging detective investigates a drug cartel and becomes obsessed with the truth.",
+      "director": "Christopher Nolan",
+      "cast": [
+        "Emma Stone",
+        "Natalie Portman",
+        "Anne Hathaway"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "mood": [
+        "Bittersweet",
+        "Chaotic"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M391",
+    "title": "ThePulp Betrayal",
+    "year": 2002,
+    "content": {
+      "description": "A troubled hacker escapes a woman's suicide attempts and becomes obsessed with the truth.",
+      "director": "Bong Joon-ho",
+      "cast": [
+        "Viola Davis",
+        "Cary Grant",
+        "Dwayne Johnson"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Adventure",
+        "Thriller",
+        "Mystery"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Powerful",
+        "Romantic"
+      ],
+      "era": "2000s"
+    }
+  },
+  {
+    "item_id": "M392",
+    "title": "ABrave Empire",
+    "year": 1967,
+    "content": {
+      "description": "A brilliant princess escapes dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Tim Burton",
+      "cast": [
+        "Leonardo DiCaprio",
+        "Robert De Niro",
+        "Matt Damon"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Sci-Fi",
+        "Fantasy",
+        "Music",
+        "Horror"
+      ],
+      "mood": [
+        "Somber",
+        "Mind-bending",
+        "Thrilling"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M393",
+    "title": "TheGladiator Vampire",
+    "year": 2005,
+    "content": {
+      "description": "A young warrior travels through a drug cartel and becomes obsessed with the truth.",
+      "director": "Paul Thomas Anderson",
+      "cast": [
+        "Will Smith",
+        "Russell Crowe",
+        "Audrey Hepburn"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Biography",
+        "Western",
+        "Comedy",
+        "Drama"
+      ],
+      "mood": [
+        "Hopeful",
+        "Mind-bending"
+      ],
+      "era": "2000s"
+    }
+  },
+  {
+    "item_id": "M394",
+    "title": "AShining Monster",
+    "year": 1982,
+    "content": {
+      "description": "A bored princess plants a wormhole and becomes obsessed with the truth.",
+      "director": "David Fincher",
+      "cast": [
+        "Meryl Streep",
+        "Scarlett Johansson",
+        "Leonardo DiCaprio"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Comedy",
+        "Mystery"
+      ],
+      "mood": [
+        "Stylish",
+        "Hopeful",
+        "Exciting"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M395",
+    "title": "TheShining Redemption",
+    "year": 1962,
+    "content": {
+      "description": "A insomniac hacker plants mysterious rebels and becomes obsessed with the truth.",
+      "director": "Wes Anderson",
+      "cast": [
+        "James Stewart",
+        "Bette Davis",
+        "Marlon Brando"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Biography",
+        "Action"
+      ],
+      "mood": [
+        "Witty",
+        "Psychological",
+        "Romantic"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M396",
+    "title": "TheTrue Empire",
+    "year": 1930,
+    "content": {
+      "description": "A insomniac detective travels through dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Frank Darabont",
+      "cast": [
+        "Chris Hemsworth",
+        "Meryl Streep",
+        "George Clooney"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Romance",
+        "History",
+        "Horror"
+      ],
+      "mood": [
+        "Inspirational",
+        "Thrilling",
+        "Emotional"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M397",
+    "title": "AFalling Battle",
+    "year": 1998,
+    "content": {
+      "description": "A bored scientist escapes a woman's suicide attempts and becomes obsessed with the truth.",
+      "director": "Frank Darabont",
+      "cast": [
+        "Dustin Hoffman",
+        "Anne Hathaway",
+        "George Clooney"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Comedy",
+        "Mystery"
+      ],
+      "mood": [
+        "Charming",
+        "Serious",
+        "Intense"
+      ],
+      "era": "80s-90s"
+    }
+  },
+  {
+    "item_id": "M398",
+    "title": "TheShawshank Soldier",
+    "year": 1937,
+    "content": {
+      "description": "A bored explorer investigates a woman's suicide attempts and becomes obsessed with the truth.",
+      "director": "Peter Jackson",
+      "cast": [
+        "Anne Hathaway",
+        "Will Smith",
+        "Emma Stone"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Comedy",
+        "Sci-Fi",
+        "Biography"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Philosophical"
+      ],
+      "era": "Classic"
+    }
+  },
+  {
+    "item_id": "M399",
+    "title": "Pulp Soldier",
+    "year": 1965,
+    "content": {
+      "description": "A cynical princess investigates a drug cartel and becomes obsessed with the truth.",
+      "director": "Tim Burton",
+      "cast": [
+        "Clark Gable",
+        "Chris Hemsworth",
+        "Daniel Day-Lewis"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "Comedy",
+        "Fantasy",
+        "War"
+      ],
+      "mood": [
+        "Powerful",
+        "Hopeful",
+        "Psychological"
+      ],
+      "era": "60s-70s"
+    }
+  },
+  {
+    "item_id": "M400",
+    "title": "TheMagnificent Woman",
+    "year": 1971,
+    "content": {
+      "description": "A brilliant hacker investigates dream-sharing technology and becomes obsessed with the truth.",
+      "director": "Orson Welles",
+      "cast": [
+        "Scarlett Johansson",
+        "Chris Hemsworth",
+        "Charlize Theron"
+      ]
+    },
+    "tags": {
+      "genre": [
+        "History",
+        "Crime",
+        "Romance"
+      ],
+      "mood": [
+        "Exciting",
+        "Serious",
+        "Thrilling"
+      ],
+      "era": "60s-70s"
+    }
+  }
+]

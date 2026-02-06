@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "tag": "80s",
+    "type": "era",
+    "description": "Top movies from the 80s era",
+    "match_keywords": [
+      "80s",
+      "80s"
+    ],
+    "generated_at": "2026-01-26T01:44:53.781822Z",
+    "candidate_movies": 2
+  },
+  "discovery_questions": [
+    {
+      "question": "Do you enjoy movies from the 80s era?",
+      "positive_signals": [
+        "80s",
+        "yes",
+        "love",
+        "80s"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M003",
+      "title": "Raging Bull",
+      "year": 1980,
+      "director": "Martin Scorsese",
+      "genre": [
+        "Drama",
+        "Biography",
+        "Sport"
+      ],
+      "mood": [
+        "Angry",
+        "Intense"
+      ],
+      "era": "80s",
+      "description_brief": "The story of a middleweight boxing champion who, outside the ring, is a failing husband and unrepentant philanderer.",
+      "why_recommended": "Top-rated 80s movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.91,
+        "high_rating_count": 4,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M002",
+      "title": "Scarface",
+      "year": 1983,
+      "director": "Brian De Palma",
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "mood": [
+        "Violent",
+        "Intense"
+      ],
+      "era": "80s",
+      "description_brief": "In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed and paranoia.",
+      "why_recommended": "Top-rated 80s movie. Average rating: 2.4/5.0",
+      "stats": {
+        "avg_rating": 2.45,
+        "high_rating_count": 2,
+        "total_ratings": 14
+      }
+    }
+  ]
+}

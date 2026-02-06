@@ -1,0 +1,513 @@
+{
+  "meta": {
+    "tag": "Romance",
+    "type": "genre",
+    "description": "Top Romance movies",
+    "match_keywords": [
+      "romance",
+      "Romance"
+    ],
+    "generated_at": "2026-01-26T01:44:53.777690Z",
+    "candidate_movies": 169
+  },
+  "discovery_questions": [
+    {
+      "question": "Do you enjoy Romance movies?",
+      "positive_signals": [
+        "romance",
+        "yes",
+        "love",
+        "Romance"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M628",
+      "title": "Final Hero",
+      "year": 1964,
+      "director": "Tim Burton",
+      "genre": [
+        "Romance",
+        "Fantasy",
+        "Music"
+      ],
+      "mood": [
+        "Charming",
+        "Chaotic"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A former boxer escapes the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Romance movie. Average rating: 3.6/5.0",
+      "stats": {
+        "avg_rating": 3.58,
+        "high_rating_count": 7,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M098",
+      "title": "Furious Ghost",
+      "year": 2023,
+      "director": "Christopher Nolan",
+      "genre": [
+        "Sci-Fi",
+        "Adventure",
+        "Romance"
+      ],
+      "mood": [
+        "Serious",
+        "Intense"
+      ],
+      "era": "Modern",
+      "description_brief": "A insomniac princess escapes a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Romance movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.27,
+        "high_rating_count": 7,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 3,
+      "item_id": "M065",
+      "title": "TheGladiator Samurai",
+      "year": 1920,
+      "director": "Christopher Nolan",
+      "genre": [
+        "Romance",
+        "Action"
+      ],
+      "mood": [
+        "Philosophical",
+        "Inspirational",
+        "Exciting"
+      ],
+      "era": "Classic",
+      "description_brief": "A aging scientist struggles mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Romance movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.19,
+        "high_rating_count": 6,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 4,
+      "item_id": "M182",
+      "title": "TheDark Revenge",
+      "year": 1946,
+      "director": "Peter Jackson",
+      "genre": [
+        "Romance",
+        "Biography"
+      ],
+      "mood": [
+        "Emotional",
+        "Charming"
+      ],
+      "era": "Classic",
+      "description_brief": "A cynical princess takes over dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Romance movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.14,
+        "high_rating_count": 6,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 5,
+      "item_id": "M465",
+      "title": "AFinal Revenge",
+      "year": 2021,
+      "director": "Ari Aster",
+      "genre": [
+        "Horror",
+        "Romance"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Psychological",
+        "Serious"
+      ],
+      "era": "Modern",
+      "description_brief": "A troubled boxer investigates dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Romance movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.12,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 6,
+      "item_id": "M175",
+      "title": "Shining Spy",
+      "year": 1973,
+      "director": "Bong Joon-ho",
+      "genre": [
+        "Biography",
+        "Drama",
+        "Romance",
+        "Thriller"
+      ],
+      "mood": [
+        "Somber",
+        "Charming"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A retired hacker fights against the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Romance movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.1,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 7,
+      "item_id": "M851",
+      "title": "AShining Ghost",
+      "year": 1931,
+      "director": "Greta Gerwig",
+      "genre": [
+        "Comedy",
+        "Drama",
+        "Mystery",
+        "Romance"
+      ],
+      "mood": [
+        "Witty",
+        "Angry"
+      ],
+      "era": "Classic",
+      "description_brief": "A cynical boxer fights against guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Romance movie. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating": 2.77,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 8,
+      "item_id": "M203",
+      "title": "True Monster",
+      "year": 2012,
+      "director": "Taika Waititi",
+      "genre": [
+        "Comedy",
+        "History",
+        "Romance"
+      ],
+      "mood": [
+        "Thrilling",
+        "Angry",
+        "Philosophical"
+      ],
+      "era": "Modern",
+      "description_brief": "A determined immigrant learns from a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Romance movie. Average rating: 2.6/5.0",
+      "stats": {
+        "avg_rating": 2.63,
+        "high_rating_count": 6,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 9,
+      "item_id": "M437",
+      "title": "TheInception City",
+      "year": 2006,
+      "director": "Michael Curtiz",
+      "genre": [
+        "Romance",
+        "Sci-Fi",
+        "Adventure",
+        "Sport"
+      ],
+      "mood": [
+        "Romantic",
+        "Inspirational",
+        "Hopeful"
+      ],
+      "era": "2000s",
+      "description_brief": "A cynical immigrant takes over a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Romance movie. Average rating: 2.5/5.0",
+      "stats": {
+        "avg_rating": 2.51,
+        "high_rating_count": 6,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 10,
+      "item_id": "M015",
+      "title": "Titanic",
+      "year": 1997,
+      "director": "James Cameron",
+      "genre": [
+        "Drama",
+        "Romance"
+      ],
+      "mood": [
+        "Epic",
+        "Tragic"
+      ],
+      "era": "90s",
+      "description_brief": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious but ill-fated R.M.S. Titanic.",
+      "why_recommended": "Top-rated Romance movie. Average rating: 3.5/5.0",
+      "stats": {
+        "avg_rating": 3.54,
+        "high_rating_count": 5,
+        "total_ratings": 10
+      }
+    },
+    {
+      "rank": 11,
+      "item_id": "M586",
+      "title": "TheSilent Samurai",
+      "year": 2010,
+      "director": "Billy Wilder",
+      "genre": [
+        "War",
+        "Comedy",
+        "Crime",
+        "Romance"
+      ],
+      "mood": [
+        "Somber",
+        "Bittersweet",
+        "Suspenseful"
+      ],
+      "era": "Modern",
+      "description_brief": "A retired thief escapes a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Romance movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.36,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 12,
+      "item_id": "M621",
+      "title": "Rising Betrayal",
+      "year": 1973,
+      "director": "Bong Joon-ho",
+      "genre": [
+        "Romance",
+        "History"
+      ],
+      "mood": [
+        "Powerful",
+        "Exciting"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A cynical thief learns from the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Romance movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.17,
+        "high_rating_count": 5,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 13,
+      "item_id": "M162",
+      "title": "Lost Honor",
+      "year": 1946,
+      "director": "Guillermo del Toro",
+      "genre": [
+        "Romance",
+        "Action",
+        "History"
+      ],
+      "mood": [
+        "Intense",
+        "Bittersweet"
+      ],
+      "era": "Classic",
+      "description_brief": "A former thief takes over a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Romance movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.14,
+        "high_rating_count": 5,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 14,
+      "item_id": "M707",
+      "title": "Dark Knight Night",
+      "year": 1980,
+      "director": "Billy Wilder",
+      "genre": [
+        "Action",
+        "Romance"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Somber"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A retired newsman escapes the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Romance movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.14,
+        "high_rating_count": 5,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 15,
+      "item_id": "M207",
+      "title": "TheDark Knight Wizard",
+      "year": 1936,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "Adventure",
+        "Drama",
+        "Romance"
+      ],
+      "mood": [
+        "Angry",
+        "Powerful"
+      ],
+      "era": "Classic",
+      "description_brief": "A young detective travels through a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Romance movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.12,
+        "high_rating_count": 5,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 16,
+      "item_id": "M431",
+      "title": "Godfather Robot",
+      "year": 1931,
+      "director": "Tim Burton",
+      "genre": [
+        "Romance",
+        "History",
+        "Mystery",
+        "Music"
+      ],
+      "mood": [
+        "Intense",
+        "Emotional",
+        "Stylish"
+      ],
+      "era": "Classic",
+      "description_brief": "A determined explorer escapes dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Romance movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.05,
+        "high_rating_count": 5,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 17,
+      "item_id": "M799",
+      "title": "ATrue Queen",
+      "year": 1979,
+      "director": "Lilly Wachowski",
+      "genre": [
+        "Comedy",
+        "Adventure",
+        "Romance"
+      ],
+      "mood": [
+        "Witty",
+        "Hopeful",
+        "Emotional"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A bored immigrant learns from the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Romance movie. Average rating: 3.0/5.0",
+      "stats": {
+        "avg_rating": 3.01,
+        "high_rating_count": 5,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 18,
+      "item_id": "M874",
+      "title": "TheTrue Pirate",
+      "year": 2019,
+      "director": "Tim Burton",
+      "genre": [
+        "History",
+        "Romance"
+      ],
+      "mood": [
+        "Emotional",
+        "Charming",
+        "Romantic"
+      ],
+      "era": "Modern",
+      "description_brief": "A young hacker takes over a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Romance movie. Average rating: 3.0/5.0",
+      "stats": {
+        "avg_rating": 2.99,
+        "high_rating_count": 5,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 19,
+      "item_id": "M675",
+      "title": "TheFalling Alien",
+      "year": 1934,
+      "director": "Wes Anderson",
+      "genre": [
+        "Romance",
+        "Fantasy",
+        "Crime",
+        "Drama"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Serious"
+      ],
+      "era": "Classic",
+      "description_brief": "A bored thief escapes a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Romance movie. Average rating: 3.0/5.0",
+      "stats": {
+        "avg_rating": 2.97,
+        "high_rating_count": 5,
+        "total_ratings": 17
+      }
+    },
+    {
+      "rank": 20,
+      "item_id": "M809",
+      "title": "ATrue Woman",
+      "year": 1948,
+      "director": "Taika Waititi",
+      "genre": [
+        "Sci-Fi",
+        "Fantasy",
+        "Romance"
+      ],
+      "mood": [
+        "Hopeful",
+        "Inspirational"
+      ],
+      "era": "Classic",
+      "description_brief": "A former immigrant learns from the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Romance movie. Average rating: 3.0/5.0",
+      "stats": {
+        "avg_rating": 2.95,
+        "high_rating_count": 5,
+        "total_ratings": 19
+      }
+    }
+  ]
+}

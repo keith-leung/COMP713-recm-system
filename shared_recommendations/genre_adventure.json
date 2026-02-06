@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "tag": "Adventure",
+    "type": "genre",
+    "description": "Top Adventure movies",
+    "match_keywords": [
+      "adventure",
+      "Adventure"
+    ],
+    "generated_at": "2026-01-26T01:44:53.779588Z",
+    "candidate_movies": 170
+  },
+  "discovery_questions": [
+    {
+      "question": "Do you enjoy Adventure movies?",
+      "positive_signals": [
+        "adventure",
+        "yes",
+        "love",
+        "Adventure"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M837",
+      "title": "TheFurious Revenge",
+      "year": 1944,
+      "director": "Ari Aster",
+      "genre": [
+        "Mystery",
+        "Sport",
+        "Adventure",
+        "Crime"
+      ],
+      "mood": [
+        "Somber",
+        "Bittersweet"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac newsman escapes a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Adventure movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.14,
+        "high_rating_count": 8,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M244",
+      "title": "ThePulp Honor",
+      "year": 2015,
+      "director": "Stanley Kubrick",
+      "genre": [
+        "History",
+        "Comedy",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "mood": [
+        "Chaotic",
+        "Inspirational",
+        "Violent"
+      ],
+      "era": "Modern",
+      "description_brief": "A insomniac boxer learns from a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Adventure movie. Average rating: 3.5/5.0",
+      "stats": {
+        "avg_rating": 3.52,
+        "high_rating_count": 7,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 3,
+      "item_id": "M362",
+      "title": "AFalling Alien",
+      "year": 2023,
+      "director": "Orson Welles",
+      "genre": [
+        "Sci-Fi",
+        "War",
+        "Thriller",
+        "Adventure"
+      ],
+      "mood": [
+        "Emotional",
+        "Powerful",
+        "Philosophical"
+      ],
+      "era": "Modern",
+      "description_brief": "A aging hacker plants guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Adventure movie. Average rating: 3.5/5.0",
+      "stats": {
+        "avg_rating": 3.49,
+        "high_rating_count": 7,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 4,
+      "item_id": "M568",
+      "title": "AVertigo Pirate",
+      "year": 1964,
+      "director": "Lilly Wachowski",
+      "genre": [
+        "Adventure",
+        "Thriller",
+        "Animation"
+      ],
+      "mood": [
+        "Romantic",
+        "Serious"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A insomniac warrior learns from a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Adventure movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.45,
+        "high_rating_count": 7,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 5,
+      "item_id": "M098",
+      "title": "Furious Ghost",
+      "year": 2023,
+      "director": "Christopher Nolan",
+      "genre": [
+        "Sci-Fi",
+        "Adventure",
+        "Romance"
+      ],
+      "mood": [
+        "Serious",
+        "Intense"
+      ],
+      "era": "Modern",
+      "description_brief": "A insomniac princess escapes a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Adventure movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.27,
+        "high_rating_count": 7,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 6,
+      "item_id": "M471",
+      "title": "TheSecret Wizard",
+      "year": 2025,
+      "director": "Wes Anderson",
+      "genre": [
+        "War",
+        "Adventure",
+        "Music"
+      ],
+      "mood": [
+        "Inspirational",
+        "Somber"
+      ],
+      "era": "Modern",
+      "description_brief": "A bored explorer fights against a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Adventure movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.33,
+        "high_rating_count": 6,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 7,
+      "item_id": "M555",
+      "title": "TheFalling Wizard",
+      "year": 1957,
+      "director": "Jordan Peele",
+      "genre": [
+        "Comedy",
+        "Adventure",
+        "Crime",
+        "War"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Bittersweet"
+      ],
+      "era": "Classic",
+      "description_brief": "A troubled hacker escapes mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Adventure movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.26,
+        "high_rating_count": 6,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 8,
+      "item_id": "M287",
+      "title": "ARising Alien",
+      "year": 2016,
+      "director": "Quentin Tarantino",
+      "genre": [
+        "Adventure",
+        "Biography",
+        "Horror"
+      ],
+      "mood": [
+        "Thrilling",
+        "Exciting",
+        "Hopeful"
+      ],
+      "era": "Modern",
+      "description_brief": "A determined immigrant takes over guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Adventure movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.23,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 9,
+      "item_id": "M404",
+      "title": "TheSilent Night",
+      "year": 1997,
+      "director": "Jordan Peele",
+      "genre": [
+        "Adventure",
+        "War",
+        "Comedy"
+      ],
+      "mood": [
+        "Hopeful",
+        "Inspirational"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A troubled warrior takes over mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Adventure movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.22,
+        "high_rating_count": 6,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 10,
+      "item_id": "M338",
+      "title": "Dark Knight Detective",
+      "year": 2020,
+      "director": "Guillermo del Toro",
+      "genre": [
+        "Mystery",
+        "Music",
+        "Adventure",
+        "Animation"
+      ],
+      "mood": [
+        "Philosophical",
+        "Intense",
+        "Psychological"
+      ],
+      "era": "Modern",
+      "description_brief": "A insomniac thief learns from a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Adventure movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.12,
+        "high_rating_count": 6,
+        "total_ratings": 17
+      }
+    },
+    {
+      "rank": 11,
+      "item_id": "M044",
+      "title": "TheBad Legend",
+      "year": 2006,
+      "director": "Michael Curtiz",
+      "genre": [
+        "Adventure",
+        "Thriller",
+        "Animation"
+      ],
+      "mood": [
+        "Thrilling",
+        "Suspenseful"
+      ],
+      "era": "2000s",
+      "description_brief": "A former thief investigates a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Adventure movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.06,
+        "high_rating_count": 6,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 12,
+      "item_id": "M022",
+      "title": "ASilent Shadow",
+      "year": 1962,
+      "director": "Robert Zemeckis",
+      "genre": [
+        "Western",
+        "Drama",
+        "Biography",
+        "Adventure"
+      ],
+      "mood": [
+        "Hopeful",
+        "Philosophical",
+        "Psychological"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A aging immigrant plants a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Adventure movie. Average rating: 3.0/5.0",
+      "stats": {
+        "avg_rating": 3.01,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 13,
+      "item_id": "M437",
+      "title": "TheInception City",
+      "year": 2006,
+      "director": "Michael Curtiz",
+      "genre": [
+        "Romance",
+        "Sci-Fi",
+        "Adventure",
+        "Sport"
+      ],
+      "mood": [
+        "Romantic",
+        "Inspirational",
+        "Hopeful"
+      ],
+      "era": "2000s",
+      "description_brief": "A cynical immigrant takes over a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Adventure movie. Average rating: 2.5/5.0",
+      "stats": {
+        "avg_rating": 2.51,
+        "high_rating_count": 6,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 14,
+      "item_id": "M020",
+      "title": "Interstellar",
+      "year": 2014,
+      "director": "Christopher Nolan",
+      "genre": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Emotional",
+        "Cosmic"
+      ],
+      "era": "Modern",
+      "description_brief": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "why_recommended": "Top-rated Adventure movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.29,
+        "high_rating_count": 5,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 15,
+      "item_id": "M619",
+      "title": "Dirty Robot",
+      "year": 1966,
+      "director": "Quentin Tarantino",
+      "genre": [
+        "Mystery",
+        "Horror",
+        "Adventure"
+      ],
+      "mood": [
+        "Inspirational",
+        "Intense",
+        "Thrilling"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A bored princess fights against a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Adventure movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.27,
+        "high_rating_count": 5,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 16,
+      "item_id": "M980",
+      "title": "Shining Honor",
+      "year": 1988,
+      "director": "Taika Waititi",
+      "genre": [
+        "Adventure",
+        "Thriller"
+      ],
+      "mood": [
+        "Charming",
+        "Philosophical",
+        "Witty"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A troubled detective takes over the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Adventure movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.27,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 17,
+      "item_id": "M242",
+      "title": "AShawshank Hero",
+      "year": 1947,
+      "director": "Tim Burton",
+      "genre": [
+        "War",
+        "Adventure",
+        "Thriller"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Exciting",
+        "Philosophical"
+      ],
+      "era": "Classic",
+      "description_brief": "A brilliant detective travels through dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Adventure movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.22,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 18,
+      "item_id": "M207",
+      "title": "TheDark Knight Wizard",
+      "year": 1936,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "Adventure",
+        "Drama",
+        "Romance"
+      ],
+      "mood": [
+        "Angry",
+        "Powerful"
+      ],
+      "era": "Classic",
+      "description_brief": "A young detective travels through a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Adventure movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.12,
+        "high_rating_count": 5,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 19,
+      "item_id": "M212",
+      "title": "Final Eclipse",
+      "year": 1961,
+      "director": "Michael Curtiz",
+      "genre": [
+        "Thriller",
+        "Adventure",
+        "Horror"
+      ],
+      "mood": [
+        "Somber",
+        "Hopeful",
+        "Angry"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A former hacker takes over mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Adventure movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.07,
+        "high_rating_count": 5,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 20,
+      "item_id": "M991",
+      "title": "Shining Zombie",
+      "year": 2013,
+      "director": "David Fincher",
+      "genre": [
+        "Crime",
+        "Animation",
+        "Adventure",
+        "Mystery"
+      ],
+      "mood": [
+        "Psychological",
+        "Heartwarming"
+      ],
+      "era": "Modern",
+      "description_brief": "A aging princess fights against mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Adventure movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.06,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    }
+  ]
+}

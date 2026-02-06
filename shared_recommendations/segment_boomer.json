@@ -1,0 +1,542 @@
+{
+  "meta": {
+    "tag": "boomer",
+    "type": "segment",
+    "description": "Movies highly rated by boomer users",
+    "match_keywords": [
+      "romantic",
+      "action",
+      "thriller",
+      "boomer",
+      "intense",
+      "adventure",
+      "philosophical"
+    ],
+    "generated_at": "2026-01-26T01:44:53.773856Z",
+    "user_count_in_segment": 505,
+    "candidate_movies": 448
+  },
+  "discovery_questions": [
+    {
+      "question": "Are you interested in movies that boomer users typically enjoy?",
+      "positive_signals": [
+        "boomer",
+        "yes",
+        "interested"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M189",
+      "title": "TheTrue Legend",
+      "year": 2022,
+      "director": "Jordan Peele",
+      "genre": [
+        "Mystery",
+        "Sci-Fi",
+        "Music",
+        "Crime"
+      ],
+      "mood": [
+        "Serious",
+        "Philosophical"
+      ],
+      "era": "Modern",
+      "description_brief": "A troubled warrior fights against a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "0% of boomer users rated this 4+ stars. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.23,
+        "rating_count_in_segment": 4,
+        "overall_avg_rating": 3.23,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M730",
+      "title": "TheDark Revenge",
+      "year": 1936,
+      "director": "Steven Spielberg",
+      "genre": [
+        "Sci-Fi",
+        "Animation",
+        "Fantasy"
+      ],
+      "mood": [
+        "Intense",
+        "Romantic"
+      ],
+      "era": "Classic",
+      "description_brief": "A brilliant explorer plants the ring and becomes obsessed with the truth.",
+      "why_recommended": "0% of boomer users rated this 4+ stars. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.79,
+        "rating_count_in_segment": 4,
+        "overall_avg_rating": 2.79,
+        "total_ratings": 19
+      }
+    },
+    {
+      "rank": 3,
+      "item_id": "M944",
+      "title": "ADark Knight Storm",
+      "year": 1988,
+      "director": "Taika Waititi",
+      "genre": [
+        "Animation",
+        "Action"
+      ],
+      "mood": [
+        "Bittersweet",
+        "Somber"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A determined detective takes over the ring and becomes obsessed with the truth.",
+      "why_recommended": "0% of boomer users rated this 4+ stars. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.31,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 3.31,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 4,
+      "item_id": "M586",
+      "title": "TheSilent Samurai",
+      "year": 2010,
+      "director": "Billy Wilder",
+      "genre": [
+        "War",
+        "Comedy",
+        "Crime",
+        "Romance"
+      ],
+      "mood": [
+        "Somber",
+        "Bittersweet",
+        "Suspenseful"
+      ],
+      "era": "Modern",
+      "description_brief": "A retired thief escapes a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "0% of boomer users rated this 4+ stars. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.36,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 3.36,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 5,
+      "item_id": "M092",
+      "title": "TheRising Empire",
+      "year": 1926,
+      "director": "Taika Waititi",
+      "genre": [
+        "Thriller",
+        "Drama",
+        "Action",
+        "Horror"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Inspirational"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac explorer travels through the ring and becomes obsessed with the truth.",
+      "why_recommended": "0% of boomer users rated this 4+ stars. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.93,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 2.93,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 6,
+      "item_id": "M504",
+      "title": "Great Pirate",
+      "year": 1948,
+      "director": "David Fincher",
+      "genre": [
+        "Drama",
+        "History"
+      ],
+      "mood": [
+        "Philosophical",
+        "Psychological"
+      ],
+      "era": "Classic",
+      "description_brief": "A brilliant princess learns from the ring and becomes obsessed with the truth.",
+      "why_recommended": "0% of boomer users rated this 4+ stars. Average rating: 2.6/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.6,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 2.6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 7,
+      "item_id": "M098",
+      "title": "Furious Ghost",
+      "year": 2023,
+      "director": "Christopher Nolan",
+      "genre": [
+        "Sci-Fi",
+        "Adventure",
+        "Romance"
+      ],
+      "mood": [
+        "Serious",
+        "Intense"
+      ],
+      "era": "Modern",
+      "description_brief": "A insomniac princess escapes a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "0% of boomer users rated this 4+ stars. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.27,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 3.27,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 8,
+      "item_id": "M095",
+      "title": "TheInterstellar Redemption",
+      "year": 1970,
+      "director": "Billy Wilder",
+      "genre": [
+        "Crime",
+        "Thriller",
+        "Biography",
+        "Animation"
+      ],
+      "mood": [
+        "Intense",
+        "Charming",
+        "Heartwarming"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A determined detective struggles the ring and becomes obsessed with the truth.",
+      "why_recommended": "0% of boomer users rated this 4+ stars. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.16,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 3.16,
+        "total_ratings": 10
+      }
+    },
+    {
+      "rank": 9,
+      "item_id": "M710",
+      "title": "TheSecret Shadow",
+      "year": 2000,
+      "director": "Frank Darabont",
+      "genre": [
+        "Fantasy",
+        "History",
+        "Music",
+        "Horror"
+      ],
+      "mood": [
+        "Witty",
+        "Stylish"
+      ],
+      "era": "2000s",
+      "description_brief": "A brilliant thief plants a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "0% of boomer users rated this 4+ stars. Average rating: 3.7/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.72,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 3.72,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 10,
+      "item_id": "M752",
+      "title": "ADark Knight Fire",
+      "year": 1949,
+      "director": "Tim Burton",
+      "genre": [
+        "History",
+        "Adventure",
+        "Fantasy"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Inspirational",
+        "Chaotic"
+      ],
+      "era": "Classic",
+      "description_brief": "A cynical detective takes over mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "0% of boomer users rated this 4+ stars. Average rating: 2.6/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.57,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 2.57,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 11,
+      "item_id": "M022",
+      "title": "ASilent Shadow",
+      "year": 1962,
+      "director": "Robert Zemeckis",
+      "genre": [
+        "Western",
+        "Drama",
+        "Biography",
+        "Adventure"
+      ],
+      "mood": [
+        "Hopeful",
+        "Philosophical",
+        "Psychological"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A aging immigrant plants a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "0% of boomer users rated this 4+ stars. Average rating: 3.0/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.01,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 3.01,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 12,
+      "item_id": "M568",
+      "title": "AVertigo Pirate",
+      "year": 1964,
+      "director": "Lilly Wachowski",
+      "genre": [
+        "Adventure",
+        "Thriller",
+        "Animation"
+      ],
+      "mood": [
+        "Romantic",
+        "Serious"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A insomniac warrior learns from a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "0% of boomer users rated this 4+ stars. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.45,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 3.45,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 13,
+      "item_id": "M198",
+      "title": "TheRising War",
+      "year": 1981,
+      "director": "David Fincher",
+      "genre": [
+        "Adventure",
+        "Biography",
+        "Thriller",
+        "Mystery"
+      ],
+      "mood": [
+        "Somber",
+        "Inspirational"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A insomniac warrior investigates a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "0% of boomer users rated this 4+ stars. Average rating: 2.7/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.73,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 2.73,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 14,
+      "item_id": "M584",
+      "title": "AMatrix City",
+      "year": 1952,
+      "director": "Paul Thomas Anderson",
+      "genre": [
+        "Drama",
+        "War",
+        "Action"
+      ],
+      "mood": [
+        "Intense",
+        "Romantic"
+      ],
+      "era": "Classic",
+      "description_brief": "A young hacker fights against dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "0% of boomer users rated this 4+ stars. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.93,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 2.93,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 15,
+      "item_id": "M664",
+      "title": "TheRising Quest",
+      "year": 2011,
+      "director": "Alfred Hitchcock",
+      "genre": [
+        "Thriller",
+        "Animation",
+        "Comedy"
+      ],
+      "mood": [
+        "Bittersweet",
+        "Exciting"
+      ],
+      "era": "Modern",
+      "description_brief": "A cynical detective struggles a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "0% of boomer users rated this 4+ stars. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.77,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 2.77,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 16,
+      "item_id": "M801",
+      "title": "AShawshank Betrayal",
+      "year": 1977,
+      "director": "Frank Darabont",
+      "genre": [
+        "Western",
+        "Crime"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Mind-bending",
+        "Exciting"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A retired hacker travels through the ring and becomes obsessed with the truth.",
+      "why_recommended": "0% of boomer users rated this 4+ stars. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.9,
+        "rating_count_in_segment": 3,
+        "overall_avg_rating": 2.9,
+        "total_ratings": 22
+      }
+    },
+    {
+      "rank": 17,
+      "item_id": "M719",
+      "title": "TheBrave Night",
+      "year": 1932,
+      "director": "Lana Wachowski",
+      "genre": [
+        "Action",
+        "Sci-Fi",
+        "History",
+        "Biography"
+      ],
+      "mood": [
+        "Chaotic",
+        "Intense"
+      ],
+      "era": "Classic",
+      "description_brief": "A brilliant explorer takes over dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "0% of boomer users rated this 4+ stars. Average rating: 2.7/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.74,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.74,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 18,
+      "item_id": "M893",
+      "title": "Secret Betrayal",
+      "year": 1926,
+      "director": "Jordan Peele",
+      "genre": [
+        "Music",
+        "History",
+        "Horror",
+        "Comedy"
+      ],
+      "mood": [
+        "Philosophical",
+        "Serious",
+        "Intense"
+      ],
+      "era": "Classic",
+      "description_brief": "A young princess plants guardians and becomes obsessed with the truth.",
+      "why_recommended": "0% of boomer users rated this 4+ stars. Average rating: 2.5/5.0",
+      "stats": {
+        "avg_rating_in_segment": 2.51,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 2.51,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 19,
+      "item_id": "M066",
+      "title": "AFurious Legend",
+      "year": 1995,
+      "director": "Alfred Hitchcock",
+      "genre": [
+        "Biography",
+        "War"
+      ],
+      "mood": [
+        "Intense",
+        "Thrilling"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A brilliant detective struggles a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "0% of boomer users rated this 4+ stars. Average rating: 3.5/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.46,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 3.46,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 20,
+      "item_id": "M939",
+      "title": "TheInception Redemption",
+      "year": 1959,
+      "director": "Wes Anderson",
+      "genre": [
+        "Crime",
+        "Action"
+      ],
+      "mood": [
+        "Stylish",
+        "Thrilling",
+        "Chaotic"
+      ],
+      "era": "Classic",
+      "description_brief": "A retired hacker learns from guardians and becomes obsessed with the truth.",
+      "why_recommended": "0% of boomer users rated this 4+ stars. Average rating: 3.0/5.0",
+      "stats": {
+        "avg_rating_in_segment": 3.04,
+        "rating_count_in_segment": 2,
+        "overall_avg_rating": 3.04,
+        "total_ratings": 15
+      }
+    }
+  ]
+}

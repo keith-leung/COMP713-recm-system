@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "tag": "Music",
+    "type": "genre",
+    "description": "Top Music movies",
+    "match_keywords": [
+      "music",
+      "Music"
+    ],
+    "generated_at": "2026-01-26T01:44:53.780415Z",
+    "candidate_movies": 157
+  },
+  "discovery_questions": [
+    {
+      "question": "Do you enjoy Music movies?",
+      "positive_signals": [
+        "music",
+        "yes",
+        "love",
+        "Music"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M110",
+      "title": "TheInterstellar City",
+      "year": 1935,
+      "director": "Orson Welles",
+      "genre": [
+        "Western",
+        "Mystery",
+        "Comedy",
+        "Music"
+      ],
+      "mood": [
+        "Stylish",
+        "Charming"
+      ],
+      "era": "Classic",
+      "description_brief": "A former boxer plants a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Music movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.24,
+        "high_rating_count": 8,
+        "total_ratings": 19
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M628",
+      "title": "Final Hero",
+      "year": 1964,
+      "director": "Tim Burton",
+      "genre": [
+        "Romance",
+        "Fantasy",
+        "Music"
+      ],
+      "mood": [
+        "Charming",
+        "Chaotic"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A former boxer escapes the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Music movie. Average rating: 3.6/5.0",
+      "stats": {
+        "avg_rating": 3.58,
+        "high_rating_count": 7,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 3,
+      "item_id": "M416",
+      "title": "AShawshank Legend",
+      "year": 1992,
+      "director": "Frank Darabont",
+      "genre": [
+        "Action",
+        "Mystery",
+        "Horror",
+        "Music"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Exciting"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A retired boxer struggles a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Music movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.18,
+        "high_rating_count": 7,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 4,
+      "item_id": "M343",
+      "title": "ARising Detective",
+      "year": 1993,
+      "director": "Taika Waititi",
+      "genre": [
+        "War",
+        "Biography",
+        "Comedy",
+        "Music"
+      ],
+      "mood": [
+        "Emotional",
+        "Heartwarming"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A determined scientist plants dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Music movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.45,
+        "high_rating_count": 6,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 5,
+      "item_id": "M471",
+      "title": "TheSecret Wizard",
+      "year": 2025,
+      "director": "Wes Anderson",
+      "genre": [
+        "War",
+        "Adventure",
+        "Music"
+      ],
+      "mood": [
+        "Inspirational",
+        "Somber"
+      ],
+      "era": "Modern",
+      "description_brief": "A bored explorer fights against a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Music movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.33,
+        "high_rating_count": 6,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 6,
+      "item_id": "M355",
+      "title": "Lost Honor",
+      "year": 1964,
+      "director": "Greta Gerwig",
+      "genre": [
+        "Music",
+        "Mystery",
+        "Crime"
+      ],
+      "mood": [
+        "Charming",
+        "Inspirational",
+        "Thrilling"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A aging hacker takes over a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Music movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.27,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 7,
+      "item_id": "M755",
+      "title": "Vertigo Empire",
+      "year": 1974,
+      "director": "Ari Aster",
+      "genre": [
+        "Music",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Stylish",
+        "Romantic"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A young thief struggles a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Music movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.23,
+        "high_rating_count": 6,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 8,
+      "item_id": "M187",
+      "title": "TheSecret Spy",
+      "year": 2025,
+      "director": "Bong Joon-ho",
+      "genre": [
+        "Thriller",
+        "Animation",
+        "Music",
+        "Mystery"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Intense"
+      ],
+      "era": "Modern",
+      "description_brief": "A troubled thief learns from mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Music movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.14,
+        "high_rating_count": 6,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 9,
+      "item_id": "M338",
+      "title": "Dark Knight Detective",
+      "year": 2020,
+      "director": "Guillermo del Toro",
+      "genre": [
+        "Mystery",
+        "Music",
+        "Adventure",
+        "Animation"
+      ],
+      "mood": [
+        "Philosophical",
+        "Intense",
+        "Psychological"
+      ],
+      "era": "Modern",
+      "description_brief": "A insomniac thief learns from a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Music movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.12,
+        "high_rating_count": 6,
+        "total_ratings": 17
+      }
+    },
+    {
+      "rank": 10,
+      "item_id": "M853",
+      "title": "Lost Dawn",
+      "year": 1991,
+      "director": "Paul Thomas Anderson",
+      "genre": [
+        "Biography",
+        "War",
+        "Music"
+      ],
+      "mood": [
+        "Charming",
+        "Psychological"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A young hacker escapes a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Music movie. Average rating: 3.0/5.0",
+      "stats": {
+        "avg_rating": 2.99,
+        "high_rating_count": 6,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 11,
+      "item_id": "M151",
+      "title": "Godfather Quest",
+      "year": 2013,
+      "director": "Frank Darabont",
+      "genre": [
+        "Action",
+        "Music",
+        "Crime"
+      ],
+      "mood": [
+        "Inspirational",
+        "Mind-bending",
+        "Chaotic"
+      ],
+      "era": "Modern",
+      "description_brief": "A former scientist struggles guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Music movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.91,
+        "high_rating_count": 6,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 12,
+      "item_id": "M710",
+      "title": "TheSecret Shadow",
+      "year": 2000,
+      "director": "Frank Darabont",
+      "genre": [
+        "Fantasy",
+        "History",
+        "Music",
+        "Horror"
+      ],
+      "mood": [
+        "Witty",
+        "Stylish"
+      ],
+      "era": "2000s",
+      "description_brief": "A brilliant thief plants a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Music movie. Average rating: 3.7/5.0",
+      "stats": {
+        "avg_rating": 3.72,
+        "high_rating_count": 5,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 13,
+      "item_id": "M793",
+      "title": "AShawshank Fire",
+      "year": 2018,
+      "director": "Orson Welles",
+      "genre": [
+        "Fantasy",
+        "Music"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Romantic"
+      ],
+      "era": "Modern",
+      "description_brief": "A determined hacker travels through guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Music movie. Average rating: 3.7/5.0",
+      "stats": {
+        "avg_rating": 3.66,
+        "high_rating_count": 5,
+        "total_ratings": 8
+      }
+    },
+    {
+      "rank": 14,
+      "item_id": "M340",
+      "title": "TheDirty Woman",
+      "year": 1975,
+      "director": "Taika Waititi",
+      "genre": [
+        "Crime",
+        "Music"
+      ],
+      "mood": [
+        "Angry",
+        "Chaotic",
+        "Psychological"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A brilliant explorer escapes mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Music movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.32,
+        "high_rating_count": 5,
+        "total_ratings": 9
+      }
+    },
+    {
+      "rank": 15,
+      "item_id": "M189",
+      "title": "TheTrue Legend",
+      "year": 2022,
+      "director": "Jordan Peele",
+      "genre": [
+        "Mystery",
+        "Sci-Fi",
+        "Music",
+        "Crime"
+      ],
+      "mood": [
+        "Serious",
+        "Philosophical"
+      ],
+      "era": "Modern",
+      "description_brief": "A troubled warrior fights against a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Music movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.23,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 16,
+      "item_id": "M870",
+      "title": "Shining Monster",
+      "year": 1999,
+      "director": "Greta Gerwig",
+      "genre": [
+        "Biography",
+        "Thriller",
+        "Drama",
+        "Music"
+      ],
+      "mood": [
+        "Exciting",
+        "Psychological",
+        "Powerful"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A determined detective investigates a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Music movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.2,
+        "high_rating_count": 5,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 17,
+      "item_id": "M431",
+      "title": "Godfather Robot",
+      "year": 1931,
+      "director": "Tim Burton",
+      "genre": [
+        "Romance",
+        "History",
+        "Mystery",
+        "Music"
+      ],
+      "mood": [
+        "Intense",
+        "Emotional",
+        "Stylish"
+      ],
+      "era": "Classic",
+      "description_brief": "A determined explorer escapes dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Music movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.05,
+        "high_rating_count": 5,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 18,
+      "item_id": "M096",
+      "title": "TheMatrix Samurai",
+      "year": 1977,
+      "director": "Francis Ford Coppola",
+      "genre": [
+        "Music",
+        "Mystery"
+      ],
+      "mood": [
+        "Intense",
+        "Suspenseful",
+        "Angry"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A young thief escapes a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Music movie. Average rating: 3.0/5.0",
+      "stats": {
+        "avg_rating": 3.04,
+        "high_rating_count": 5,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 19,
+      "item_id": "M452",
+      "title": "TheLost Dream",
+      "year": 1956,
+      "director": "Robert Zemeckis",
+      "genre": [
+        "Fantasy",
+        "Music",
+        "Sci-Fi",
+        "Comedy"
+      ],
+      "mood": [
+        "Psychological",
+        "Violent",
+        "Hopeful"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac scientist plants guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Music movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.94,
+        "high_rating_count": 5,
+        "total_ratings": 10
+      }
+    },
+    {
+      "rank": 20,
+      "item_id": "M845",
+      "title": "ADark Knight War",
+      "year": 2017,
+      "director": "Jordan Peele",
+      "genre": [
+        "Music",
+        "Horror",
+        "Adventure",
+        "Animation"
+      ],
+      "mood": [
+        "Hopeful",
+        "Powerful"
+      ],
+      "era": "Modern",
+      "description_brief": "A troubled hacker struggles guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Music movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.93,
+        "high_rating_count": 5,
+        "total_ratings": 12
+      }
+    }
+  ]
+}

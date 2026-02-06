@@ -1,0 +1,510 @@
+{
+  "meta": {
+    "tag": "2000s",
+    "type": "era",
+    "description": "Top movies from the 2000s era",
+    "match_keywords": [
+      "2000s",
+      "2000s"
+    ],
+    "generated_at": "2026-01-26T01:44:53.782218Z",
+    "candidate_movies": 92
+  },
+  "discovery_questions": [
+    {
+      "question": "Do you enjoy movies from the 2000s era?",
+      "positive_signals": [
+        "2000s",
+        "yes",
+        "love",
+        "2000s"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M500",
+      "title": "Interstellar Battle",
+      "year": 2002,
+      "director": "Alfred Hitchcock",
+      "genre": [
+        "War",
+        "Thriller",
+        "History",
+        "Comedy"
+      ],
+      "mood": [
+        "Violent",
+        "Powerful"
+      ],
+      "era": "2000s",
+      "description_brief": "A insomniac immigrant fights against mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 2000s movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.4,
+        "high_rating_count": 8,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M677",
+      "title": "Good King",
+      "year": 2007,
+      "director": "James Cameron",
+      "genre": [
+        "Thriller",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Charming",
+        "Angry"
+      ],
+      "era": "2000s",
+      "description_brief": "A young newsman plants the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 2000s movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.16,
+        "high_rating_count": 8,
+        "total_ratings": 19
+      }
+    },
+    {
+      "rank": 3,
+      "item_id": "M056",
+      "title": "ABrave Quest",
+      "year": 2000,
+      "director": "Tim Burton",
+      "genre": [
+        "Thriller",
+        "History",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Hopeful",
+        "Romantic",
+        "Exciting"
+      ],
+      "era": "2000s",
+      "description_brief": "A troubled princess investigates a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 2000s movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.42,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 4,
+      "item_id": "M044",
+      "title": "TheBad Legend",
+      "year": 2006,
+      "director": "Michael Curtiz",
+      "genre": [
+        "Adventure",
+        "Thriller",
+        "Animation"
+      ],
+      "mood": [
+        "Thrilling",
+        "Suspenseful"
+      ],
+      "era": "2000s",
+      "description_brief": "A former thief investigates a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 2000s movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.06,
+        "high_rating_count": 6,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 5,
+      "item_id": "M308",
+      "title": "Fight Club War",
+      "year": 2003,
+      "director": "Martin Scorsese",
+      "genre": [
+        "Horror",
+        "Sport",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Thrilling",
+        "Inspirational"
+      ],
+      "era": "2000s",
+      "description_brief": "A bored boxer fights against the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 2000s movie. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating": 2.79,
+        "high_rating_count": 6,
+        "total_ratings": 25
+      }
+    },
+    {
+      "rank": 6,
+      "item_id": "M437",
+      "title": "TheInception City",
+      "year": 2006,
+      "director": "Michael Curtiz",
+      "genre": [
+        "Romance",
+        "Sci-Fi",
+        "Adventure",
+        "Sport"
+      ],
+      "mood": [
+        "Romantic",
+        "Inspirational",
+        "Hopeful"
+      ],
+      "era": "2000s",
+      "description_brief": "A cynical immigrant takes over a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 2000s movie. Average rating: 2.5/5.0",
+      "stats": {
+        "avg_rating": 2.51,
+        "high_rating_count": 6,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 7,
+      "item_id": "M710",
+      "title": "TheSecret Shadow",
+      "year": 2000,
+      "director": "Frank Darabont",
+      "genre": [
+        "Fantasy",
+        "History",
+        "Music",
+        "Horror"
+      ],
+      "mood": [
+        "Witty",
+        "Stylish"
+      ],
+      "era": "2000s",
+      "description_brief": "A brilliant thief plants a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 2000s movie. Average rating: 3.7/5.0",
+      "stats": {
+        "avg_rating": 3.72,
+        "high_rating_count": 5,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 8,
+      "item_id": "M581",
+      "title": "TheMatrix Spy",
+      "year": 2008,
+      "director": "Billy Wilder",
+      "genre": [
+        "History",
+        "Sport"
+      ],
+      "mood": [
+        "Exciting",
+        "Charming",
+        "Violent"
+      ],
+      "era": "2000s",
+      "description_brief": "A former princess learns from mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 2000s movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.4,
+        "high_rating_count": 5,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 9,
+      "item_id": "M147",
+      "title": "AFurious Shadow",
+      "year": 2004,
+      "director": "Tim Burton",
+      "genre": [
+        "War",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Emotional"
+      ],
+      "era": "2000s",
+      "description_brief": "A bored immigrant learns from mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 2000s movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.26,
+        "high_rating_count": 5,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 10,
+      "item_id": "M290",
+      "title": "Dark Knight Woman",
+      "year": 2002,
+      "director": "Martin Scorsese",
+      "genre": [
+        "Animation",
+        "Horror",
+        "War"
+      ],
+      "mood": [
+        "Violent",
+        "Chaotic"
+      ],
+      "era": "2000s",
+      "description_brief": "A determined warrior plants dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 2000s movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.1,
+        "high_rating_count": 5,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 11,
+      "item_id": "M427",
+      "title": "ThePulp King",
+      "year": 2007,
+      "director": "David Fincher",
+      "genre": [
+        "Fantasy",
+        "Adventure"
+      ],
+      "mood": [
+        "Romantic",
+        "Hopeful",
+        "Angry"
+      ],
+      "era": "2000s",
+      "description_brief": "A young immigrant investigates the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 2000s movie. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating": 2.84,
+        "high_rating_count": 5,
+        "total_ratings": 17
+      }
+    },
+    {
+      "rank": 12,
+      "item_id": "M943",
+      "title": "Silent Empire",
+      "year": 2005,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Inspirational",
+        "Heartwarming"
+      ],
+      "era": "2000s",
+      "description_brief": "A insomniac detective fights against a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 2000s movie. Average rating: 3.5/5.0",
+      "stats": {
+        "avg_rating": 3.5,
+        "high_rating_count": 4,
+        "total_ratings": 9
+      }
+    },
+    {
+      "rank": 13,
+      "item_id": "M738",
+      "title": "Fight Club Monster",
+      "year": 2006,
+      "director": "Brian De Palma",
+      "genre": [
+        "Drama",
+        "Biography"
+      ],
+      "mood": [
+        "Angry",
+        "Psychological",
+        "Philosophical"
+      ],
+      "era": "2000s",
+      "description_brief": "A cynical thief escapes dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 2000s movie. Average rating: 3.5/5.0",
+      "stats": {
+        "avg_rating": 3.48,
+        "high_rating_count": 4,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 14,
+      "item_id": "M136",
+      "title": "Shining City",
+      "year": 2003,
+      "director": "Lilly Wachowski",
+      "genre": [
+        "Action",
+        "Music",
+        "Adventure",
+        "Romance"
+      ],
+      "mood": [
+        "Powerful",
+        "Bittersweet"
+      ],
+      "era": "2000s",
+      "description_brief": "A bored explorer fights against the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 2000s movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.28,
+        "high_rating_count": 4,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 15,
+      "item_id": "M933",
+      "title": "Matrix Eclipse",
+      "year": 2005,
+      "director": "Frank Darabont",
+      "genre": [
+        "Crime",
+        "Sci-Fi",
+        "Sport",
+        "Fantasy"
+      ],
+      "mood": [
+        "Angry",
+        "Hopeful"
+      ],
+      "era": "2000s",
+      "description_brief": "A young warrior escapes a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 2000s movie. Average rating: 3.0/5.0",
+      "stats": {
+        "avg_rating": 2.99,
+        "high_rating_count": 4,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 16,
+      "item_id": "M625",
+      "title": "TheTrue Blood",
+      "year": 2004,
+      "director": "Martin Scorsese",
+      "genre": [
+        "Animation",
+        "History"
+      ],
+      "mood": [
+        "Psychological",
+        "Charming"
+      ],
+      "era": "2000s",
+      "description_brief": "A former immigrant learns from mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 2000s movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.92,
+        "high_rating_count": 4,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 17,
+      "item_id": "M663",
+      "title": "ThePulp Man",
+      "year": 2009,
+      "director": "Frank Darabont",
+      "genre": [
+        "Crime",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Stylish",
+        "Philosophical",
+        "Intense"
+      ],
+      "era": "2000s",
+      "description_brief": "A cynical newsman learns from a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 2000s movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.91,
+        "high_rating_count": 4,
+        "total_ratings": 10
+      }
+    },
+    {
+      "rank": 18,
+      "item_id": "M171",
+      "title": "TheSilent Blood",
+      "year": 2005,
+      "director": "Alfred Hitchcock",
+      "genre": [
+        "Drama",
+        "Music",
+        "Fantasy"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Suspenseful"
+      ],
+      "era": "2000s",
+      "description_brief": "A bored princess investigates a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 2000s movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.91,
+        "high_rating_count": 4,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 19,
+      "item_id": "M449",
+      "title": "TheFight Club Night",
+      "year": 2004,
+      "director": "Michael Curtiz",
+      "genre": [
+        "Horror",
+        "War"
+      ],
+      "mood": [
+        "Intense",
+        "Witty"
+      ],
+      "era": "2000s",
+      "description_brief": "A troubled thief plants dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 2000s movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.89,
+        "high_rating_count": 4,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 20,
+      "item_id": "M037",
+      "title": "TheDirty Spy",
+      "year": 2004,
+      "director": "Taika Waititi",
+      "genre": [
+        "Animation",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "mood": [
+        "Thrilling",
+        "Chaotic",
+        "Hopeful"
+      ],
+      "era": "2000s",
+      "description_brief": "A aging princess learns from dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated 2000s movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.87,
+        "high_rating_count": 4,
+        "total_ratings": 11
+      }
+    }
+  ]
+}

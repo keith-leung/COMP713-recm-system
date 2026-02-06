@@ -1,0 +1,521 @@
+{
+  "meta": {
+    "tag": "Animation",
+    "type": "genre",
+    "description": "Top Animation movies",
+    "match_keywords": [
+      "animation",
+      "Animation"
+    ],
+    "generated_at": "2026-01-26T01:44:53.781333Z",
+    "candidate_movies": 161
+  },
+  "discovery_questions": [
+    {
+      "question": "Do you enjoy Animation movies?",
+      "positive_signals": [
+        "animation",
+        "yes",
+        "love",
+        "Animation"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M576",
+      "title": "AVertigo Honor",
+      "year": 1964,
+      "director": "Frank Darabont",
+      "genre": [
+        "Animation",
+        "Crime",
+        "Sport",
+        "Thriller"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Stylish",
+        "Powerful"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A troubled detective investigates a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Animation movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.37,
+        "high_rating_count": 8,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M717",
+      "title": "TheSecret Blood",
+      "year": 1942,
+      "director": "Ari Aster",
+      "genre": [
+        "Thriller",
+        "Crime",
+        "War",
+        "Animation"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Thrilling",
+        "Serious"
+      ],
+      "era": "Classic",
+      "description_brief": "A brilliant thief plants guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Animation movie. Average rating: 3.6/5.0",
+      "stats": {
+        "avg_rating": 3.59,
+        "high_rating_count": 7,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 3,
+      "item_id": "M568",
+      "title": "AVertigo Pirate",
+      "year": 1964,
+      "director": "Lilly Wachowski",
+      "genre": [
+        "Adventure",
+        "Thriller",
+        "Animation"
+      ],
+      "mood": [
+        "Romantic",
+        "Serious"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A insomniac warrior learns from a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Animation movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.45,
+        "high_rating_count": 7,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 4,
+      "item_id": "M728",
+      "title": "TheFight Club City",
+      "year": 1955,
+      "director": "David Fincher",
+      "genre": [
+        "Sci-Fi",
+        "Thriller",
+        "Animation"
+      ],
+      "mood": [
+        "Philosophical",
+        "Powerful"
+      ],
+      "era": "Classic",
+      "description_brief": "A determined detective investigates guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Animation movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.14,
+        "high_rating_count": 7,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 5,
+      "item_id": "M730",
+      "title": "TheDark Revenge",
+      "year": 1936,
+      "director": "Steven Spielberg",
+      "genre": [
+        "Sci-Fi",
+        "Animation",
+        "Fantasy"
+      ],
+      "mood": [
+        "Intense",
+        "Romantic"
+      ],
+      "era": "Classic",
+      "description_brief": "A brilliant explorer plants the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Animation movie. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating": 2.79,
+        "high_rating_count": 7,
+        "total_ratings": 19
+      }
+    },
+    {
+      "rank": 6,
+      "item_id": "M238",
+      "title": "TheFight Club Blood",
+      "year": 2016,
+      "director": "Lilly Wachowski",
+      "genre": [
+        "Animation",
+        "Action"
+      ],
+      "mood": [
+        "Chaotic",
+        "Bittersweet"
+      ],
+      "era": "Modern",
+      "description_brief": "A insomniac princess travels through a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Animation movie. Average rating: 3.5/5.0",
+      "stats": {
+        "avg_rating": 3.54,
+        "high_rating_count": 6,
+        "total_ratings": 10
+      }
+    },
+    {
+      "rank": 7,
+      "item_id": "M558",
+      "title": "Dark Night",
+      "year": 1944,
+      "director": "Robert Zemeckis",
+      "genre": [
+        "Animation",
+        "Horror",
+        "Mystery"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Exciting",
+        "Witty"
+      ],
+      "era": "Classic",
+      "description_brief": "A bored hacker struggles a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Animation movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.29,
+        "high_rating_count": 6,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 8,
+      "item_id": "M304",
+      "title": "TheRising Woman",
+      "year": 2012,
+      "director": "Jordan Peele",
+      "genre": [
+        "Animation",
+        "Sport"
+      ],
+      "mood": [
+        "Thrilling",
+        "Witty"
+      ],
+      "era": "Modern",
+      "description_brief": "A young princess investigates the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Animation movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.27,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 9,
+      "item_id": "M187",
+      "title": "TheSecret Spy",
+      "year": 2025,
+      "director": "Bong Joon-ho",
+      "genre": [
+        "Thriller",
+        "Animation",
+        "Music",
+        "Mystery"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Intense"
+      ],
+      "era": "Modern",
+      "description_brief": "A troubled thief learns from mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Animation movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.14,
+        "high_rating_count": 6,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 10,
+      "item_id": "M338",
+      "title": "Dark Knight Detective",
+      "year": 2020,
+      "director": "Guillermo del Toro",
+      "genre": [
+        "Mystery",
+        "Music",
+        "Adventure",
+        "Animation"
+      ],
+      "mood": [
+        "Philosophical",
+        "Intense",
+        "Psychological"
+      ],
+      "era": "Modern",
+      "description_brief": "A insomniac thief learns from a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Animation movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.12,
+        "high_rating_count": 6,
+        "total_ratings": 17
+      }
+    },
+    {
+      "rank": 11,
+      "item_id": "M445",
+      "title": "ABrave Detective",
+      "year": 1995,
+      "director": "Wes Anderson",
+      "genre": [
+        "Thriller",
+        "Crime",
+        "Animation"
+      ],
+      "mood": [
+        "Somber",
+        "Mind-bending",
+        "Emotional"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A cynical warrior travels through a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Animation movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.1,
+        "high_rating_count": 6,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 12,
+      "item_id": "M044",
+      "title": "TheBad Legend",
+      "year": 2006,
+      "director": "Michael Curtiz",
+      "genre": [
+        "Adventure",
+        "Thriller",
+        "Animation"
+      ],
+      "mood": [
+        "Thrilling",
+        "Suspenseful"
+      ],
+      "era": "2000s",
+      "description_brief": "A former thief investigates a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Animation movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.06,
+        "high_rating_count": 6,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 13,
+      "item_id": "M521",
+      "title": "Shining Night",
+      "year": 1953,
+      "director": "Christopher Nolan",
+      "genre": [
+        "Animation",
+        "Thriller"
+      ],
+      "mood": [
+        "Hopeful",
+        "Stylish",
+        "Chaotic"
+      ],
+      "era": "Classic",
+      "description_brief": "A brilliant hacker takes over guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Animation movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.92,
+        "high_rating_count": 6,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 14,
+      "item_id": "M237",
+      "title": "AShining Robot",
+      "year": 1930,
+      "director": "Guillermo del Toro",
+      "genre": [
+        "Animation",
+        "Thriller",
+        "Action"
+      ],
+      "mood": [
+        "Bittersweet",
+        "Suspenseful",
+        "Romantic"
+      ],
+      "era": "Classic",
+      "description_brief": "A determined detective escapes mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Animation movie. Average rating: 2.5/5.0",
+      "stats": {
+        "avg_rating": 2.51,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 15,
+      "item_id": "M485",
+      "title": "TheInterstellar Cop",
+      "year": 1921,
+      "director": "David Fincher",
+      "genre": [
+        "Action",
+        "Thriller",
+        "Animation"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Hopeful",
+        "Inspirational"
+      ],
+      "era": "Classic",
+      "description_brief": "A determined newsman struggles dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Animation movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.44,
+        "high_rating_count": 5,
+        "total_ratings": 19
+      }
+    },
+    {
+      "rank": 16,
+      "item_id": "M097",
+      "title": "APulp Man",
+      "year": 1968,
+      "director": "David Fincher",
+      "genre": [
+        "War",
+        "Animation",
+        "Mystery",
+        "Horror"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Bittersweet",
+        "Thrilling"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A young detective travels through a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Animation movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.33,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 17,
+      "item_id": "M805",
+      "title": "AShining Man",
+      "year": 1972,
+      "director": "Taika Waititi",
+      "genre": [
+        "Sport",
+        "History",
+        "Animation"
+      ],
+      "mood": [
+        "Angry",
+        "Suspenseful",
+        "Violent"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A aging boxer travels through dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Animation movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.19,
+        "high_rating_count": 5,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 18,
+      "item_id": "M095",
+      "title": "TheInterstellar Redemption",
+      "year": 1970,
+      "director": "Billy Wilder",
+      "genre": [
+        "Crime",
+        "Thriller",
+        "Biography",
+        "Animation"
+      ],
+      "mood": [
+        "Intense",
+        "Charming",
+        "Heartwarming"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A determined detective struggles the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Animation movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.16,
+        "high_rating_count": 5,
+        "total_ratings": 10
+      }
+    },
+    {
+      "rank": 19,
+      "item_id": "M290",
+      "title": "Dark Knight Woman",
+      "year": 2002,
+      "director": "Martin Scorsese",
+      "genre": [
+        "Animation",
+        "Horror",
+        "War"
+      ],
+      "mood": [
+        "Violent",
+        "Chaotic"
+      ],
+      "era": "2000s",
+      "description_brief": "A determined warrior plants dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Animation movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.1,
+        "high_rating_count": 5,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 20,
+      "item_id": "M991",
+      "title": "Shining Zombie",
+      "year": 2013,
+      "director": "David Fincher",
+      "genre": [
+        "Crime",
+        "Animation",
+        "Adventure",
+        "Mystery"
+      ],
+      "mood": [
+        "Psychological",
+        "Heartwarming"
+      ],
+      "era": "Modern",
+      "description_brief": "A aging princess fights against mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Animation movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.06,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    }
+  ]
+}

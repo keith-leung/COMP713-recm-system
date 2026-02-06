@@ -1,0 +1,6448 @@
+{
+  "id0601": {
+    "tags": [
+      "boomer",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M197",
+        "title": "Dark Knight Redemption",
+        "score": 4.1,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M093",
+        "title": "Shining King",
+        "score": 1.6,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M836",
+        "title": "TheMagnificent Shadow",
+        "score": 4.9,
+        "comment": null
+      },
+      {
+        "item_id": "M629",
+        "title": "Bad Killer",
+        "score": 1.8,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M641",
+        "title": "AGreat War",
+        "score": 1.4,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M311",
+        "title": "TheInterstellar Detective",
+        "score": 4.9,
+        "comment": "Super fun!"
+      }
+    ]
+  },
+  "id0602": {
+    "tags": [],
+    "scores": [
+      {
+        "item_id": "M891",
+        "title": "TheDark Knight City",
+        "score": 3.1,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M285",
+        "title": "AInterstellar Killer",
+        "score": 1.3,
+        "comment": "Great acting!"
+      }
+    ]
+  },
+  "id0603": {
+    "tags": [
+      "millennial",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M067",
+        "title": "Magnificent Night",
+        "score": 3.9,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M603",
+        "title": "Rising Fire",
+        "score": 1.7,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M132",
+        "title": "TheSecret King",
+        "score": 4.3,
+        "comment": "Predictable ending"
+      }
+    ]
+  },
+  "id0604": {
+    "tags": [],
+    "scores": [
+      {
+        "item_id": "M869",
+        "title": "AInception Soldier",
+        "score": 3.6,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M695",
+        "title": "Good Dream",
+        "score": 3.3,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M024",
+        "title": "TheInterstellar Monster",
+        "score": 3.0,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M994",
+        "title": "TheDark Knight Killer",
+        "score": 0.5,
+        "comment": "Not my taste"
+      }
+    ]
+  },
+  "id0605": {
+    "tags": [
+      "boomer",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M875",
+        "title": "AVertigo Killer",
+        "score": 4.7,
+        "comment": "Not my taste"
+      }
+    ]
+  },
+  "id0606": {
+    "tags": [
+      "boomer",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M125",
+        "title": "TheMagnificent Robot",
+        "score": 2.1,
+        "comment": null
+      },
+      {
+        "item_id": "M697",
+        "title": "TheShining Spy",
+        "score": 4.5,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M531",
+        "title": "Dirty Battle",
+        "score": 0.7,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M478",
+        "title": "TheShawshank Night",
+        "score": 2.9,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M508",
+        "title": "Shining Soldier",
+        "score": 0.5,
+        "comment": "Great acting!"
+      }
+    ]
+  },
+  "id0607": {
+    "tags": [
+      "gen Z",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M902",
+        "title": "Brave Cop",
+        "score": 4.1,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M586",
+        "title": "TheSilent Samurai",
+        "score": 4.9,
+        "comment": "Not my taste"
+      }
+    ]
+  },
+  "id0608": {
+    "tags": [
+      "boomer",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M202",
+        "title": "ASilent Queen",
+        "score": 0.8,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M169",
+        "title": "AGreat Battle",
+        "score": 0.9,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M338",
+        "title": "Dark Knight Detective",
+        "score": 2.4,
+        "comment": null
+      },
+      {
+        "item_id": "M319",
+        "title": "ASecret Fire",
+        "score": 3.2,
+        "comment": "Super fun!"
+      }
+    ]
+  },
+  "id0609": {
+    "tags": [],
+    "scores": [
+      {
+        "item_id": "M254",
+        "title": "TheDirty Zombie",
+        "score": 2.0,
+        "comment": null
+      },
+      {
+        "item_id": "M111",
+        "title": "TheGood Eclipse",
+        "score": 4.2,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M485",
+        "title": "TheInterstellar Cop",
+        "score": 4.1,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M245",
+        "title": "Lost King",
+        "score": 4.0,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M982",
+        "title": "ASecret Killer",
+        "score": 2.5,
+        "comment": "Loved it!"
+      }
+    ]
+  },
+  "id0610": {
+    "tags": [
+      "gen Z",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M593",
+        "title": "Fight Club Ghost",
+        "score": 1.9,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M128",
+        "title": "AInterstellar King",
+        "score": 4.0,
+        "comment": null
+      },
+      {
+        "item_id": "M088",
+        "title": "Dirty War",
+        "score": 4.6,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M998",
+        "title": "TheBrave City",
+        "score": 0.7,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M063",
+        "title": "ALost Samurai",
+        "score": 3.3,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M939",
+        "title": "TheInception Redemption",
+        "score": 1.0,
+        "comment": null
+      },
+      {
+        "item_id": "M035",
+        "title": "TheFurious City",
+        "score": 3.0,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M387",
+        "title": "Fight Club Revenge",
+        "score": 4.3,
+        "comment": "Not my taste"
+      }
+    ]
+  },
+  "id0611": {
+    "tags": null,
+    "scores": [
+      {
+        "item_id": "M239",
+        "title": "ADirty Legend",
+        "score": 2.5,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M886",
+        "title": "ASilent Soldier",
+        "score": 4.1,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M614",
+        "title": "AFight Club Legend",
+        "score": 3.3,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M807",
+        "title": "TheRising Soldier",
+        "score": 3.4,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M676",
+        "title": "TheDark Knight Shadow",
+        "score": 4.0,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M639",
+        "title": "Brave Woman",
+        "score": 2.8,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M011",
+        "title": "Schindler's List",
+        "score": 1.4,
+        "comment": "Loved it!"
+      }
+    ]
+  },
+  "id0612": {
+    "tags": [
+      "millennial",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M608",
+        "title": "AMatrix Robot",
+        "score": 4.3,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M809",
+        "title": "ATrue Woman",
+        "score": 1.1,
+        "comment": "Predictable ending"
+      }
+    ]
+  },
+  "id0613": {
+    "tags": [
+      "student"
+    ],
+    "scores": [
+      {
+        "item_id": "M432",
+        "title": "AGodfather Man",
+        "score": 1.6,
+        "comment": null
+      },
+      {
+        "item_id": "M493",
+        "title": "AMagnificent Blood",
+        "score": 0.8,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M743",
+        "title": "AVertigo Eclipse",
+        "score": 3.1,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M636",
+        "title": "Gladiator Fire",
+        "score": 4.8,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M456",
+        "title": "TheTrue Vampire",
+        "score": 1.9,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M191",
+        "title": "Good War",
+        "score": 4.0,
+        "comment": "Boring plot"
+      }
+    ]
+  },
+  "id0614": {
+    "tags": [
+      "boomer",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M618",
+        "title": "TheBad Honor",
+        "score": 0.5,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M352",
+        "title": "Fight Club Dream",
+        "score": 3.5,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M299",
+        "title": "TheBrave Hero",
+        "score": 0.8,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M378",
+        "title": "Rising Killer",
+        "score": 4.2,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M994",
+        "title": "TheDark Knight Killer",
+        "score": 4.4,
+        "comment": "Not my taste"
+      }
+    ]
+  },
+  "id0615": {
+    "tags": [
+      "gamer"
+    ],
+    "scores": [
+      {
+        "item_id": "M1000",
+        "title": "Final Wizard",
+        "score": 1.4,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M206",
+        "title": "TheGreat Dream",
+        "score": 2.0,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M656",
+        "title": "AShawshank Samurai",
+        "score": 2.6,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M931",
+        "title": "Fight Club Robot",
+        "score": 3.2,
+        "comment": "Must watch"
+      }
+    ]
+  },
+  "id0616": {
+    "tags": [
+      "millennial",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M631",
+        "title": "Brave Robot",
+        "score": 2.5,
+        "comment": null
+      },
+      {
+        "item_id": "M307",
+        "title": "TheGodfather Eclipse",
+        "score": 2.7,
+        "comment": null
+      },
+      {
+        "item_id": "M429",
+        "title": "ADark Quest",
+        "score": 3.4,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M337",
+        "title": "AMagnificent Eclipse",
+        "score": 2.6,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M167",
+        "title": "ALost Dawn",
+        "score": 1.6,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M108",
+        "title": "AFurious Revenge",
+        "score": 4.1,
+        "comment": "Not my taste"
+      }
+    ]
+  },
+  "id0617": {
+    "tags": [
+      "gen Z",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M189",
+        "title": "TheTrue Legend",
+        "score": 0.6,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M846",
+        "title": "TheTrue Killer",
+        "score": 1.1,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M007",
+        "title": "The Godfather",
+        "score": 1.4,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M372",
+        "title": "Godfather Ghost",
+        "score": 4.6,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M011",
+        "title": "Schindler's List",
+        "score": 0.7,
+        "comment": null
+      },
+      {
+        "item_id": "M076",
+        "title": "TheMagnificent Dawn",
+        "score": 1.4,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M367",
+        "title": "AFalling Ghost",
+        "score": 1.3,
+        "comment": "Too long"
+      }
+    ]
+  },
+  "id0618": {
+    "tags": [
+      "boomer",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M868",
+        "title": "TheBrave City",
+        "score": 1.3,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M568",
+        "title": "AVertigo Pirate",
+        "score": 4.6,
+        "comment": null
+      },
+      {
+        "item_id": "M252",
+        "title": "Furious King",
+        "score": 4.2,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M183",
+        "title": "Lost Monster",
+        "score": 2.2,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M201",
+        "title": "AFurious Redemption",
+        "score": 2.0,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M023",
+        "title": "ASilent City",
+        "score": 1.9,
+        "comment": "Great acting!"
+      }
+    ]
+  },
+  "id0619": {
+    "tags": null,
+    "scores": [
+      {
+        "item_id": "M677",
+        "title": "Good King",
+        "score": 4.5,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M176",
+        "title": "AInception Queen",
+        "score": 1.0,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M964",
+        "title": "Good Detective",
+        "score": 4.1,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M540",
+        "title": "Furious Man",
+        "score": 2.9,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M819",
+        "title": "TheShining Pirate",
+        "score": 1.9,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M639",
+        "title": "Brave Woman",
+        "score": 4.9,
+        "comment": "Great acting!"
+      }
+    ]
+  },
+  "id0620": {
+    "tags": [
+      "millennial",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M875",
+        "title": "AVertigo Killer",
+        "score": 1.2,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M549",
+        "title": "AMatrix Spy",
+        "score": 0.7,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M302",
+        "title": "Brave Empire",
+        "score": 4.4,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M809",
+        "title": "ATrue Woman",
+        "score": 4.9,
+        "comment": "Amazing visuals"
+      }
+    ]
+  },
+  "id0621": {
+    "tags": [
+      "boomer",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M804",
+        "title": "Brave City",
+        "score": 4.1,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M482",
+        "title": "Fight Club Betrayal",
+        "score": 0.8,
+        "comment": "Predictable ending"
+      }
+    ]
+  },
+  "id0622": {
+    "tags": [
+      "student"
+    ],
+    "scores": [
+      {
+        "item_id": "M511",
+        "title": "Gladiator Storm",
+        "score": 2.2,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M532",
+        "title": "Dark Shadow",
+        "score": 3.7,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M476",
+        "title": "Rising Pirate",
+        "score": 2.6,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M184",
+        "title": "TheDirty Detective",
+        "score": 2.3,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M330",
+        "title": "Secret Monster",
+        "score": 3.4,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M730",
+        "title": "TheDark Revenge",
+        "score": 1.5,
+        "comment": "Great acting!"
+      }
+    ]
+  },
+  "id0623": {
+    "tags": [
+      "millennial",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M406",
+        "title": "TheLost Samurai",
+        "score": 4.5,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M224",
+        "title": "TheBrave City",
+        "score": 1.2,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M314",
+        "title": "AGreat Battle",
+        "score": 1.6,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M436",
+        "title": "Gladiator Redemption",
+        "score": 1.1,
+        "comment": "Loved it!"
+      }
+    ]
+  },
+  "id0624": {
+    "tags": [
+      "parent"
+    ],
+    "scores": [
+      {
+        "item_id": "M532",
+        "title": "Dark Shadow",
+        "score": 2.0,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M361",
+        "title": "TheFinal Samurai",
+        "score": 2.6,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M236",
+        "title": "Gladiator Revenge",
+        "score": 2.2,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M598",
+        "title": "Vertigo Vampire",
+        "score": 1.9,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M043",
+        "title": "Pulp Wizard",
+        "score": 0.6,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M477",
+        "title": "TheTrue Monster",
+        "score": 1.6,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M525",
+        "title": "TheBad Spy",
+        "score": 0.8,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M637",
+        "title": "ADark Knight City",
+        "score": 1.8,
+        "comment": "Predictable ending"
+      }
+    ]
+  },
+  "id0625": {
+    "tags": null,
+    "scores": [
+      {
+        "item_id": "M805",
+        "title": "AShining Man",
+        "score": 4.7,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M284",
+        "title": "TheTrue Storm",
+        "score": 1.0,
+        "comment": "Must watch"
+      }
+    ]
+  },
+  "id0626": {
+    "tags": [
+      "millennial",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M342",
+        "title": "ASilent Shadow",
+        "score": 1.6,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M202",
+        "title": "ASilent Queen",
+        "score": 4.3,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M692",
+        "title": "ABrave Pirate",
+        "score": 3.7,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M338",
+        "title": "Dark Knight Detective",
+        "score": 5.0,
+        "comment": "Predictable ending"
+      }
+    ]
+  },
+  "id0627": {
+    "tags": [
+      "boomer",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M789",
+        "title": "TheGreat Battle",
+        "score": 1.8,
+        "comment": "Must watch"
+      }
+    ]
+  },
+  "id0628": {
+    "tags": [
+      "boomer",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M842",
+        "title": "ThePulp Samurai",
+        "score": 2.8,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M594",
+        "title": "Bad Hero",
+        "score": 4.4,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M776",
+        "title": "TheDirty Night",
+        "score": 1.5,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M672",
+        "title": "TheBad Zombie",
+        "score": 2.6,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M013",
+        "title": "Inception",
+        "score": 3.1,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M484",
+        "title": "TheFurious Man",
+        "score": 3.9,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M670",
+        "title": "Dark Knight Killer",
+        "score": 2.0,
+        "comment": "Loved it!"
+      }
+    ]
+  },
+  "id0629": {
+    "tags": [
+      "millennial",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M440",
+        "title": "AFight Club Spy",
+        "score": 2.4,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M789",
+        "title": "TheGreat Battle",
+        "score": 2.5,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M965",
+        "title": "True Killer",
+        "score": 0.6,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M715",
+        "title": "Falling Hero",
+        "score": 3.1,
+        "comment": "Boring plot"
+      }
+    ]
+  },
+  "id0630": {
+    "tags": [
+      "boomer",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M512",
+        "title": "ADark Knight Hero",
+        "score": 4.1,
+        "comment": "Must watch"
+      }
+    ]
+  },
+  "id0631": {
+    "tags": [
+      "boomer",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M430",
+        "title": "Shining Night",
+        "score": 2.3,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M436",
+        "title": "Gladiator Redemption",
+        "score": 1.8,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M703",
+        "title": "True Killer",
+        "score": 0.6,
+        "comment": null
+      },
+      {
+        "item_id": "M771",
+        "title": "TheDark Revenge",
+        "score": 4.6,
+        "comment": "Boring plot"
+      }
+    ]
+  },
+  "id0632": {
+    "tags": [
+      "millennial",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M391",
+        "title": "ThePulp Betrayal",
+        "score": 1.3,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M210",
+        "title": "ABrave Eclipse",
+        "score": 2.0,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M972",
+        "title": "ARising Night",
+        "score": 3.4,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M401",
+        "title": "TheFight Club Revenge",
+        "score": 0.9,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M066",
+        "title": "AFurious Legend",
+        "score": 3.5,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M548",
+        "title": "TheGreat Storm",
+        "score": 0.6,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M396",
+        "title": "TheTrue Empire",
+        "score": 2.7,
+        "comment": "Boring plot"
+      }
+    ]
+  },
+  "id0633": {
+    "tags": [
+      "parent"
+    ],
+    "scores": [
+      {
+        "item_id": "M934",
+        "title": "AFight Club Cop",
+        "score": 2.2,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M987",
+        "title": "TheInterstellar Empire",
+        "score": 1.5,
+        "comment": "Super fun!"
+      }
+    ]
+  },
+  "id0634": {
+    "tags": [
+      "boomer",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M466",
+        "title": "APulp City",
+        "score": 2.2,
+        "comment": null
+      },
+      {
+        "item_id": "M059",
+        "title": "AGreat Soldier",
+        "score": 1.3,
+        "comment": "Not my taste"
+      }
+    ]
+  },
+  "id0635": {
+    "tags": [
+      "millennial",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M114",
+        "title": "AFurious Spy",
+        "score": 2.4,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M133",
+        "title": "TheFinal King",
+        "score": 2.3,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M550",
+        "title": "APulp Dream",
+        "score": 1.1,
+        "comment": "Great acting!"
+      }
+    ]
+  },
+  "id0636": {
+    "tags": [
+      "student"
+    ],
+    "scores": [
+      {
+        "item_id": "M838",
+        "title": "ADirty Legend",
+        "score": 4.7,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M727",
+        "title": "ABrave Samurai",
+        "score": 1.4,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M681",
+        "title": "ADark Alien",
+        "score": 2.6,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M487",
+        "title": "ABrave City",
+        "score": 0.5,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M163",
+        "title": "Godfather Vampire",
+        "score": 2.5,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M619",
+        "title": "Dirty Robot",
+        "score": 3.2,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M589",
+        "title": "TheGladiator Alien",
+        "score": 2.9,
+        "comment": "Very emotional"
+      }
+    ]
+  },
+  "id0637": {
+    "tags": [
+      "millennial",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M474",
+        "title": "Shining Eclipse",
+        "score": 4.6,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M590",
+        "title": "AMatrix Battle",
+        "score": 3.7,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M041",
+        "title": "Shining Killer",
+        "score": 2.3,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M755",
+        "title": "Vertigo Empire",
+        "score": 2.4,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M094",
+        "title": "Falling Killer",
+        "score": 4.5,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M295",
+        "title": "Silent Dream",
+        "score": 2.6,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M662",
+        "title": "Silent Cop",
+        "score": 1.3,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M903",
+        "title": "Rising Pirate",
+        "score": 0.9,
+        "comment": null
+      }
+    ]
+  },
+  "id0638": {
+    "tags": [
+      "parent"
+    ],
+    "scores": [
+      {
+        "item_id": "M281",
+        "title": "Bad Shadow",
+        "score": 2.9,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M904",
+        "title": "TheBrave Woman",
+        "score": 4.6,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M644",
+        "title": "TheShining Ghost",
+        "score": 4.6,
+        "comment": "Not my taste"
+      }
+    ]
+  },
+  "id0639": {
+    "tags": [
+      "boomer",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M378",
+        "title": "Rising Killer",
+        "score": 3.9,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M079",
+        "title": "TheInception Eclipse",
+        "score": 3.9,
+        "comment": "Must watch"
+      }
+    ]
+  },
+  "id0640": {
+    "tags": [
+      "gen Z",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M169",
+        "title": "AGreat Battle",
+        "score": 3.4,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M259",
+        "title": "Lost Ghost",
+        "score": 3.9,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M213",
+        "title": "Gladiator Redemption",
+        "score": 2.0,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M519",
+        "title": "Godfather Monster",
+        "score": 4.4,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M046",
+        "title": "TheShining Samurai",
+        "score": 0.7,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M474",
+        "title": "Shining Eclipse",
+        "score": 1.0,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M028",
+        "title": "True Legend",
+        "score": 2.0,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M075",
+        "title": "APulp Betrayal",
+        "score": 2.7,
+        "comment": "Loved it!"
+      }
+    ]
+  },
+  "id0641": {
+    "tags": [
+      "gen Z",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M731",
+        "title": "TheBrave Dawn",
+        "score": 2.6,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M973",
+        "title": "AFurious Hero",
+        "score": 4.3,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M449",
+        "title": "TheFight Club Night",
+        "score": 4.3,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M144",
+        "title": "TheMatrix Robot",
+        "score": 1.0,
+        "comment": "Too long"
+      }
+    ]
+  },
+  "id0642": {
+    "tags": [
+      "millennial",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M173",
+        "title": "TheGladiator Battle",
+        "score": 1.2,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M080",
+        "title": "ARising Hero",
+        "score": 1.3,
+        "comment": null
+      },
+      {
+        "item_id": "M688",
+        "title": "TheFurious Killer",
+        "score": 4.5,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M782",
+        "title": "Bad Detective",
+        "score": 1.5,
+        "comment": null
+      },
+      {
+        "item_id": "M012",
+        "title": "Fight Club",
+        "score": 4.3,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M694",
+        "title": "AInterstellar Storm",
+        "score": 3.4,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M280",
+        "title": "ThePulp Fire",
+        "score": 4.5,
+        "comment": "Not my taste"
+      }
+    ]
+  },
+  "id0643": {
+    "tags": [
+      "gen Z",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M054",
+        "title": "TheBrave Woman",
+        "score": 4.7,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M613",
+        "title": "Dark Knight Ghost",
+        "score": 4.6,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M005",
+        "title": "The Apartment",
+        "score": 0.9,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M050",
+        "title": "TheGreat Man",
+        "score": 0.6,
+        "comment": null
+      },
+      {
+        "item_id": "M791",
+        "title": "TheRising War",
+        "score": 2.0,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M387",
+        "title": "Fight Club Revenge",
+        "score": 3.6,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M786",
+        "title": "TheSilent Vampire",
+        "score": 1.5,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M207",
+        "title": "TheDark Knight Wizard",
+        "score": 4.1,
+        "comment": "Super fun!"
+      }
+    ]
+  },
+  "id0644": {
+    "tags": [
+      "parent"
+    ],
+    "scores": [
+      {
+        "item_id": "M046",
+        "title": "TheShining Samurai",
+        "score": 1.0,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M426",
+        "title": "Rising Night",
+        "score": 2.0,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M525",
+        "title": "TheBad Spy",
+        "score": 1.4,
+        "comment": "Great acting!"
+      }
+    ]
+  },
+  "id0645": {
+    "tags": [
+      "boomer",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M962",
+        "title": "AGreat Pirate",
+        "score": 2.0,
+        "comment": null
+      },
+      {
+        "item_id": "M439",
+        "title": "TheInception Betrayal",
+        "score": 2.3,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M124",
+        "title": "TheLost Robot",
+        "score": 0.6,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M238",
+        "title": "TheFight Club Blood",
+        "score": 2.6,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M219",
+        "title": "Dark Knight Robot",
+        "score": 3.5,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M109",
+        "title": "Shawshank Vampire",
+        "score": 3.4,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M366",
+        "title": "AInterstellar Soldier",
+        "score": 0.7,
+        "comment": "Great acting!"
+      }
+    ]
+  },
+  "id0646": {
+    "tags": [
+      "boomer",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M786",
+        "title": "TheSilent Vampire",
+        "score": 2.9,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M614",
+        "title": "AFight Club Legend",
+        "score": 1.3,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M512",
+        "title": "ADark Knight Hero",
+        "score": 3.2,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M105",
+        "title": "TheFalling Hero",
+        "score": 3.6,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M730",
+        "title": "TheDark Revenge",
+        "score": 4.7,
+        "comment": "Boring plot"
+      }
+    ]
+  },
+  "id0647": {
+    "tags": [
+      "student"
+    ],
+    "scores": [
+      {
+        "item_id": "M651",
+        "title": "AMagnificent War",
+        "score": 3.6,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M780",
+        "title": "Shining Woman",
+        "score": 2.7,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M906",
+        "title": "TheShining Dream",
+        "score": 0.6,
+        "comment": "Very emotional"
+      }
+    ]
+  },
+  "id0648": {
+    "tags": [
+      "millennial",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M524",
+        "title": "TheGodfather Alien",
+        "score": 4.9,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M656",
+        "title": "AShawshank Samurai",
+        "score": 0.6,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M760",
+        "title": "TheFurious Pirate",
+        "score": 1.9,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M239",
+        "title": "ADirty Legend",
+        "score": 3.9,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M516",
+        "title": "Inception Alien",
+        "score": 0.9,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M602",
+        "title": "ATrue Hero",
+        "score": 2.2,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M722",
+        "title": "AShawshank Killer",
+        "score": 1.4,
+        "comment": "Not my taste"
+      }
+    ]
+  },
+  "id0649": {
+    "tags": [
+      "student"
+    ],
+    "scores": [
+      {
+        "item_id": "M244",
+        "title": "ThePulp Honor",
+        "score": 4.7,
+        "comment": "Very emotional"
+      }
+    ]
+  },
+  "id0650": {
+    "tags": [
+      "millennial",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M138",
+        "title": "Secret Zombie",
+        "score": 0.7,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M285",
+        "title": "AInterstellar Killer",
+        "score": 3.4,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M326",
+        "title": "ALost Legend",
+        "score": 3.9,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M660",
+        "title": "AGood Ghost",
+        "score": 4.3,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M806",
+        "title": "AShawshank Revenge",
+        "score": 2.0,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M779",
+        "title": "AShining Shadow",
+        "score": 2.9,
+        "comment": "Super fun!"
+      }
+    ]
+  },
+  "id0651": {
+    "tags": [],
+    "scores": [
+      {
+        "item_id": "M623",
+        "title": "ATrue Robot",
+        "score": 1.9,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M894",
+        "title": "TheGood Zombie",
+        "score": 3.3,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M391",
+        "title": "ThePulp Betrayal",
+        "score": 4.4,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M534",
+        "title": "Dark Knight Zombie",
+        "score": 4.8,
+        "comment": null
+      }
+    ]
+  },
+  "id0652": {
+    "tags": [
+      "boomer",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M961",
+        "title": "AMatrix Revenge",
+        "score": 0.9,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M210",
+        "title": "ABrave Eclipse",
+        "score": 3.0,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M129",
+        "title": "Brave Revenge",
+        "score": 1.6,
+        "comment": "Loved it!"
+      }
+    ]
+  },
+  "id0653": {
+    "tags": null,
+    "scores": [
+      {
+        "item_id": "M319",
+        "title": "ASecret Fire",
+        "score": 1.6,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M169",
+        "title": "AGreat Battle",
+        "score": 3.1,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M739",
+        "title": "AInception Monster",
+        "score": 1.4,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M203",
+        "title": "True Monster",
+        "score": 0.9,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M251",
+        "title": "TheGreat Cop",
+        "score": 2.3,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M435",
+        "title": "Magnificent Zombie",
+        "score": 2.6,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M181",
+        "title": "Gladiator Vampire",
+        "score": 2.8,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M621",
+        "title": "Rising Betrayal",
+        "score": 3.9,
+        "comment": "Amazing visuals"
+      }
+    ]
+  },
+  "id0654": {
+    "tags": [
+      "millennial",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M438",
+        "title": "Final City",
+        "score": 3.2,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M875",
+        "title": "AVertigo Killer",
+        "score": 3.0,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M086",
+        "title": "AGladiator Dawn",
+        "score": 1.7,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M778",
+        "title": "Shawshank Legend",
+        "score": 1.9,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M929",
+        "title": "TheGood Storm",
+        "score": 2.2,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M944",
+        "title": "ADark Knight Storm",
+        "score": 2.7,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M308",
+        "title": "Fight Club War",
+        "score": 1.1,
+        "comment": "Amazing visuals"
+      }
+    ]
+  },
+  "id0655": {
+    "tags": [
+      "boomer",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M939",
+        "title": "TheInception Redemption",
+        "score": 0.6,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M195",
+        "title": "TheFurious Night",
+        "score": 3.8,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M005",
+        "title": "The Apartment",
+        "score": 2.7,
+        "comment": "Not my taste"
+      }
+    ]
+  },
+  "id0656": {
+    "tags": [],
+    "scores": [
+      {
+        "item_id": "M394",
+        "title": "AShining Monster",
+        "score": 2.3,
+        "comment": null
+      },
+      {
+        "item_id": "M502",
+        "title": "TheBrave Redemption",
+        "score": 5.0,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M316",
+        "title": "TheFinal Pirate",
+        "score": 2.2,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M657",
+        "title": "AInception Honor",
+        "score": 1.2,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M603",
+        "title": "Rising Fire",
+        "score": 4.8,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M073",
+        "title": "Great Fire",
+        "score": 2.8,
+        "comment": "Amazing visuals"
+      }
+    ]
+  },
+  "id0657": {
+    "tags": [
+      "gen Z",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M714",
+        "title": "TheDirty Eclipse",
+        "score": 3.8,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M060",
+        "title": "ADark Knight Blood",
+        "score": 2.6,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M667",
+        "title": "TheInterstellar Soldier",
+        "score": 3.3,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M395",
+        "title": "TheShining Redemption",
+        "score": 0.6,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M949",
+        "title": "ABad Redemption",
+        "score": 3.4,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M435",
+        "title": "Magnificent Zombie",
+        "score": 3.2,
+        "comment": "Super fun!"
+      }
+    ]
+  },
+  "id0658": {
+    "tags": [
+      "parent"
+    ],
+    "scores": [
+      {
+        "item_id": "M254",
+        "title": "TheDirty Zombie",
+        "score": 4.3,
+        "comment": null
+      },
+      {
+        "item_id": "M617",
+        "title": "ADark Dawn",
+        "score": 1.0,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M593",
+        "title": "Fight Club Ghost",
+        "score": 3.4,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M975",
+        "title": "Falling Eclipse",
+        "score": 2.3,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M679",
+        "title": "Rising Samurai",
+        "score": 4.9,
+        "comment": "Loved it!"
+      }
+    ]
+  },
+  "id0659": {
+    "tags": [
+      "gen Z",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M898",
+        "title": "TheGood Battle",
+        "score": 2.4,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M434",
+        "title": "ADirty Soldier",
+        "score": 2.8,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M170",
+        "title": "TheDark Knight Alien",
+        "score": 3.5,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M850",
+        "title": "ABrave Battle",
+        "score": 3.1,
+        "comment": "Not my taste"
+      }
+    ]
+  },
+  "id0660": {
+    "tags": [
+      "millennial",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M652",
+        "title": "AFalling Honor",
+        "score": 4.0,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M587",
+        "title": "Inception Hero",
+        "score": 4.2,
+        "comment": "Too long"
+      }
+    ]
+  },
+  "id0661": {
+    "tags": [
+      "student"
+    ],
+    "scores": [
+      {
+        "item_id": "M716",
+        "title": "TheFurious Betrayal",
+        "score": 0.9,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M316",
+        "title": "TheFinal Pirate",
+        "score": 2.9,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M007",
+        "title": "The Godfather",
+        "score": 1.8,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M173",
+        "title": "TheGladiator Battle",
+        "score": 1.3,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M836",
+        "title": "TheMagnificent Shadow",
+        "score": 1.3,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M504",
+        "title": "Great Pirate",
+        "score": 1.4,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M002",
+        "title": "Scarface",
+        "score": 2.8,
+        "comment": "Loved it!"
+      }
+    ]
+  },
+  "id0662": {
+    "tags": [
+      "gen Z",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M191",
+        "title": "Good War",
+        "score": 1.3,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M206",
+        "title": "TheGreat Dream",
+        "score": 1.7,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M061",
+        "title": "TheFalling Legend",
+        "score": 2.5,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M768",
+        "title": "TheSilent City",
+        "score": 1.0,
+        "comment": "Super fun!"
+      }
+    ]
+  },
+  "id0663": {
+    "tags": [
+      "gamer"
+    ],
+    "scores": [
+      {
+        "item_id": "M301",
+        "title": "TheFight Club Legend",
+        "score": 2.2,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M088",
+        "title": "Dirty War",
+        "score": 0.8,
+        "comment": null
+      }
+    ]
+  },
+  "id0664": {
+    "tags": null,
+    "scores": [
+      {
+        "item_id": "M490",
+        "title": "AShawshank Spy",
+        "score": 1.0,
+        "comment": null
+      },
+      {
+        "item_id": "M497",
+        "title": "TheGood Hero",
+        "score": 1.7,
+        "comment": null
+      },
+      {
+        "item_id": "M689",
+        "title": "AInterstellar Detective",
+        "score": 3.5,
+        "comment": null
+      },
+      {
+        "item_id": "M779",
+        "title": "AShining Shadow",
+        "score": 0.9,
+        "comment": "Predictable ending"
+      }
+    ]
+  },
+  "id0665": {
+    "tags": [
+      "boomer",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M618",
+        "title": "TheBad Honor",
+        "score": 2.6,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M533",
+        "title": "Inception Legend",
+        "score": 3.2,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M986",
+        "title": "Magnificent Honor",
+        "score": 2.2,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M780",
+        "title": "Shining Woman",
+        "score": 5.0,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M273",
+        "title": "TheGladiator Detective",
+        "score": 4.7,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M955",
+        "title": "TheShawshank Zombie",
+        "score": 2.3,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M498",
+        "title": "TheGladiator Legend",
+        "score": 0.8,
+        "comment": "Must watch"
+      }
+    ]
+  },
+  "id0666": {
+    "tags": null,
+    "scores": [
+      {
+        "item_id": "M004",
+        "title": "Goodfellas",
+        "score": 4.4,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M468",
+        "title": "AGreat Storm",
+        "score": 3.8,
+        "comment": "Boring plot"
+      }
+    ]
+  },
+  "id0667": {
+    "tags": [],
+    "scores": [
+      {
+        "item_id": "M890",
+        "title": "AGodfather City",
+        "score": 1.8,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M544",
+        "title": "AGreat Betrayal",
+        "score": 2.2,
+        "comment": "Very emotional"
+      }
+    ]
+  },
+  "id0668": {
+    "tags": [
+      "boomer",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M528",
+        "title": "AFinal Woman",
+        "score": 4.2,
+        "comment": null
+      },
+      {
+        "item_id": "M424",
+        "title": "Great Ghost",
+        "score": 3.4,
+        "comment": null
+      },
+      {
+        "item_id": "M677",
+        "title": "Good King",
+        "score": 4.9,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M193",
+        "title": "True Cop",
+        "score": 3.6,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M004",
+        "title": "Goodfellas",
+        "score": 3.2,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M654",
+        "title": "Great Robot",
+        "score": 3.8,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M981",
+        "title": "Magnificent Shadow",
+        "score": 2.1,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M965",
+        "title": "True Killer",
+        "score": 4.9,
+        "comment": "Loved it!"
+      }
+    ]
+  },
+  "id0669": {
+    "tags": [
+      "student"
+    ],
+    "scores": [
+      {
+        "item_id": "M622",
+        "title": "Inception Storm",
+        "score": 2.8,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M200",
+        "title": "AShawshank Battle",
+        "score": 4.0,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M730",
+        "title": "TheDark Revenge",
+        "score": 0.6,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M147",
+        "title": "AFurious Shadow",
+        "score": 4.1,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M891",
+        "title": "TheDark Knight City",
+        "score": 4.2,
+        "comment": "Predictable ending"
+      }
+    ]
+  },
+  "id0670": {
+    "tags": [
+      "gen Z",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M918",
+        "title": "AFurious Dream",
+        "score": 1.0,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M457",
+        "title": "True Spy",
+        "score": 2.9,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M978",
+        "title": "ATrue Wizard",
+        "score": 1.5,
+        "comment": "Super fun!"
+      }
+    ]
+  },
+  "id0671": {
+    "tags": [
+      "millennial",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M446",
+        "title": "AGreat Redemption",
+        "score": 0.6,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M733",
+        "title": "AFalling Samurai",
+        "score": 4.6,
+        "comment": "Too long"
+      }
+    ]
+  },
+  "id0672": {
+    "tags": [
+      "gamer"
+    ],
+    "scores": [
+      {
+        "item_id": "M682",
+        "title": "TheMatrix City",
+        "score": 1.1,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M488",
+        "title": "ATrue Vampire",
+        "score": 4.7,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M975",
+        "title": "Falling Eclipse",
+        "score": 3.8,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M920",
+        "title": "ADark Woman",
+        "score": 4.1,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M687",
+        "title": "TheShawshank Empire",
+        "score": 4.4,
+        "comment": "Very emotional"
+      }
+    ]
+  },
+  "id0673": {
+    "tags": [
+      "boomer",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M660",
+        "title": "AGood Ghost",
+        "score": 2.2,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M352",
+        "title": "Fight Club Dream",
+        "score": 3.4,
+        "comment": "Predictable ending"
+      }
+    ]
+  },
+  "id0674": {
+    "tags": [
+      "boomer",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M229",
+        "title": "AGood Cop",
+        "score": 0.9,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M266",
+        "title": "TheGood Robot",
+        "score": 2.0,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M119",
+        "title": "Rising Cop",
+        "score": 4.7,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M298",
+        "title": "Magnificent Empire",
+        "score": 3.1,
+        "comment": "Boring plot"
+      }
+    ]
+  },
+  "id0675": {
+    "tags": [
+      "student"
+    ],
+    "scores": [
+      {
+        "item_id": "M591",
+        "title": "AFurious Honor",
+        "score": 1.4,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M755",
+        "title": "Vertigo Empire",
+        "score": 4.9,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M002",
+        "title": "Scarface",
+        "score": 4.0,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M319",
+        "title": "ASecret Fire",
+        "score": 4.7,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M064",
+        "title": "Matrix Quest",
+        "score": 2.8,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M605",
+        "title": "AMagnificent Zombie",
+        "score": 3.2,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M549",
+        "title": "AMatrix Spy",
+        "score": 2.3,
+        "comment": "Predictable ending"
+      }
+    ]
+  },
+  "id0676": {
+    "tags": [
+      "millennial",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M149",
+        "title": "ThePulp Empire",
+        "score": 2.7,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M836",
+        "title": "TheMagnificent Shadow",
+        "score": 1.2,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M966",
+        "title": "TheMagnificent Eclipse",
+        "score": 1.2,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M304",
+        "title": "TheRising Woman",
+        "score": 4.3,
+        "comment": null
+      },
+      {
+        "item_id": "M858",
+        "title": "Matrix Woman",
+        "score": 3.2,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M225",
+        "title": "TheBad Eclipse",
+        "score": 2.8,
+        "comment": "Loved it!"
+      }
+    ]
+  },
+  "id0677": {
+    "tags": null,
+    "scores": [
+      {
+        "item_id": "M647",
+        "title": "TheDirty Blood",
+        "score": 0.8,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M849",
+        "title": "Shawshank Pirate",
+        "score": 1.2,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M221",
+        "title": "Lost Dream",
+        "score": 4.3,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M507",
+        "title": "TheMatrix Betrayal",
+        "score": 3.7,
+        "comment": null
+      },
+      {
+        "item_id": "M299",
+        "title": "TheBrave Hero",
+        "score": 4.7,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M722",
+        "title": "AShawshank Killer",
+        "score": 4.4,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M990",
+        "title": "TheGreat Fire",
+        "score": 1.8,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M386",
+        "title": "TheGreat Redemption",
+        "score": 4.6,
+        "comment": "Boring plot"
+      }
+    ]
+  },
+  "id0678": {
+    "tags": [
+      "millennial",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M346",
+        "title": "ASilent Cop",
+        "score": 2.3,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M433",
+        "title": "AFinal Redemption",
+        "score": 3.8,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M695",
+        "title": "Good Dream",
+        "score": 3.6,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M485",
+        "title": "TheInterstellar Cop",
+        "score": 3.7,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M357",
+        "title": "AGood Revenge",
+        "score": 2.3,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M776",
+        "title": "TheDirty Night",
+        "score": 2.0,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M401",
+        "title": "TheFight Club Revenge",
+        "score": 4.4,
+        "comment": null
+      }
+    ]
+  },
+  "id0679": {
+    "tags": [
+      "boomer",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M671",
+        "title": "TheDark Knight Betrayal",
+        "score": 4.5,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M168",
+        "title": "Good Betrayal",
+        "score": 1.5,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M592",
+        "title": "AFight Club Queen",
+        "score": 3.8,
+        "comment": null
+      },
+      {
+        "item_id": "M141",
+        "title": "Gladiator Fire",
+        "score": 2.1,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M453",
+        "title": "TheGreat Queen",
+        "score": 1.0,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M713",
+        "title": "Dirty Blood",
+        "score": 2.2,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M495",
+        "title": "ATrue Soldier",
+        "score": 3.6,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M299",
+        "title": "TheBrave Hero",
+        "score": 4.7,
+        "comment": "Loved it!"
+      }
+    ]
+  },
+  "id0680": {
+    "tags": [],
+    "scores": [
+      {
+        "item_id": "M184",
+        "title": "TheDirty Detective",
+        "score": 2.5,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M968",
+        "title": "Godfather Ghost",
+        "score": 3.3,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M054",
+        "title": "TheBrave Woman",
+        "score": 1.6,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M121",
+        "title": "Good Storm",
+        "score": 1.6,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M528",
+        "title": "AFinal Woman",
+        "score": 1.9,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M666",
+        "title": "Pulp Zombie",
+        "score": 4.8,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M347",
+        "title": "Magnificent Robot",
+        "score": 3.9,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M608",
+        "title": "AMatrix Robot",
+        "score": 3.5,
+        "comment": "Amazing visuals"
+      }
+    ]
+  },
+  "id0681": {
+    "tags": [
+      "boomer",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M282",
+        "title": "TheMatrix Wizard",
+        "score": 1.0,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M648",
+        "title": "TheSilent Wizard",
+        "score": 2.7,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M669",
+        "title": "TheGodfather Betrayal",
+        "score": 4.6,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M456",
+        "title": "TheTrue Vampire",
+        "score": 0.6,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M377",
+        "title": "TheSilent Killer",
+        "score": 4.9,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M012",
+        "title": "Fight Club",
+        "score": 1.7,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M123",
+        "title": "TheMagnificent Soldier",
+        "score": 4.1,
+        "comment": "Boring plot"
+      }
+    ]
+  },
+  "id0682": {
+    "tags": [],
+    "scores": [
+      {
+        "item_id": "M661",
+        "title": "ARising Cop",
+        "score": 0.8,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M720",
+        "title": "Matrix Robot",
+        "score": 1.3,
+        "comment": null
+      },
+      {
+        "item_id": "M445",
+        "title": "ABrave Detective",
+        "score": 2.3,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M306",
+        "title": "TheInception Man",
+        "score": 4.0,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M586",
+        "title": "TheSilent Samurai",
+        "score": 2.7,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M129",
+        "title": "Brave Revenge",
+        "score": 4.3,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M102",
+        "title": "Gladiator Dawn",
+        "score": 3.7,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M334",
+        "title": "Magnificent Fire",
+        "score": 1.1,
+        "comment": "Great acting!"
+      }
+    ]
+  },
+  "id0683": {
+    "tags": [
+      "boomer",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M186",
+        "title": "Dark Night",
+        "score": 3.2,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M883",
+        "title": "TheShining War",
+        "score": 0.5,
+        "comment": "Amazing visuals"
+      }
+    ]
+  },
+  "id0684": {
+    "tags": [
+      "millennial",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M041",
+        "title": "Shining Killer",
+        "score": 3.1,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M132",
+        "title": "TheSecret King",
+        "score": 1.2,
+        "comment": "Predictable ending"
+      }
+    ]
+  },
+  "id0685": {
+    "tags": [
+      "millennial",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M087",
+        "title": "ARising Revenge",
+        "score": 4.9,
+        "comment": "Predictable ending"
+      }
+    ]
+  },
+  "id0686": {
+    "tags": [
+      "boomer",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M990",
+        "title": "TheGreat Fire",
+        "score": 0.5,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M558",
+        "title": "Dark Night",
+        "score": 0.7,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M176",
+        "title": "AInception Queen",
+        "score": 4.6,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M434",
+        "title": "ADirty Soldier",
+        "score": 3.5,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M968",
+        "title": "Godfather Ghost",
+        "score": 1.1,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M674",
+        "title": "ALost Betrayal",
+        "score": 3.6,
+        "comment": "Predictable ending"
+      }
+    ]
+  },
+  "id0687": {
+    "tags": [
+      "parent"
+    ],
+    "scores": [
+      {
+        "item_id": "M705",
+        "title": "ABad Blood",
+        "score": 0.7,
+        "comment": null
+      },
+      {
+        "item_id": "M102",
+        "title": "Gladiator Dawn",
+        "score": 1.3,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M679",
+        "title": "Rising Samurai",
+        "score": 4.4,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M840",
+        "title": "Good Ghost",
+        "score": 4.8,
+        "comment": "Very emotional"
+      }
+    ]
+  },
+  "id0688": {
+    "tags": [
+      "student"
+    ],
+    "scores": [
+      {
+        "item_id": "M606",
+        "title": "ADark Quest",
+        "score": 3.8,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M368",
+        "title": "TheShawshank Dream",
+        "score": 0.8,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M285",
+        "title": "AInterstellar Killer",
+        "score": 1.7,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M132",
+        "title": "TheSecret King",
+        "score": 4.6,
+        "comment": "Not my taste"
+      }
+    ]
+  },
+  "id0689": {
+    "tags": [],
+    "scores": [
+      {
+        "item_id": "M968",
+        "title": "Godfather Ghost",
+        "score": 3.5,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M261",
+        "title": "TheSilent Wizard",
+        "score": 2.9,
+        "comment": "Loved it!"
+      }
+    ]
+  },
+  "id0690": {
+    "tags": [
+      "boomer",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M649",
+        "title": "TheShawshank Vampire",
+        "score": 2.2,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M714",
+        "title": "TheDirty Eclipse",
+        "score": 3.4,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M662",
+        "title": "Silent Cop",
+        "score": 3.2,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M198",
+        "title": "TheRising War",
+        "score": 4.2,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M732",
+        "title": "TheSilent Night",
+        "score": 5.0,
+        "comment": "Not my taste"
+      }
+    ]
+  },
+  "id0691": {
+    "tags": [
+      "millennial",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M988",
+        "title": "ALost Alien",
+        "score": 3.2,
+        "comment": "Loved it!"
+      }
+    ]
+  },
+  "id0692": {
+    "tags": [
+      "gen Z",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M545",
+        "title": "ARising Storm",
+        "score": 3.6,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M113",
+        "title": "AGreat Soldier",
+        "score": 0.8,
+        "comment": "Super fun!"
+      }
+    ]
+  },
+  "id0693": {
+    "tags": [
+      "gamer"
+    ],
+    "scores": [
+      {
+        "item_id": "M932",
+        "title": "Rising Revenge",
+        "score": 4.1,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M342",
+        "title": "ASilent Shadow",
+        "score": 0.5,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M797",
+        "title": "ADark Knight Soldier",
+        "score": 4.9,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M280",
+        "title": "ThePulp Fire",
+        "score": 2.2,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M150",
+        "title": "APulp Redemption",
+        "score": 4.0,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M890",
+        "title": "AGodfather City",
+        "score": 1.3,
+        "comment": "Too long"
+      }
+    ]
+  },
+  "id0694": {
+    "tags": [
+      "parent"
+    ],
+    "scores": [
+      {
+        "item_id": "M098",
+        "title": "Furious Ghost",
+        "score": 1.7,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M542",
+        "title": "TheInception Killer",
+        "score": 4.5,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M358",
+        "title": "TheBrave Quest",
+        "score": 1.9,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M718",
+        "title": "AGladiator Alien",
+        "score": 1.3,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M586",
+        "title": "TheSilent Samurai",
+        "score": 4.9,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M887",
+        "title": "TheDirty Quest",
+        "score": 3.0,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M289",
+        "title": "TheVertigo Woman",
+        "score": 2.6,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M565",
+        "title": "AFinal Ghost",
+        "score": 1.7,
+        "comment": "Super fun!"
+      }
+    ]
+  },
+  "id0695": {
+    "tags": [],
+    "scores": [
+      {
+        "item_id": "M674",
+        "title": "ALost Betrayal",
+        "score": 2.2,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M130",
+        "title": "Magnificent Empire",
+        "score": 0.7,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M147",
+        "title": "AFurious Shadow",
+        "score": 4.9,
+        "comment": "Great acting!"
+      }
+    ]
+  },
+  "id0696": {
+    "tags": [
+      "millennial",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M724",
+        "title": "ABad Woman",
+        "score": 2.8,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M469",
+        "title": "Dark Legend",
+        "score": 4.8,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M188",
+        "title": "Great Spy",
+        "score": 4.7,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M450",
+        "title": "Inception Revenge",
+        "score": 1.9,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M363",
+        "title": "TheDirty Night",
+        "score": 4.8,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M818",
+        "title": "ADark Knight Vampire",
+        "score": 4.0,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M480",
+        "title": "TheShining Monster",
+        "score": 3.4,
+        "comment": "Loved it!"
+      }
+    ]
+  },
+  "id0697": {
+    "tags": null,
+    "scores": [
+      {
+        "item_id": "M170",
+        "title": "TheDark Knight Alien",
+        "score": 0.8,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M590",
+        "title": "AMatrix Battle",
+        "score": 3.0,
+        "comment": "Amazing visuals"
+      }
+    ]
+  },
+  "id0698": {
+    "tags": [
+      "parent"
+    ],
+    "scores": [
+      {
+        "item_id": "M694",
+        "title": "AInterstellar Storm",
+        "score": 2.8,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M521",
+        "title": "Shining Night",
+        "score": 4.5,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M955",
+        "title": "TheShawshank Zombie",
+        "score": 2.3,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M749",
+        "title": "AGood Cop",
+        "score": 1.4,
+        "comment": null
+      },
+      {
+        "item_id": "M140",
+        "title": "Silent Redemption",
+        "score": 3.7,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M492",
+        "title": "ASecret Monster",
+        "score": 3.9,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M510",
+        "title": "TheInterstellar Robot",
+        "score": 5.0,
+        "comment": "Super fun!"
+      }
+    ]
+  },
+  "id0699": {
+    "tags": [],
+    "scores": [
+      {
+        "item_id": "M622",
+        "title": "Inception Storm",
+        "score": 2.5,
+        "comment": "Boring plot"
+      }
+    ]
+  },
+  "id0700": {
+    "tags": [
+      "boomer",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M180",
+        "title": "TheFalling Vampire",
+        "score": 1.1,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M077",
+        "title": "Dirty King",
+        "score": 4.8,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M376",
+        "title": "TheMagnificent Blood",
+        "score": 2.7,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M860",
+        "title": "TheGreat Zombie",
+        "score": 2.2,
+        "comment": "Loved it!"
+      }
+    ]
+  },
+  "id0701": {
+    "tags": [
+      "boomer",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M852",
+        "title": "ADark Legend",
+        "score": 4.4,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M553",
+        "title": "TheVertigo Dawn",
+        "score": 1.8,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M872",
+        "title": "ABad Alien",
+        "score": 1.7,
+        "comment": null
+      },
+      {
+        "item_id": "M785",
+        "title": "TheSilent Woman",
+        "score": 3.8,
+        "comment": "Very emotional"
+      }
+    ]
+  },
+  "id0702": {
+    "tags": [
+      "boomer",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M946",
+        "title": "TheTrue Spy",
+        "score": 4.8,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M313",
+        "title": "TheShawshank Eclipse",
+        "score": 4.2,
+        "comment": null
+      },
+      {
+        "item_id": "M952",
+        "title": "Rising Woman",
+        "score": 4.7,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M956",
+        "title": "Final Eclipse",
+        "score": 4.3,
+        "comment": null
+      }
+    ]
+  },
+  "id0703": {
+    "tags": [
+      "boomer",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M631",
+        "title": "Brave Robot",
+        "score": 2.6,
+        "comment": "Too long"
+      }
+    ]
+  },
+  "id0704": {
+    "tags": [
+      "gen Z",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M006",
+        "title": "Roman Holiday",
+        "score": 4.5,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M359",
+        "title": "Bad Shadow",
+        "score": 2.3,
+        "comment": null
+      }
+    ]
+  },
+  "id0705": {
+    "tags": [],
+    "scores": [
+      {
+        "item_id": "M504",
+        "title": "Great Pirate",
+        "score": 2.3,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M203",
+        "title": "True Monster",
+        "score": 0.5,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M087",
+        "title": "ARising Revenge",
+        "score": 1.6,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M542",
+        "title": "TheInception Killer",
+        "score": 2.3,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M527",
+        "title": "TheSecret Eclipse",
+        "score": 2.1,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M921",
+        "title": "TheFalling Storm",
+        "score": 2.9,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M158",
+        "title": "ThePulp Blood",
+        "score": 1.0,
+        "comment": "Amazing visuals"
+      }
+    ]
+  },
+  "id0706": {
+    "tags": [
+      "parent"
+    ],
+    "scores": [
+      {
+        "item_id": "M166",
+        "title": "AGladiator Storm",
+        "score": 4.4,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M144",
+        "title": "TheMatrix Robot",
+        "score": 1.0,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M363",
+        "title": "TheDirty Night",
+        "score": 0.7,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M766",
+        "title": "TheGodfather Battle",
+        "score": 2.4,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M445",
+        "title": "ABrave Detective",
+        "score": 4.6,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M006",
+        "title": "Roman Holiday",
+        "score": 3.5,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M368",
+        "title": "TheShawshank Dream",
+        "score": 4.8,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M905",
+        "title": "AFurious Night",
+        "score": 1.0,
+        "comment": "Amazing visuals"
+      }
+    ]
+  },
+  "id0707": {
+    "tags": [
+      "gamer"
+    ],
+    "scores": [
+      {
+        "item_id": "M820",
+        "title": "AFinal Cop",
+        "score": 4.5,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M699",
+        "title": "TheInception Hero",
+        "score": 3.8,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M732",
+        "title": "TheSilent Night",
+        "score": 1.1,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M131",
+        "title": "TheSecret Robot",
+        "score": 4.1,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M333",
+        "title": "Interstellar Cop",
+        "score": 1.2,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M770",
+        "title": "Shawshank Woman",
+        "score": 0.6,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M783",
+        "title": "TheShining Alien",
+        "score": 1.6,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M800",
+        "title": "Silent Soldier",
+        "score": 4.2,
+        "comment": "Not my taste"
+      }
+    ]
+  },
+  "id0708": {
+    "tags": [
+      "student"
+    ],
+    "scores": [
+      {
+        "item_id": "M445",
+        "title": "ABrave Detective",
+        "score": 2.7,
+        "comment": "Too long"
+      }
+    ]
+  },
+  "id0709": {
+    "tags": [
+      "millennial",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M780",
+        "title": "Shining Woman",
+        "score": 1.6,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M440",
+        "title": "AFight Club Spy",
+        "score": 3.8,
+        "comment": "Boring plot"
+      }
+    ]
+  },
+  "id0710": {
+    "tags": [],
+    "scores": [
+      {
+        "item_id": "M786",
+        "title": "TheSilent Vampire",
+        "score": 1.6,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M118",
+        "title": "Secret Soldier",
+        "score": 1.4,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M885",
+        "title": "AShawshank Quest",
+        "score": 3.7,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M270",
+        "title": "TheGood Robot",
+        "score": 3.2,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M718",
+        "title": "AGladiator Alien",
+        "score": 5.0,
+        "comment": "Very emotional"
+      }
+    ]
+  },
+  "id0711": {
+    "tags": [
+      "millennial",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M235",
+        "title": "Matrix Ghost",
+        "score": 2.3,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M124",
+        "title": "TheLost Robot",
+        "score": 5.0,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M136",
+        "title": "Shining City",
+        "score": 2.4,
+        "comment": "Very emotional"
+      }
+    ]
+  },
+  "id0712": {
+    "tags": [
+      "millennial",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M886",
+        "title": "ASilent Soldier",
+        "score": 2.2,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M053",
+        "title": "Final Fire",
+        "score": 1.9,
+        "comment": "Super fun!"
+      }
+    ]
+  },
+  "id0713": {
+    "tags": [
+      "millennial",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M345",
+        "title": "TheGladiator Fire",
+        "score": 2.8,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M437",
+        "title": "TheInception City",
+        "score": 0.7,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M491",
+        "title": "TheVertigo Legend",
+        "score": 1.7,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M063",
+        "title": "ALost Samurai",
+        "score": 4.7,
+        "comment": "Not my taste"
+      }
+    ]
+  },
+  "id0714": {
+    "tags": [
+      "gen Z",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M917",
+        "title": "ADark Fire",
+        "score": 3.5,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M049",
+        "title": "AFalling Empire",
+        "score": 1.5,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M187",
+        "title": "TheSecret Spy",
+        "score": 1.8,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M042",
+        "title": "TheInterstellar Betrayal",
+        "score": 1.0,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M001",
+        "title": "Vertigo",
+        "score": 1.6,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M054",
+        "title": "TheBrave Woman",
+        "score": 2.1,
+        "comment": "Too long"
+      }
+    ]
+  },
+  "id0715": {
+    "tags": [
+      "gamer"
+    ],
+    "scores": [
+      {
+        "item_id": "M686",
+        "title": "TheDark Spy",
+        "score": 3.6,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M014",
+        "title": "The Matrix",
+        "score": 2.0,
+        "comment": "Must watch"
+      }
+    ]
+  },
+  "id0716": {
+    "tags": [
+      "gen Z",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M244",
+        "title": "ThePulp Honor",
+        "score": 0.9,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M666",
+        "title": "Pulp Zombie",
+        "score": 1.1,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M283",
+        "title": "TheSecret Honor",
+        "score": 1.0,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M216",
+        "title": "Great Legend",
+        "score": 4.9,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M599",
+        "title": "Silent Pirate",
+        "score": 4.2,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M394",
+        "title": "AShining Monster",
+        "score": 3.7,
+        "comment": "Loved it!"
+      }
+    ]
+  },
+  "id0717": {
+    "tags": [
+      "boomer",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M309",
+        "title": "Great Alien",
+        "score": 3.7,
+        "comment": null
+      },
+      {
+        "item_id": "M743",
+        "title": "AVertigo Eclipse",
+        "score": 1.1,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M486",
+        "title": "AShining Quest",
+        "score": 3.0,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M780",
+        "title": "Shining Woman",
+        "score": 4.5,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M207",
+        "title": "TheDark Knight Wizard",
+        "score": 4.9,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M547",
+        "title": "TheBad War",
+        "score": 2.5,
+        "comment": "Loved it!"
+      }
+    ]
+  },
+  "id0718": {
+    "tags": [
+      "gamer"
+    ],
+    "scores": [
+      {
+        "item_id": "M495",
+        "title": "ATrue Soldier",
+        "score": 2.9,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M430",
+        "title": "Shining Night",
+        "score": 4.1,
+        "comment": "Boring plot"
+      }
+    ]
+  },
+  "id0719": {
+    "tags": [
+      "gen Z",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M714",
+        "title": "TheDirty Eclipse",
+        "score": 4.8,
+        "comment": null
+      },
+      {
+        "item_id": "M991",
+        "title": "Shining Zombie",
+        "score": 4.1,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M133",
+        "title": "TheFinal King",
+        "score": 3.8,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M297",
+        "title": "Great Killer",
+        "score": 2.7,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M047",
+        "title": "Interstellar Dawn",
+        "score": 4.4,
+        "comment": "Loved it!"
+      }
+    ]
+  },
+  "id0720": {
+    "tags": [
+      "millennial",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M769",
+        "title": "Gladiator Man",
+        "score": 1.7,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M522",
+        "title": "TheGladiator Monster",
+        "score": 0.5,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M394",
+        "title": "AShining Monster",
+        "score": 1.5,
+        "comment": null
+      },
+      {
+        "item_id": "M576",
+        "title": "AVertigo Honor",
+        "score": 4.5,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M799",
+        "title": "ATrue Queen",
+        "score": 2.5,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M400",
+        "title": "TheMagnificent Woman",
+        "score": 1.7,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M411",
+        "title": "TheFinal Pirate",
+        "score": 1.8,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M622",
+        "title": "Inception Storm",
+        "score": 3.0,
+        "comment": "Boring plot"
+      }
+    ]
+  },
+  "id0721": {
+    "tags": [],
+    "scores": [
+      {
+        "item_id": "M547",
+        "title": "TheBad War",
+        "score": 1.6,
+        "comment": null
+      }
+    ]
+  },
+  "id0722": {
+    "tags": [
+      "millennial",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M965",
+        "title": "True Killer",
+        "score": 4.7,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M905",
+        "title": "AFurious Night",
+        "score": 4.4,
+        "comment": null
+      },
+      {
+        "item_id": "M285",
+        "title": "AInterstellar Killer",
+        "score": 3.4,
+        "comment": "Great acting!"
+      }
+    ]
+  },
+  "id0723": {
+    "tags": [
+      "gen Z",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M002",
+        "title": "Scarface",
+        "score": 2.1,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M665",
+        "title": "AFurious Pirate",
+        "score": 4.9,
+        "comment": "Must watch"
+      }
+    ]
+  },
+  "id0724": {
+    "tags": [
+      "parent"
+    ],
+    "scores": [
+      {
+        "item_id": "M740",
+        "title": "TheBad Redemption",
+        "score": 1.8,
+        "comment": null
+      },
+      {
+        "item_id": "M137",
+        "title": "TheSecret Dawn",
+        "score": 3.3,
+        "comment": null
+      },
+      {
+        "item_id": "M419",
+        "title": "TheRising Storm",
+        "score": 4.2,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M920",
+        "title": "ADark Woman",
+        "score": 3.8,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M627",
+        "title": "TheDark Redemption",
+        "score": 1.3,
+        "comment": null
+      }
+    ]
+  },
+  "id0725": {
+    "tags": [],
+    "scores": [
+      {
+        "item_id": "M740",
+        "title": "TheBad Redemption",
+        "score": 3.6,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M764",
+        "title": "TheGreat King",
+        "score": 1.7,
+        "comment": "Super fun!"
+      }
+    ]
+  },
+  "id0726": {
+    "tags": [
+      "boomer",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M837",
+        "title": "TheFurious Revenge",
+        "score": 1.7,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M453",
+        "title": "TheGreat Queen",
+        "score": 3.3,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M226",
+        "title": "Dirty Spy",
+        "score": 1.2,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M333",
+        "title": "Interstellar Cop",
+        "score": 3.8,
+        "comment": "Not my taste"
+      }
+    ]
+  },
+  "id0727": {
+    "tags": [
+      "gen Z",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M924",
+        "title": "ASilent Empire",
+        "score": 2.7,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M491",
+        "title": "TheVertigo Legend",
+        "score": 1.3,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M096",
+        "title": "TheMatrix Samurai",
+        "score": 1.3,
+        "comment": "Amazing visuals"
+      }
+    ]
+  },
+  "id0728": {
+    "tags": [
+      "parent"
+    ],
+    "scores": [
+      {
+        "item_id": "M022",
+        "title": "ASilent Shadow",
+        "score": 4.2,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M318",
+        "title": "Pulp Blood",
+        "score": 3.2,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M167",
+        "title": "ALost Dawn",
+        "score": 1.1,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M907",
+        "title": "Magnificent Soldier",
+        "score": 1.6,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M182",
+        "title": "TheDark Revenge",
+        "score": 4.9,
+        "comment": "Loved it!"
+      }
+    ]
+  },
+  "id0729": {
+    "tags": [],
+    "scores": [
+      {
+        "item_id": "M745",
+        "title": "TheDark Detective",
+        "score": 0.6,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M769",
+        "title": "Gladiator Man",
+        "score": 2.2,
+        "comment": null
+      },
+      {
+        "item_id": "M828",
+        "title": "TheInterstellar Man",
+        "score": 1.0,
+        "comment": null
+      }
+    ]
+  },
+  "id0730": {
+    "tags": [
+      "millennial",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M136",
+        "title": "Shining City",
+        "score": 1.6,
+        "comment": "Loved it!"
+      }
+    ]
+  },
+  "id0731": {
+    "tags": [
+      "gen Z",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M962",
+        "title": "AGreat Pirate",
+        "score": 0.6,
+        "comment": null
+      },
+      {
+        "item_id": "M643",
+        "title": "AGladiator Revenge",
+        "score": 4.8,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M615",
+        "title": "AGodfather Queen",
+        "score": 2.9,
+        "comment": "Must watch"
+      }
+    ]
+  },
+  "id0732": {
+    "tags": [],
+    "scores": [
+      {
+        "item_id": "M143",
+        "title": "AInception Ghost",
+        "score": 4.5,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M492",
+        "title": "ASecret Monster",
+        "score": 1.9,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M778",
+        "title": "Shawshank Legend",
+        "score": 1.2,
+        "comment": null
+      },
+      {
+        "item_id": "M577",
+        "title": "Magnificent Eclipse",
+        "score": 2.9,
+        "comment": "Too long"
+      }
+    ]
+  },
+  "id0733": {
+    "tags": [
+      "boomer",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M022",
+        "title": "ASilent Shadow",
+        "score": 0.7,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M845",
+        "title": "ADark Knight War",
+        "score": 1.8,
+        "comment": "Predictable ending"
+      }
+    ]
+  },
+  "id0734": {
+    "tags": [],
+    "scores": [
+      {
+        "item_id": "M002",
+        "title": "Scarface",
+        "score": 0.6,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M935",
+        "title": "Final City",
+        "score": 2.2,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M230",
+        "title": "TheTrue Detective",
+        "score": 3.4,
+        "comment": "Great acting!"
+      }
+    ]
+  },
+  "id0735": {
+    "tags": [
+      "parent"
+    ],
+    "scores": [
+      {
+        "item_id": "M704",
+        "title": "AGood City",
+        "score": 1.3,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M906",
+        "title": "TheShining Dream",
+        "score": 1.5,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M733",
+        "title": "AFalling Samurai",
+        "score": 2.1,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M843",
+        "title": "AShawshank Blood",
+        "score": 2.0,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M924",
+        "title": "ASilent Empire",
+        "score": 4.7,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M116",
+        "title": "ALost Empire",
+        "score": 4.5,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M504",
+        "title": "Great Pirate",
+        "score": 1.2,
+        "comment": "Not my taste"
+      }
+    ]
+  },
+  "id0736": {
+    "tags": null,
+    "scores": [
+      {
+        "item_id": "M615",
+        "title": "AGodfather Queen",
+        "score": 3.5,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M186",
+        "title": "Dark Night",
+        "score": 3.3,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M696",
+        "title": "AMagnificent Ghost",
+        "score": 2.1,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M436",
+        "title": "Gladiator Redemption",
+        "score": 1.7,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M154",
+        "title": "TheShawshank Vampire",
+        "score": 3.5,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M915",
+        "title": "ADark Knight Dream",
+        "score": 4.1,
+        "comment": "Loved it!"
+      }
+    ]
+  },
+  "id0737": {
+    "tags": [
+      "gamer"
+    ],
+    "scores": [
+      {
+        "item_id": "M797",
+        "title": "ADark Knight Soldier",
+        "score": 1.9,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M672",
+        "title": "TheBad Zombie",
+        "score": 2.5,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M151",
+        "title": "Godfather Quest",
+        "score": 4.2,
+        "comment": "Loved it!"
+      }
+    ]
+  },
+  "id0738": {
+    "tags": [
+      "parent"
+    ],
+    "scores": [
+      {
+        "item_id": "M983",
+        "title": "TheSilent Honor",
+        "score": 1.3,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M745",
+        "title": "TheDark Detective",
+        "score": 2.1,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M286",
+        "title": "ATrue Legend",
+        "score": 2.4,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M149",
+        "title": "ThePulp Empire",
+        "score": 3.2,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M093",
+        "title": "Shining King",
+        "score": 2.0,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M331",
+        "title": "TheGodfather Spy",
+        "score": 4.6,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M131",
+        "title": "TheSecret Robot",
+        "score": 2.4,
+        "comment": "Amazing visuals"
+      }
+    ]
+  },
+  "id0739": {
+    "tags": [
+      "boomer",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M546",
+        "title": "Matrix Empire",
+        "score": 2.4,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M550",
+        "title": "APulp Dream",
+        "score": 4.0,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M842",
+        "title": "ThePulp Samurai",
+        "score": 3.7,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M236",
+        "title": "Gladiator Revenge",
+        "score": 2.1,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M394",
+        "title": "AShining Monster",
+        "score": 5.0,
+        "comment": null
+      },
+      {
+        "item_id": "M086",
+        "title": "AGladiator Dawn",
+        "score": 2.1,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M595",
+        "title": "AInterstellar Betrayal",
+        "score": 4.8,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M733",
+        "title": "AFalling Samurai",
+        "score": 0.8,
+        "comment": "Must watch"
+      }
+    ]
+  },
+  "id0740": {
+    "tags": null,
+    "scores": [
+      {
+        "item_id": "M302",
+        "title": "Brave Empire",
+        "score": 4.3,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M472",
+        "title": "Vertigo Killer",
+        "score": 4.9,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M148",
+        "title": "Magnificent King",
+        "score": 1.6,
+        "comment": "Great acting!"
+      }
+    ]
+  },
+  "id0741": {
+    "tags": [],
+    "scores": [
+      {
+        "item_id": "M121",
+        "title": "Good Storm",
+        "score": 3.7,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M986",
+        "title": "Magnificent Honor",
+        "score": 3.8,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M713",
+        "title": "Dirty Blood",
+        "score": 2.2,
+        "comment": "Loved it!"
+      }
+    ]
+  },
+  "id0742": {
+    "tags": [
+      "gen Z",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M489",
+        "title": "TheGreat Robot",
+        "score": 3.2,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M858",
+        "title": "Matrix Woman",
+        "score": 0.6,
+        "comment": "Must watch"
+      }
+    ]
+  },
+  "id0743": {
+    "tags": [
+      "student"
+    ],
+    "scores": [
+      {
+        "item_id": "M251",
+        "title": "TheGreat Cop",
+        "score": 0.6,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M079",
+        "title": "TheInception Eclipse",
+        "score": 1.2,
+        "comment": "Boring plot"
+      }
+    ]
+  },
+  "id0744": {
+    "tags": null,
+    "scores": [
+      {
+        "item_id": "M767",
+        "title": "ASecret Eclipse",
+        "score": 4.8,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M541",
+        "title": "ADark Knight Hero",
+        "score": 2.4,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M716",
+        "title": "TheFurious Betrayal",
+        "score": 2.5,
+        "comment": "Super fun!"
+      }
+    ]
+  },
+  "id0745": {
+    "tags": [
+      "gamer"
+    ],
+    "scores": [
+      {
+        "item_id": "M114",
+        "title": "AFurious Spy",
+        "score": 0.6,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M160",
+        "title": "Matrix Samurai",
+        "score": 2.8,
+        "comment": null
+      },
+      {
+        "item_id": "M062",
+        "title": "TheFurious Pirate",
+        "score": 2.3,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M903",
+        "title": "Rising Pirate",
+        "score": 3.6,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M658",
+        "title": "Pulp Storm",
+        "score": 3.0,
+        "comment": "Too long"
+      }
+    ]
+  },
+  "id0746": {
+    "tags": [
+      "gamer"
+    ],
+    "scores": [
+      {
+        "item_id": "M727",
+        "title": "ABrave Samurai",
+        "score": 1.7,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M233",
+        "title": "Shawshank Monster",
+        "score": 2.8,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M434",
+        "title": "ADirty Soldier",
+        "score": 3.8,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M954",
+        "title": "ATrue Dawn",
+        "score": 3.3,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M161",
+        "title": "Brave Soldier",
+        "score": 2.3,
+        "comment": "Predictable ending"
+      }
+    ]
+  },
+  "id0747": {
+    "tags": [
+      "boomer",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M837",
+        "title": "TheFurious Revenge",
+        "score": 2.6,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M710",
+        "title": "TheSecret Shadow",
+        "score": 3.4,
+        "comment": "Not my taste"
+      }
+    ]
+  },
+  "id0748": {
+    "tags": [
+      "boomer",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M056",
+        "title": "ABrave Quest",
+        "score": 3.4,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M823",
+        "title": "TheDark Knight Cop",
+        "score": 1.7,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M381",
+        "title": "AFalling King",
+        "score": 0.9,
+        "comment": "Very emotional"
+      }
+    ]
+  },
+  "id0749": {
+    "tags": [
+      "gen Z",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M246",
+        "title": "Bad Alien",
+        "score": 1.8,
+        "comment": "Predictable ending"
+      }
+    ]
+  },
+  "id0750": {
+    "tags": [],
+    "scores": [
+      {
+        "item_id": "M217",
+        "title": "AFurious Ghost",
+        "score": 0.5,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M612",
+        "title": "TheMagnificent King",
+        "score": 1.3,
+        "comment": "Great acting!"
+      }
+    ]
+  },
+  "id0751": {
+    "tags": [
+      "gamer"
+    ],
+    "scores": [
+      {
+        "item_id": "M247",
+        "title": "Lost Battle",
+        "score": 1.7,
+        "comment": "Very emotional"
+      }
+    ]
+  },
+  "id0752": {
+    "tags": null,
+    "scores": [
+      {
+        "item_id": "M578",
+        "title": "AGodfather Legend",
+        "score": 4.9,
+        "comment": "Amazing visuals"
+      }
+    ]
+  },
+  "id0753": {
+    "tags": null,
+    "scores": [
+      {
+        "item_id": "M323",
+        "title": "Final Soldier",
+        "score": 0.9,
+        "comment": "Too long"
+      }
+    ]
+  },
+  "id0754": {
+    "tags": [
+      "student"
+    ],
+    "scores": [
+      {
+        "item_id": "M770",
+        "title": "Shawshank Woman",
+        "score": 1.9,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M290",
+        "title": "Dark Knight Woman",
+        "score": 3.8,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M982",
+        "title": "ASecret Killer",
+        "score": 3.7,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M408",
+        "title": "AGodfather Man",
+        "score": 2.0,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M513",
+        "title": "TheGladiator Queen",
+        "score": 1.0,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M200",
+        "title": "AShawshank Battle",
+        "score": 0.6,
+        "comment": "Not my taste"
+      }
+    ]
+  },
+  "id0755": {
+    "tags": [
+      "student"
+    ],
+    "scores": [
+      {
+        "item_id": "M298",
+        "title": "Magnificent Empire",
+        "score": 1.2,
+        "comment": "Super fun!"
+      }
+    ]
+  },
+  "id0756": {
+    "tags": [],
+    "scores": [
+      {
+        "item_id": "M907",
+        "title": "Magnificent Soldier",
+        "score": 0.9,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M641",
+        "title": "AGreat War",
+        "score": 4.5,
+        "comment": "Super fun!"
+      }
+    ]
+  },
+  "id0757": {
+    "tags": [
+      "student"
+    ],
+    "scores": [
+      {
+        "item_id": "M788",
+        "title": "Silent Eclipse",
+        "score": 5.0,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M736",
+        "title": "TheShining Shadow",
+        "score": 2.8,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M165",
+        "title": "TheGodfather Detective",
+        "score": 3.4,
+        "comment": "Must watch"
+      }
+    ]
+  },
+  "id0758": {
+    "tags": [
+      "gamer"
+    ],
+    "scores": [
+      {
+        "item_id": "M348",
+        "title": "Final Wizard",
+        "score": 3.3,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M298",
+        "title": "Magnificent Empire",
+        "score": 0.7,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M369",
+        "title": "ADirty Zombie",
+        "score": 2.2,
+        "comment": "Great acting!"
+      }
+    ]
+  },
+  "id0759": {
+    "tags": [
+      "gen Z",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M982",
+        "title": "ASecret Killer",
+        "score": 3.1,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M157",
+        "title": "Dark Night",
+        "score": 0.9,
+        "comment": null
+      }
+    ]
+  },
+  "id0760": {
+    "tags": [
+      "gen Z",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M561",
+        "title": "Rising Revenge",
+        "score": 4.5,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M889",
+        "title": "True Blood",
+        "score": 0.9,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M993",
+        "title": "AFight Club Vampire",
+        "score": 1.3,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M817",
+        "title": "AMagnificent Fire",
+        "score": 1.2,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M801",
+        "title": "AShawshank Betrayal",
+        "score": 3.1,
+        "comment": "Must watch"
+      }
+    ]
+  },
+  "id0761": {
+    "tags": [
+      "student"
+    ],
+    "scores": [
+      {
+        "item_id": "M184",
+        "title": "TheDirty Detective",
+        "score": 4.0,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M728",
+        "title": "TheFight Club City",
+        "score": 4.9,
+        "comment": "Too long"
+      }
+    ]
+  },
+  "id0762": {
+    "tags": [],
+    "scores": [
+      {
+        "item_id": "M963",
+        "title": "Dirty Zombie",
+        "score": 3.1,
+        "comment": null
+      },
+      {
+        "item_id": "M127",
+        "title": "Dark Knight Wizard",
+        "score": 2.1,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M996",
+        "title": "AMatrix King",
+        "score": 2.3,
+        "comment": "Very emotional"
+      }
+    ]
+  },
+  "id0763": {
+    "tags": [
+      "millennial",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M452",
+        "title": "TheLost Dream",
+        "score": 4.3,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M376",
+        "title": "TheMagnificent Blood",
+        "score": 2.2,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M525",
+        "title": "TheBad Spy",
+        "score": 2.4,
+        "comment": "Amazing visuals"
+      }
+    ]
+  },
+  "id0764": {
+    "tags": [
+      "millennial",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M636",
+        "title": "Gladiator Fire",
+        "score": 4.9,
+        "comment": null
+      }
+    ]
+  },
+  "id0765": {
+    "tags": [
+      "boomer",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M159",
+        "title": "TheFurious Redemption",
+        "score": 4.3,
+        "comment": "Too long"
+      }
+    ]
+  },
+  "id0766": {
+    "tags": [
+      "student"
+    ],
+    "scores": [
+      {
+        "item_id": "M584",
+        "title": "AMatrix City",
+        "score": 0.8,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M409",
+        "title": "True Redemption",
+        "score": 4.4,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M875",
+        "title": "AVertigo Killer",
+        "score": 0.9,
+        "comment": "Amazing visuals"
+      }
+    ]
+  },
+  "id0767": {
+    "tags": [],
+    "scores": [
+      {
+        "item_id": "M112",
+        "title": "Gladiator Blood",
+        "score": 2.3,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M088",
+        "title": "Dirty War",
+        "score": 1.4,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M185",
+        "title": "TheGood Storm",
+        "score": 0.8,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M750",
+        "title": "Inception Redemption",
+        "score": 5.0,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M111",
+        "title": "TheGood Eclipse",
+        "score": 1.5,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M940",
+        "title": "APulp War",
+        "score": 1.0,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M983",
+        "title": "TheSilent Honor",
+        "score": 0.7,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M945",
+        "title": "TheShawshank Robot",
+        "score": 4.8,
+        "comment": "Boring plot"
+      }
+    ]
+  },
+  "id0768": {
+    "tags": null,
+    "scores": [
+      {
+        "item_id": "M328",
+        "title": "AFurious Empire",
+        "score": 4.0,
+        "comment": null
+      },
+      {
+        "item_id": "M582",
+        "title": "Silent Killer",
+        "score": 4.7,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M033",
+        "title": "Magnificent Empire",
+        "score": 4.1,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M616",
+        "title": "Matrix Samurai",
+        "score": 1.5,
+        "comment": "Great acting!"
+      }
+    ]
+  },
+  "id0769": {
+    "tags": [
+      "gen Z",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M277",
+        "title": "AGreat Spy",
+        "score": 1.7,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M259",
+        "title": "Lost Ghost",
+        "score": 1.8,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M651",
+        "title": "AMagnificent War",
+        "score": 4.4,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M181",
+        "title": "Gladiator Vampire",
+        "score": 1.5,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M086",
+        "title": "AGladiator Dawn",
+        "score": 1.3,
+        "comment": null
+      },
+      {
+        "item_id": "M146",
+        "title": "Gladiator Samurai",
+        "score": 0.9,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M071",
+        "title": "Final Blood",
+        "score": 2.0,
+        "comment": "Too long"
+      }
+    ]
+  },
+  "id0770": {
+    "tags": [
+      "parent"
+    ],
+    "scores": [
+      {
+        "item_id": "M358",
+        "title": "TheBrave Quest",
+        "score": 2.6,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M965",
+        "title": "True Killer",
+        "score": 4.8,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M430",
+        "title": "Shining Night",
+        "score": 2.1,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M494",
+        "title": "AInception Honor",
+        "score": 2.3,
+        "comment": null
+      }
+    ]
+  },
+  "id0771": {
+    "tags": [
+      "boomer",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M080",
+        "title": "ARising Hero",
+        "score": 3.3,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M741",
+        "title": "AMagnificent Man",
+        "score": 3.5,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M684",
+        "title": "TheRising Revenge",
+        "score": 0.6,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M593",
+        "title": "Fight Club Ghost",
+        "score": 4.7,
+        "comment": "Amazing visuals"
+      }
+    ]
+  },
+  "id0772": {
+    "tags": [
+      "student"
+    ],
+    "scores": [
+      {
+        "item_id": "M812",
+        "title": "TheDark Man",
+        "score": 3.5,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M994",
+        "title": "TheDark Knight Killer",
+        "score": 2.8,
+        "comment": null
+      }
+    ]
+  },
+  "id0773": {
+    "tags": [
+      "gen Z",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M650",
+        "title": "TheBad Samurai",
+        "score": 4.9,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M461",
+        "title": "Brave City",
+        "score": 0.7,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M655",
+        "title": "Pulp Storm",
+        "score": 2.4,
+        "comment": "Predictable ending"
+      }
+    ]
+  },
+  "id0774": {
+    "tags": [
+      "parent"
+    ],
+    "scores": [
+      {
+        "item_id": "M222",
+        "title": "ASilent Robot",
+        "score": 3.1,
+        "comment": null
+      },
+      {
+        "item_id": "M357",
+        "title": "AGood Revenge",
+        "score": 2.2,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M215",
+        "title": "Great Hero",
+        "score": 0.6,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M976",
+        "title": "Lost Honor",
+        "score": 2.8,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M196",
+        "title": "TheGodfather Robot",
+        "score": 3.6,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M996",
+        "title": "AMatrix King",
+        "score": 5.0,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M696",
+        "title": "AMagnificent Ghost",
+        "score": 2.3,
+        "comment": "Must watch"
+      }
+    ]
+  },
+  "id0775": {
+    "tags": [
+      "gen Z",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M536",
+        "title": "AFinal Legend",
+        "score": 2.6,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M998",
+        "title": "TheBrave City",
+        "score": 1.3,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M784",
+        "title": "TheSecret Soldier",
+        "score": 1.2,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M344",
+        "title": "TheBrave Alien",
+        "score": 2.2,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M117",
+        "title": "TheDirty Man",
+        "score": 3.6,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M949",
+        "title": "ABad Redemption",
+        "score": 3.4,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M181",
+        "title": "Gladiator Vampire",
+        "score": 4.7,
+        "comment": "Loved it!"
+      }
+    ]
+  },
+  "id0776": {
+    "tags": [
+      "parent"
+    ],
+    "scores": [
+      {
+        "item_id": "M092",
+        "title": "TheRising Empire",
+        "score": 0.6,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M666",
+        "title": "Pulp Zombie",
+        "score": 1.0,
+        "comment": "Very emotional"
+      }
+    ]
+  },
+  "id0777": {
+    "tags": [
+      "millennial",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M649",
+        "title": "TheShawshank Vampire",
+        "score": 2.8,
+        "comment": null
+      },
+      {
+        "item_id": "M455",
+        "title": "Bad Samurai",
+        "score": 3.5,
+        "comment": "Not my taste"
+      }
+    ]
+  },
+  "id0778": {
+    "tags": [
+      "boomer",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M796",
+        "title": "Matrix Soldier",
+        "score": 1.0,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M466",
+        "title": "APulp City",
+        "score": 4.8,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M565",
+        "title": "AFinal Ghost",
+        "score": 4.9,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M391",
+        "title": "ThePulp Betrayal",
+        "score": 2.4,
+        "comment": "Super fun!"
+      }
+    ]
+  },
+  "id0779": {
+    "tags": [
+      "parent"
+    ],
+    "scores": [
+      {
+        "item_id": "M963",
+        "title": "Dirty Zombie",
+        "score": 2.2,
+        "comment": "Great acting!"
+      }
+    ]
+  },
+  "id0780": {
+    "tags": [
+      "parent"
+    ],
+    "scores": [
+      {
+        "item_id": "M275",
+        "title": "Matrix Battle",
+        "score": 4.3,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M901",
+        "title": "ASecret City",
+        "score": 3.5,
+        "comment": null
+      },
+      {
+        "item_id": "M675",
+        "title": "TheFalling Alien",
+        "score": 4.6,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M271",
+        "title": "TheGreat Blood",
+        "score": 0.6,
+        "comment": null
+      },
+      {
+        "item_id": "M315",
+        "title": "TheMatrix Betrayal",
+        "score": 1.2,
+        "comment": "Must watch"
+      }
+    ]
+  },
+  "id0781": {
+    "tags": [
+      "boomer",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M344",
+        "title": "TheBrave Alien",
+        "score": 3.0,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M175",
+        "title": "Shining Spy",
+        "score": 1.4,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M983",
+        "title": "TheSilent Honor",
+        "score": 2.3,
+        "comment": null
+      },
+      {
+        "item_id": "M586",
+        "title": "TheSilent Samurai",
+        "score": 4.1,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M441",
+        "title": "Shawshank Quest",
+        "score": 2.4,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M248",
+        "title": "Silent Alien",
+        "score": 2.3,
+        "comment": "Boring plot"
+      }
+    ]
+  },
+  "id0782": {
+    "tags": null,
+    "scores": [
+      {
+        "item_id": "M530",
+        "title": "Great Dawn",
+        "score": 4.1,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M163",
+        "title": "Godfather Vampire",
+        "score": 1.0,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M448",
+        "title": "TheGodfather Cop",
+        "score": 4.0,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M237",
+        "title": "AShining Robot",
+        "score": 4.6,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M102",
+        "title": "Gladiator Dawn",
+        "score": 1.2,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M728",
+        "title": "TheFight Club City",
+        "score": 1.4,
+        "comment": "Loved it!"
+      }
+    ]
+  },
+  "id0783": {
+    "tags": [
+      "millennial",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M012",
+        "title": "Fight Club",
+        "score": 3.7,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M644",
+        "title": "TheShining Ghost",
+        "score": 3.1,
+        "comment": null
+      },
+      {
+        "item_id": "M789",
+        "title": "TheGreat Battle",
+        "score": 3.8,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M608",
+        "title": "AMatrix Robot",
+        "score": 4.9,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M157",
+        "title": "Dark Night",
+        "score": 3.3,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M029",
+        "title": "Matrix Honor",
+        "score": 1.3,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M633",
+        "title": "TheMagnificent Dawn",
+        "score": 4.5,
+        "comment": "Too long"
+      }
+    ]
+  },
+  "id0784": {
+    "tags": [
+      "gamer"
+    ],
+    "scores": [
+      {
+        "item_id": "M744",
+        "title": "Magnificent Killer",
+        "score": 2.2,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M799",
+        "title": "ATrue Queen",
+        "score": 3.5,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M827",
+        "title": "ADark Knight Eclipse",
+        "score": 0.9,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M805",
+        "title": "AShining Man",
+        "score": 3.3,
+        "comment": "Super fun!"
+      }
+    ]
+  },
+  "id0785": {
+    "tags": [
+      "millennial",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M114",
+        "title": "AFurious Spy",
+        "score": 4.7,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M471",
+        "title": "TheSecret Wizard",
+        "score": 1.0,
+        "comment": "Too long"
+      }
+    ]
+  },
+  "id0786": {
+    "tags": [
+      "gen Z",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M096",
+        "title": "TheMatrix Samurai",
+        "score": 4.3,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M080",
+        "title": "ARising Hero",
+        "score": 2.3,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M507",
+        "title": "TheMatrix Betrayal",
+        "score": 4.1,
+        "comment": "Not my taste"
+      }
+    ]
+  },
+  "id0787": {
+    "tags": [
+      "parent"
+    ],
+    "scores": [
+      {
+        "item_id": "M983",
+        "title": "TheSilent Honor",
+        "score": 1.9,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M641",
+        "title": "AGreat War",
+        "score": 4.1,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M079",
+        "title": "TheInception Eclipse",
+        "score": 1.8,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M216",
+        "title": "Great Legend",
+        "score": 3.5,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M704",
+        "title": "AGood City",
+        "score": 3.2,
+        "comment": null
+      },
+      {
+        "item_id": "M430",
+        "title": "Shining Night",
+        "score": 1.0,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M385",
+        "title": "Fight Club Shadow",
+        "score": 5.0,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M912",
+        "title": "ATrue Revenge",
+        "score": 5.0,
+        "comment": "Very emotional"
+      }
+    ]
+  },
+  "id0788": {
+    "tags": [
+      "gen Z",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M163",
+        "title": "Godfather Vampire",
+        "score": 2.8,
+        "comment": "Too long"
+      }
+    ]
+  },
+  "id0789": {
+    "tags": [
+      "millennial",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M621",
+        "title": "Rising Betrayal",
+        "score": 2.8,
+        "comment": "Boring plot"
+      },
+      {
+        "item_id": "M031",
+        "title": "ARising Night",
+        "score": 1.5,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M549",
+        "title": "AMatrix Spy",
+        "score": 1.0,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M024",
+        "title": "TheInterstellar Monster",
+        "score": 0.6,
+        "comment": "Boring plot"
+      }
+    ]
+  },
+  "id0790": {
+    "tags": [
+      "gen Z",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M746",
+        "title": "Falling Robot",
+        "score": 4.7,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M709",
+        "title": "ABad Killer",
+        "score": 1.7,
+        "comment": "Great acting!"
+      }
+    ]
+  },
+  "id0791": {
+    "tags": [
+      "gamer"
+    ],
+    "scores": [
+      {
+        "item_id": "M726",
+        "title": "Interstellar Quest",
+        "score": 4.1,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M565",
+        "title": "AFinal Ghost",
+        "score": 2.8,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M668",
+        "title": "ARising Revenge",
+        "score": 4.7,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M302",
+        "title": "Brave Empire",
+        "score": 1.3,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M479",
+        "title": "TheSilent Empire",
+        "score": 4.3,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M764",
+        "title": "TheGreat King",
+        "score": 4.8,
+        "comment": "Loved it!"
+      }
+    ]
+  },
+  "id0792": {
+    "tags": [
+      "boomer",
+      "male"
+    ],
+    "scores": [
+      {
+        "item_id": "M170",
+        "title": "TheDark Knight Alien",
+        "score": 2.7,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M814",
+        "title": "AFinal City",
+        "score": 2.4,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M211",
+        "title": "TheVertigo Betrayal",
+        "score": 4.2,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M977",
+        "title": "AGodfather Night",
+        "score": 1.0,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M740",
+        "title": "TheBad Redemption",
+        "score": 2.4,
+        "comment": "Very emotional"
+      }
+    ]
+  },
+  "id0793": {
+    "tags": [
+      "boomer",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M920",
+        "title": "ADark Woman",
+        "score": 4.5,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M648",
+        "title": "TheSilent Wizard",
+        "score": 1.6,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M840",
+        "title": "Good Ghost",
+        "score": 1.8,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M066",
+        "title": "AFurious Legend",
+        "score": 4.8,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M461",
+        "title": "Brave City",
+        "score": 2.1,
+        "comment": null
+      },
+      {
+        "item_id": "M172",
+        "title": "TheFinal Pirate",
+        "score": 1.0,
+        "comment": "Must watch"
+      }
+    ]
+  },
+  "id0794": {
+    "tags": null,
+    "scores": [
+      {
+        "item_id": "M367",
+        "title": "AFalling Ghost",
+        "score": 1.5,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M252",
+        "title": "Furious King",
+        "score": 2.2,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M075",
+        "title": "APulp Betrayal",
+        "score": 1.1,
+        "comment": "Must watch"
+      }
+    ]
+  },
+  "id0795": {
+    "tags": [
+      "boomer",
+      "female"
+    ],
+    "scores": [
+      {
+        "item_id": "M219",
+        "title": "Dark Knight Robot",
+        "score": 1.5,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M477",
+        "title": "TheTrue Monster",
+        "score": 2.2,
+        "comment": "Very emotional"
+      },
+      {
+        "item_id": "M582",
+        "title": "Silent Killer",
+        "score": 1.5,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M815",
+        "title": "ALost Honor",
+        "score": 1.0,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M330",
+        "title": "Secret Monster",
+        "score": 3.7,
+        "comment": "Super fun!"
+      },
+      {
+        "item_id": "M921",
+        "title": "TheFalling Storm",
+        "score": 0.8,
+        "comment": "Super fun!"
+      }
+    ]
+  },
+  "id0796": {
+    "tags": null,
+    "scores": [
+      {
+        "item_id": "M326",
+        "title": "ALost Legend",
+        "score": 2.7,
+        "comment": null
+      },
+      {
+        "item_id": "M833",
+        "title": "ASilent Legend",
+        "score": 5.0,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M328",
+        "title": "AFurious Empire",
+        "score": 1.0,
+        "comment": "Amazing visuals"
+      },
+      {
+        "item_id": "M203",
+        "title": "True Monster",
+        "score": 1.3,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M202",
+        "title": "ASilent Queen",
+        "score": 3.2,
+        "comment": "Great acting!"
+      },
+      {
+        "item_id": "M051",
+        "title": "TheVertigo Killer",
+        "score": 3.1,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M822",
+        "title": "TheInterstellar Betrayal",
+        "score": 0.6,
+        "comment": "Very emotional"
+      }
+    ]
+  },
+  "id0797": {
+    "tags": [
+      "gamer"
+    ],
+    "scores": [
+      {
+        "item_id": "M292",
+        "title": "Interstellar Storm",
+        "score": 4.6,
+        "comment": null
+      },
+      {
+        "item_id": "M135",
+        "title": "Matrix Alien",
+        "score": 2.0,
+        "comment": null
+      },
+      {
+        "item_id": "M862",
+        "title": "TheDirty Wizard",
+        "score": 0.8,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M991",
+        "title": "Shining Zombie",
+        "score": 4.2,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M413",
+        "title": "ALost Ghost",
+        "score": 3.8,
+        "comment": "Too long"
+      },
+      {
+        "item_id": "M038",
+        "title": "TheBad Quest",
+        "score": 1.9,
+        "comment": "Must watch"
+      },
+      {
+        "item_id": "M918",
+        "title": "AFurious Dream",
+        "score": 2.3,
+        "comment": "Predictable ending"
+      },
+      {
+        "item_id": "M547",
+        "title": "TheBad War",
+        "score": 4.0,
+        "comment": "Amazing visuals"
+      }
+    ]
+  },
+  "id0798": {
+    "tags": [
+      "student"
+    ],
+    "scores": [
+      {
+        "item_id": "M403",
+        "title": "ARising Soldier",
+        "score": 1.8,
+        "comment": "Amazing visuals"
+      }
+    ]
+  },
+  "id0799": {
+    "tags": null,
+    "scores": [
+      {
+        "item_id": "M864",
+        "title": "True Zombie",
+        "score": 4.7,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M383",
+        "title": "Silent Woman",
+        "score": 0.6,
+        "comment": null
+      }
+    ]
+  },
+  "id0800": {
+    "tags": [
+      "parent"
+    ],
+    "scores": [
+      {
+        "item_id": "M108",
+        "title": "AFurious Revenge",
+        "score": 3.6,
+        "comment": "Not my taste"
+      },
+      {
+        "item_id": "M331",
+        "title": "TheGodfather Spy",
+        "score": 1.5,
+        "comment": "Loved it!"
+      },
+      {
+        "item_id": "M883",
+        "title": "TheShining War",
+        "score": 1.4,
+        "comment": "Must watch"
+      }
+    ]
+  }
+}

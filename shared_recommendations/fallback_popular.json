@@ -1,0 +1,477 @@
+{
+  "meta": {
+    "tag": "popular",
+    "type": "fallback",
+    "description": "Most popular movies - use when no specific match found",
+    "match_keywords": [],
+    "generated_at": "2026-01-26T01:44:53.783124Z",
+    "is_fallback": true,
+    "candidate_movies": 998
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M897",
+      "title": "ABad Man",
+      "year": 1965,
+      "director": "Lilly Wachowski",
+      "genre": [
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Intense"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A troubled princess fights against the ring and becomes obsessed with the truth.",
+      "why_recommended": "Highly rated movie with 4.4/5.0 average from 5 users.",
+      "stats": {
+        "avg_rating": 4.36,
+        "total_ratings": 5
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M954",
+      "title": "ATrue Dawn",
+      "year": 1962,
+      "director": "David Fincher",
+      "genre": [
+        "Crime",
+        "Thriller"
+      ],
+      "mood": [
+        "Thrilling",
+        "Serious"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A insomniac thief takes over a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Highly rated movie with 3.8/5.0 average from 9 users.",
+      "stats": {
+        "avg_rating": 3.78,
+        "total_ratings": 9
+      }
+    },
+    {
+      "rank": 3,
+      "item_id": "M371",
+      "title": "TheGodfather City",
+      "year": 1987,
+      "director": "Paul Thomas Anderson",
+      "genre": [
+        "Romance",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "mood": [
+        "Violent",
+        "Romantic"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A determined newsman struggles a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Highly rated movie with 3.7/5.0 average from 9 users.",
+      "stats": {
+        "avg_rating": 3.74,
+        "total_ratings": 9
+      }
+    },
+    {
+      "rank": 4,
+      "item_id": "M710",
+      "title": "TheSecret Shadow",
+      "year": 2000,
+      "director": "Frank Darabont",
+      "genre": [
+        "Fantasy",
+        "History",
+        "Music",
+        "Horror"
+      ],
+      "mood": [
+        "Witty",
+        "Stylish"
+      ],
+      "era": "2000s",
+      "description_brief": "A brilliant thief plants a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Highly rated movie with 3.7/5.0 average from 12 users.",
+      "stats": {
+        "avg_rating": 3.72,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 5,
+      "item_id": "M543",
+      "title": "AGladiator Killer",
+      "year": 1994,
+      "director": "Bong Joon-ho",
+      "genre": [
+        "Sci-Fi",
+        "Fantasy",
+        "History"
+      ],
+      "mood": [
+        "Witty",
+        "Chaotic"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A former newsman escapes mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Highly rated movie with 3.7/5.0 average from 8 users.",
+      "stats": {
+        "avg_rating": 3.71,
+        "total_ratings": 8
+      }
+    },
+    {
+      "rank": 6,
+      "item_id": "M952",
+      "title": "Rising Woman",
+      "year": 1948,
+      "director": "Billy Wilder",
+      "genre": [
+        "Biography",
+        "Western",
+        "Fantasy"
+      ],
+      "mood": [
+        "Hopeful",
+        "Chaotic",
+        "Heartwarming"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac explorer escapes mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Highly rated movie with 3.7/5.0 average from 7 users.",
+      "stats": {
+        "avg_rating": 3.69,
+        "total_ratings": 7
+      }
+    },
+    {
+      "rank": 7,
+      "item_id": "M793",
+      "title": "AShawshank Fire",
+      "year": 2018,
+      "director": "Orson Welles",
+      "genre": [
+        "Fantasy",
+        "Music"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Romantic"
+      ],
+      "era": "Modern",
+      "description_brief": "A determined hacker travels through guardians and becomes obsessed with the truth.",
+      "why_recommended": "Highly rated movie with 3.7/5.0 average from 8 users.",
+      "stats": {
+        "avg_rating": 3.66,
+        "total_ratings": 8
+      }
+    },
+    {
+      "rank": 8,
+      "item_id": "M869",
+      "title": "AInception Soldier",
+      "year": 2012,
+      "director": "Steven Spielberg",
+      "genre": [
+        "Comedy",
+        "Action",
+        "Drama",
+        "Crime"
+      ],
+      "mood": [
+        "Inspirational",
+        "Chaotic",
+        "Intense"
+      ],
+      "era": "Modern",
+      "description_brief": "A cynical princess investigates guardians and becomes obsessed with the truth.",
+      "why_recommended": "Highly rated movie with 3.7/5.0 average from 13 users.",
+      "stats": {
+        "avg_rating": 3.66,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 9,
+      "item_id": "M506",
+      "title": "TheGladiator Dream",
+      "year": 1986,
+      "director": "Stanley Kubrick",
+      "genre": [
+        "Mystery",
+        "Action"
+      ],
+      "mood": [
+        "Thrilling",
+        "Suspenseful"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A bored scientist takes over mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Highly rated movie with 3.6/5.0 average from 6 users.",
+      "stats": {
+        "avg_rating": 3.65,
+        "total_ratings": 6
+      }
+    },
+    {
+      "rank": 10,
+      "item_id": "M084",
+      "title": "TheShawshank Vampire",
+      "year": 1992,
+      "director": "Michael Curtiz",
+      "genre": [
+        "Western",
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "mood": [
+        "Powerful",
+        "Somber"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A retired immigrant escapes guardians and becomes obsessed with the truth.",
+      "why_recommended": "Highly rated movie with 3.6/5.0 average from 12 users.",
+      "stats": {
+        "avg_rating": 3.61,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 11,
+      "item_id": "M399",
+      "title": "Pulp Soldier",
+      "year": 1965,
+      "director": "Tim Burton",
+      "genre": [
+        "Comedy",
+        "Fantasy",
+        "War"
+      ],
+      "mood": [
+        "Powerful",
+        "Hopeful",
+        "Psychological"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A cynical princess investigates a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Highly rated movie with 3.6/5.0 average from 11 users.",
+      "stats": {
+        "avg_rating": 3.6,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 12,
+      "item_id": "M965",
+      "title": "True Killer",
+      "year": 1943,
+      "director": "Peter Jackson",
+      "genre": [
+        "Sci-Fi",
+        "Drama",
+        "Biography"
+      ],
+      "mood": [
+        "Powerful",
+        "Violent"
+      ],
+      "era": "Classic",
+      "description_brief": "A cynical thief struggles a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Highly rated movie with 3.6/5.0 average from 16 users.",
+      "stats": {
+        "avg_rating": 3.59,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 13,
+      "item_id": "M717",
+      "title": "TheSecret Blood",
+      "year": 1942,
+      "director": "Ari Aster",
+      "genre": [
+        "Thriller",
+        "Crime",
+        "War",
+        "Animation"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Thrilling",
+        "Serious"
+      ],
+      "era": "Classic",
+      "description_brief": "A brilliant thief plants guardians and becomes obsessed with the truth.",
+      "why_recommended": "Highly rated movie with 3.6/5.0 average from 15 users.",
+      "stats": {
+        "avg_rating": 3.59,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 14,
+      "item_id": "M628",
+      "title": "Final Hero",
+      "year": 1964,
+      "director": "Tim Burton",
+      "genre": [
+        "Romance",
+        "Fantasy",
+        "Music"
+      ],
+      "mood": [
+        "Charming",
+        "Chaotic"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A former boxer escapes the ring and becomes obsessed with the truth.",
+      "why_recommended": "Highly rated movie with 3.6/5.0 average from 16 users.",
+      "stats": {
+        "avg_rating": 3.58,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 15,
+      "item_id": "M313",
+      "title": "TheShawshank Eclipse",
+      "year": 2014,
+      "director": "Lana Wachowski",
+      "genre": [
+        "Biography",
+        "War"
+      ],
+      "mood": [
+        "Powerful",
+        "Hopeful"
+      ],
+      "era": "Modern",
+      "description_brief": "A troubled newsman learns from guardians and becomes obsessed with the truth.",
+      "why_recommended": "Highly rated movie with 3.6/5.0 average from 9 users.",
+      "stats": {
+        "avg_rating": 3.57,
+        "total_ratings": 9
+      }
+    },
+    {
+      "rank": 16,
+      "item_id": "M556",
+      "title": "TheBad Cop",
+      "year": 1994,
+      "director": "Wes Anderson",
+      "genre": [
+        "Sport",
+        "Comedy",
+        "Action"
+      ],
+      "mood": [
+        "Serious",
+        "Powerful",
+        "Thrilling"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A insomniac thief learns from dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Highly rated movie with 3.6/5.0 average from 7 users.",
+      "stats": {
+        "avg_rating": 3.56,
+        "total_ratings": 7
+      }
+    },
+    {
+      "rank": 17,
+      "item_id": "M646",
+      "title": "ARising Legend",
+      "year": 2018,
+      "director": "Francis Ford Coppola",
+      "genre": [
+        "Animation",
+        "Thriller",
+        "Mystery",
+        "Biography"
+      ],
+      "mood": [
+        "Witty",
+        "Emotional",
+        "Romantic"
+      ],
+      "era": "Modern",
+      "description_brief": "A aging scientist travels through mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Highly rated movie with 3.6/5.0 average from 9 users.",
+      "stats": {
+        "avg_rating": 3.56,
+        "total_ratings": 9
+      }
+    },
+    {
+      "rank": 18,
+      "item_id": "M238",
+      "title": "TheFight Club Blood",
+      "year": 2016,
+      "director": "Lilly Wachowski",
+      "genre": [
+        "Animation",
+        "Action"
+      ],
+      "mood": [
+        "Chaotic",
+        "Bittersweet"
+      ],
+      "era": "Modern",
+      "description_brief": "A insomniac princess travels through a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Highly rated movie with 3.5/5.0 average from 10 users.",
+      "stats": {
+        "avg_rating": 3.54,
+        "total_ratings": 10
+      }
+    },
+    {
+      "rank": 19,
+      "item_id": "M015",
+      "title": "Titanic",
+      "year": 1997,
+      "director": "James Cameron",
+      "genre": [
+        "Drama",
+        "Romance"
+      ],
+      "mood": [
+        "Epic",
+        "Tragic"
+      ],
+      "era": "90s",
+      "description_brief": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious but ill-fated R.M.S. Titanic.",
+      "why_recommended": "Highly rated movie with 3.5/5.0 average from 10 users.",
+      "stats": {
+        "avg_rating": 3.54,
+        "total_ratings": 10
+      }
+    },
+    {
+      "rank": 20,
+      "item_id": "M976",
+      "title": "Lost Honor",
+      "year": 1959,
+      "director": "Stanley Kubrick",
+      "genre": [
+        "Western",
+        "Horror"
+      ],
+      "mood": [
+        "Intense",
+        "Violent",
+        "Hopeful"
+      ],
+      "era": "Classic",
+      "description_brief": "A bored princess fights against guardians and becomes obsessed with the truth.",
+      "why_recommended": "Highly rated movie with 3.5/5.0 average from 8 users.",
+      "stats": {
+        "avg_rating": 3.53,
+        "total_ratings": 8
+      }
+    }
+  ]
+}

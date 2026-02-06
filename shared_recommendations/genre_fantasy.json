@@ -1,0 +1,519 @@
+{
+  "meta": {
+    "tag": "Fantasy",
+    "type": "genre",
+    "description": "Top Fantasy movies",
+    "match_keywords": [
+      "fantasy",
+      "Fantasy"
+    ],
+    "generated_at": "2026-01-26T01:44:53.781094Z",
+    "candidate_movies": 165
+  },
+  "discovery_questions": [
+    {
+      "question": "Do you enjoy Fantasy movies?",
+      "positive_signals": [
+        "fantasy",
+        "yes",
+        "love",
+        "Fantasy"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M084",
+      "title": "TheShawshank Vampire",
+      "year": 1992,
+      "director": "Michael Curtiz",
+      "genre": [
+        "Western",
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "mood": [
+        "Powerful",
+        "Somber"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A retired immigrant escapes guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Fantasy movie. Average rating: 3.6/5.0",
+      "stats": {
+        "avg_rating": 3.61,
+        "high_rating_count": 7,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M628",
+      "title": "Final Hero",
+      "year": 1964,
+      "director": "Tim Burton",
+      "genre": [
+        "Romance",
+        "Fantasy",
+        "Music"
+      ],
+      "mood": [
+        "Charming",
+        "Chaotic"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A former boxer escapes the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Fantasy movie. Average rating: 3.6/5.0",
+      "stats": {
+        "avg_rating": 3.58,
+        "high_rating_count": 7,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 3,
+      "item_id": "M730",
+      "title": "TheDark Revenge",
+      "year": 1936,
+      "director": "Steven Spielberg",
+      "genre": [
+        "Sci-Fi",
+        "Animation",
+        "Fantasy"
+      ],
+      "mood": [
+        "Intense",
+        "Romantic"
+      ],
+      "era": "Classic",
+      "description_brief": "A brilliant explorer plants the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Fantasy movie. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating": 2.79,
+        "high_rating_count": 7,
+        "total_ratings": 19
+      }
+    },
+    {
+      "rank": 4,
+      "item_id": "M399",
+      "title": "Pulp Soldier",
+      "year": 1965,
+      "director": "Tim Burton",
+      "genre": [
+        "Comedy",
+        "Fantasy",
+        "War"
+      ],
+      "mood": [
+        "Powerful",
+        "Hopeful",
+        "Psychological"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A cynical princess investigates a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Fantasy movie. Average rating: 3.6/5.0",
+      "stats": {
+        "avg_rating": 3.6,
+        "high_rating_count": 6,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 5,
+      "item_id": "M166",
+      "title": "AGladiator Storm",
+      "year": 1972,
+      "director": "Stanley Kubrick",
+      "genre": [
+        "History",
+        "Sci-Fi",
+        "Fantasy"
+      ],
+      "mood": [
+        "Hopeful",
+        "Chaotic",
+        "Angry"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A young explorer investigates the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Fantasy movie. Average rating: 3.5/5.0",
+      "stats": {
+        "avg_rating": 3.46,
+        "high_rating_count": 6,
+        "total_ratings": 17
+      }
+    },
+    {
+      "rank": 6,
+      "item_id": "M718",
+      "title": "AGladiator Alien",
+      "year": 1931,
+      "director": "Christopher Nolan",
+      "genre": [
+        "Fantasy",
+        "Comedy",
+        "Biography",
+        "Sport"
+      ],
+      "mood": [
+        "Angry",
+        "Thrilling",
+        "Witty"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac warrior struggles guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Fantasy movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.38,
+        "high_rating_count": 6,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 7,
+      "item_id": "M070",
+      "title": "ADark Betrayal",
+      "year": 1970,
+      "director": "Billy Wilder",
+      "genre": [
+        "Sci-Fi",
+        "Fantasy",
+        "Thriller"
+      ],
+      "mood": [
+        "Intense",
+        "Thrilling",
+        "Powerful"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A troubled thief investigates guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Fantasy movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.25,
+        "high_rating_count": 6,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 8,
+      "item_id": "M308",
+      "title": "Fight Club War",
+      "year": 2003,
+      "director": "Martin Scorsese",
+      "genre": [
+        "Horror",
+        "Sport",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Thrilling",
+        "Inspirational"
+      ],
+      "era": "2000s",
+      "description_brief": "A bored boxer fights against the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Fantasy movie. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating": 2.79,
+        "high_rating_count": 6,
+        "total_ratings": 25
+      }
+    },
+    {
+      "rank": 9,
+      "item_id": "M710",
+      "title": "TheSecret Shadow",
+      "year": 2000,
+      "director": "Frank Darabont",
+      "genre": [
+        "Fantasy",
+        "History",
+        "Music",
+        "Horror"
+      ],
+      "mood": [
+        "Witty",
+        "Stylish"
+      ],
+      "era": "2000s",
+      "description_brief": "A brilliant thief plants a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Fantasy movie. Average rating: 3.7/5.0",
+      "stats": {
+        "avg_rating": 3.72,
+        "high_rating_count": 5,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 10,
+      "item_id": "M543",
+      "title": "AGladiator Killer",
+      "year": 1994,
+      "director": "Bong Joon-ho",
+      "genre": [
+        "Sci-Fi",
+        "Fantasy",
+        "History"
+      ],
+      "mood": [
+        "Witty",
+        "Chaotic"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A former newsman escapes mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Fantasy movie. Average rating: 3.7/5.0",
+      "stats": {
+        "avg_rating": 3.71,
+        "high_rating_count": 5,
+        "total_ratings": 8
+      }
+    },
+    {
+      "rank": 11,
+      "item_id": "M793",
+      "title": "AShawshank Fire",
+      "year": 2018,
+      "director": "Orson Welles",
+      "genre": [
+        "Fantasy",
+        "Music"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Romantic"
+      ],
+      "era": "Modern",
+      "description_brief": "A determined hacker travels through guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Fantasy movie. Average rating: 3.7/5.0",
+      "stats": {
+        "avg_rating": 3.66,
+        "high_rating_count": 5,
+        "total_ratings": 8
+      }
+    },
+    {
+      "rank": 12,
+      "item_id": "M766",
+      "title": "TheGodfather Battle",
+      "year": 2015,
+      "director": "Greta Gerwig",
+      "genre": [
+        "Fantasy",
+        "Crime"
+      ],
+      "mood": [
+        "Violent",
+        "Intense"
+      ],
+      "era": "Modern",
+      "description_brief": "A young hacker plants a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Fantasy movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.22,
+        "high_rating_count": 5,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 13,
+      "item_id": "M750",
+      "title": "Inception Redemption",
+      "year": 1932,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "History",
+        "Fantasy"
+      ],
+      "mood": [
+        "Somber",
+        "Hopeful",
+        "Thrilling"
+      ],
+      "era": "Classic",
+      "description_brief": "A retired detective escapes the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Fantasy movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.08,
+        "high_rating_count": 5,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 14,
+      "item_id": "M675",
+      "title": "TheFalling Alien",
+      "year": 1934,
+      "director": "Wes Anderson",
+      "genre": [
+        "Romance",
+        "Fantasy",
+        "Crime",
+        "Drama"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Serious"
+      ],
+      "era": "Classic",
+      "description_brief": "A bored thief escapes a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Fantasy movie. Average rating: 3.0/5.0",
+      "stats": {
+        "avg_rating": 2.97,
+        "high_rating_count": 5,
+        "total_ratings": 17
+      }
+    },
+    {
+      "rank": 15,
+      "item_id": "M809",
+      "title": "ATrue Woman",
+      "year": 1948,
+      "director": "Taika Waititi",
+      "genre": [
+        "Sci-Fi",
+        "Fantasy",
+        "Romance"
+      ],
+      "mood": [
+        "Hopeful",
+        "Inspirational"
+      ],
+      "era": "Classic",
+      "description_brief": "A former immigrant learns from the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Fantasy movie. Average rating: 3.0/5.0",
+      "stats": {
+        "avg_rating": 2.95,
+        "high_rating_count": 5,
+        "total_ratings": 19
+      }
+    },
+    {
+      "rank": 16,
+      "item_id": "M452",
+      "title": "TheLost Dream",
+      "year": 1956,
+      "director": "Robert Zemeckis",
+      "genre": [
+        "Fantasy",
+        "Music",
+        "Sci-Fi",
+        "Comedy"
+      ],
+      "mood": [
+        "Psychological",
+        "Violent",
+        "Hopeful"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac scientist plants guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Fantasy movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.94,
+        "high_rating_count": 5,
+        "total_ratings": 10
+      }
+    },
+    {
+      "rank": 17,
+      "item_id": "M904",
+      "title": "TheBrave Woman",
+      "year": 1931,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "Action",
+        "Fantasy",
+        "Horror",
+        "Mystery"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Intense",
+        "Serious"
+      ],
+      "era": "Classic",
+      "description_brief": "A bored scientist plants a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Fantasy movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.87,
+        "high_rating_count": 5,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 18,
+      "item_id": "M888",
+      "title": "ABrave Dream",
+      "year": 1968,
+      "director": "James Cameron",
+      "genre": [
+        "Comedy",
+        "War",
+        "Fantasy",
+        "Crime"
+      ],
+      "mood": [
+        "Philosophical",
+        "Thrilling"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A retired immigrant learns from mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Fantasy movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.86,
+        "high_rating_count": 5,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 19,
+      "item_id": "M427",
+      "title": "ThePulp King",
+      "year": 2007,
+      "director": "David Fincher",
+      "genre": [
+        "Fantasy",
+        "Adventure"
+      ],
+      "mood": [
+        "Romantic",
+        "Hopeful",
+        "Angry"
+      ],
+      "era": "2000s",
+      "description_brief": "A young immigrant investigates the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Fantasy movie. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating": 2.84,
+        "high_rating_count": 5,
+        "total_ratings": 17
+      }
+    },
+    {
+      "rank": 20,
+      "item_id": "M952",
+      "title": "Rising Woman",
+      "year": 1948,
+      "director": "Billy Wilder",
+      "genre": [
+        "Biography",
+        "Western",
+        "Fantasy"
+      ],
+      "mood": [
+        "Hopeful",
+        "Chaotic",
+        "Heartwarming"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac explorer escapes mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Fantasy movie. Average rating: 3.7/5.0",
+      "stats": {
+        "avg_rating": 3.69,
+        "high_rating_count": 4,
+        "total_ratings": 7
+      }
+    }
+  ]
+}

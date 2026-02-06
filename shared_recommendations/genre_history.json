@@ -1,0 +1,515 @@
+{
+  "meta": {
+    "tag": "History",
+    "type": "genre",
+    "description": "Top History movies",
+    "match_keywords": [
+      "history",
+      "History"
+    ],
+    "generated_at": "2026-01-26T01:44:53.779137Z",
+    "candidate_movies": 172
+  },
+  "discovery_questions": [
+    {
+      "question": "Do you enjoy History movies?",
+      "positive_signals": [
+        "history",
+        "yes",
+        "love",
+        "History"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M500",
+      "title": "Interstellar Battle",
+      "year": 2002,
+      "director": "Alfred Hitchcock",
+      "genre": [
+        "War",
+        "Thriller",
+        "History",
+        "Comedy"
+      ],
+      "mood": [
+        "Violent",
+        "Powerful"
+      ],
+      "era": "2000s",
+      "description_brief": "A insomniac immigrant fights against mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated History movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.4,
+        "high_rating_count": 8,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M244",
+      "title": "ThePulp Honor",
+      "year": 2015,
+      "director": "Stanley Kubrick",
+      "genre": [
+        "History",
+        "Comedy",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "mood": [
+        "Chaotic",
+        "Inspirational",
+        "Violent"
+      ],
+      "era": "Modern",
+      "description_brief": "A insomniac boxer learns from a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated History movie. Average rating: 3.5/5.0",
+      "stats": {
+        "avg_rating": 3.52,
+        "high_rating_count": 7,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 3,
+      "item_id": "M011",
+      "title": "Schindler's List",
+      "year": 1993,
+      "director": "Steven Spielberg",
+      "genre": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "mood": [
+        "Somber",
+        "Powerful"
+      ],
+      "era": "90s",
+      "description_brief": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "why_recommended": "Top-rated History movie. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating": 2.79,
+        "high_rating_count": 7,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 4,
+      "item_id": "M166",
+      "title": "AGladiator Storm",
+      "year": 1972,
+      "director": "Stanley Kubrick",
+      "genre": [
+        "History",
+        "Sci-Fi",
+        "Fantasy"
+      ],
+      "mood": [
+        "Hopeful",
+        "Chaotic",
+        "Angry"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A young explorer investigates the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated History movie. Average rating: 3.5/5.0",
+      "stats": {
+        "avg_rating": 3.46,
+        "high_rating_count": 6,
+        "total_ratings": 17
+      }
+    },
+    {
+      "rank": 5,
+      "item_id": "M056",
+      "title": "ABrave Quest",
+      "year": 2000,
+      "director": "Tim Burton",
+      "genre": [
+        "Thriller",
+        "History",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Hopeful",
+        "Romantic",
+        "Exciting"
+      ],
+      "era": "2000s",
+      "description_brief": "A troubled princess investigates a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated History movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.42,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 6,
+      "item_id": "M488",
+      "title": "ATrue Vampire",
+      "year": 1957,
+      "director": "Paul Thomas Anderson",
+      "genre": [
+        "History",
+        "Comedy",
+        "Crime"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Thrilling",
+        "Romantic"
+      ],
+      "era": "Classic",
+      "description_brief": "A brilliant immigrant travels through a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated History movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.33,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 7,
+      "item_id": "M027",
+      "title": "AFalling King",
+      "year": 1932,
+      "director": "Martin Scorsese",
+      "genre": [
+        "Thriller",
+        "History"
+      ],
+      "mood": [
+        "Emotional",
+        "Mind-bending",
+        "Romantic"
+      ],
+      "era": "Classic",
+      "description_brief": "A retired newsman learns from the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated History movie. Average rating: 3.0/5.0",
+      "stats": {
+        "avg_rating": 3.01,
+        "high_rating_count": 6,
+        "total_ratings": 17
+      }
+    },
+    {
+      "rank": 8,
+      "item_id": "M203",
+      "title": "True Monster",
+      "year": 2012,
+      "director": "Taika Waititi",
+      "genre": [
+        "Comedy",
+        "History",
+        "Romance"
+      ],
+      "mood": [
+        "Thrilling",
+        "Angry",
+        "Philosophical"
+      ],
+      "era": "Modern",
+      "description_brief": "A determined immigrant learns from a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated History movie. Average rating: 2.6/5.0",
+      "stats": {
+        "avg_rating": 2.63,
+        "high_rating_count": 6,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 9,
+      "item_id": "M710",
+      "title": "TheSecret Shadow",
+      "year": 2000,
+      "director": "Frank Darabont",
+      "genre": [
+        "Fantasy",
+        "History",
+        "Music",
+        "Horror"
+      ],
+      "mood": [
+        "Witty",
+        "Stylish"
+      ],
+      "era": "2000s",
+      "description_brief": "A brilliant thief plants a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated History movie. Average rating: 3.7/5.0",
+      "stats": {
+        "avg_rating": 3.72,
+        "high_rating_count": 5,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 10,
+      "item_id": "M543",
+      "title": "AGladiator Killer",
+      "year": 1994,
+      "director": "Bong Joon-ho",
+      "genre": [
+        "Sci-Fi",
+        "Fantasy",
+        "History"
+      ],
+      "mood": [
+        "Witty",
+        "Chaotic"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A former newsman escapes mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated History movie. Average rating: 3.7/5.0",
+      "stats": {
+        "avg_rating": 3.71,
+        "high_rating_count": 5,
+        "total_ratings": 8
+      }
+    },
+    {
+      "rank": 11,
+      "item_id": "M581",
+      "title": "TheMatrix Spy",
+      "year": 2008,
+      "director": "Billy Wilder",
+      "genre": [
+        "History",
+        "Sport"
+      ],
+      "mood": [
+        "Exciting",
+        "Charming",
+        "Violent"
+      ],
+      "era": "2000s",
+      "description_brief": "A former princess learns from mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated History movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.4,
+        "high_rating_count": 5,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 12,
+      "item_id": "M455",
+      "title": "Bad Samurai",
+      "year": 1976,
+      "director": "Francis Ford Coppola",
+      "genre": [
+        "History",
+        "Crime",
+        "War"
+      ],
+      "mood": [
+        "Psychological",
+        "Inspirational",
+        "Angry"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A retired explorer learns from dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated History movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.26,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 13,
+      "item_id": "M211",
+      "title": "TheVertigo Betrayal",
+      "year": 1990,
+      "director": "Wes Anderson",
+      "genre": [
+        "History",
+        "Horror"
+      ],
+      "mood": [
+        "Thrilling",
+        "Witty",
+        "Hopeful"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A insomniac thief learns from a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated History movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.21,
+        "high_rating_count": 5,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 14,
+      "item_id": "M805",
+      "title": "AShining Man",
+      "year": 1972,
+      "director": "Taika Waititi",
+      "genre": [
+        "Sport",
+        "History",
+        "Animation"
+      ],
+      "mood": [
+        "Angry",
+        "Suspenseful",
+        "Violent"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A aging boxer travels through dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated History movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.19,
+        "high_rating_count": 5,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 15,
+      "item_id": "M856",
+      "title": "Matrix Vampire",
+      "year": 1995,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "History",
+        "Mystery"
+      ],
+      "mood": [
+        "Intense",
+        "Serious"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A determined newsman plants a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated History movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.19,
+        "high_rating_count": 5,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 16,
+      "item_id": "M479",
+      "title": "TheSilent Empire",
+      "year": 1945,
+      "director": "Francis Ford Coppola",
+      "genre": [
+        "History",
+        "Action",
+        "Comedy"
+      ],
+      "mood": [
+        "Intense",
+        "Powerful",
+        "Heartwarming"
+      ],
+      "era": "Classic",
+      "description_brief": "A young detective investigates a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated History movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.19,
+        "high_rating_count": 5,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 17,
+      "item_id": "M621",
+      "title": "Rising Betrayal",
+      "year": 1973,
+      "director": "Bong Joon-ho",
+      "genre": [
+        "Romance",
+        "History"
+      ],
+      "mood": [
+        "Powerful",
+        "Exciting"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A cynical thief learns from the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated History movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.17,
+        "high_rating_count": 5,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 18,
+      "item_id": "M162",
+      "title": "Lost Honor",
+      "year": 1946,
+      "director": "Guillermo del Toro",
+      "genre": [
+        "Romance",
+        "Action",
+        "History"
+      ],
+      "mood": [
+        "Intense",
+        "Bittersweet"
+      ],
+      "era": "Classic",
+      "description_brief": "A former thief takes over a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated History movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.14,
+        "high_rating_count": 5,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 19,
+      "item_id": "M868",
+      "title": "TheBrave City",
+      "year": 2013,
+      "director": "Stanley Kubrick",
+      "genre": [
+        "Biography",
+        "History"
+      ],
+      "mood": [
+        "Violent",
+        "Powerful",
+        "Inspirational"
+      ],
+      "era": "Modern",
+      "description_brief": "A brilliant hacker struggles a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated History movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.14,
+        "high_rating_count": 5,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 20,
+      "item_id": "M750",
+      "title": "Inception Redemption",
+      "year": 1932,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "History",
+        "Fantasy"
+      ],
+      "mood": [
+        "Somber",
+        "Hopeful",
+        "Thrilling"
+      ],
+      "era": "Classic",
+      "description_brief": "A retired detective escapes the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated History movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.08,
+        "high_rating_count": 5,
+        "total_ratings": 11
+      }
+    }
+  ]
+}

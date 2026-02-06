@@ -1,0 +1,516 @@
+{
+  "meta": {
+    "tag": "Horror",
+    "type": "genre",
+    "description": "Top Horror movies",
+    "match_keywords": [
+      "horror",
+      "Horror"
+    ],
+    "generated_at": "2026-01-26T01:44:53.780870Z",
+    "candidate_movies": 171
+  },
+  "discovery_questions": [
+    {
+      "question": "Do you enjoy Horror movies?",
+      "positive_signals": [
+        "horror",
+        "yes",
+        "love",
+        "Horror"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M311",
+      "title": "TheInterstellar Detective",
+      "year": 1945,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "Horror",
+        "Biography"
+      ],
+      "mood": [
+        "Philosophical",
+        "Hopeful",
+        "Violent"
+      ],
+      "era": "Classic",
+      "description_brief": "A young immigrant fights against a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Horror movie. Average rating: 3.5/5.0",
+      "stats": {
+        "avg_rating": 3.49,
+        "high_rating_count": 7,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M434",
+      "title": "ADirty Soldier",
+      "year": 1961,
+      "director": "Wes Anderson",
+      "genre": [
+        "Mystery",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Somber"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A bored warrior fights against the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Horror movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.25,
+        "high_rating_count": 7,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 3,
+      "item_id": "M416",
+      "title": "AShawshank Legend",
+      "year": 1992,
+      "director": "Frank Darabont",
+      "genre": [
+        "Action",
+        "Mystery",
+        "Horror",
+        "Music"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Exciting"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A retired boxer struggles a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Horror movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.18,
+        "high_rating_count": 7,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 4,
+      "item_id": "M786",
+      "title": "TheSilent Vampire",
+      "year": 1939,
+      "director": "David Fincher",
+      "genre": [
+        "Mystery",
+        "Western",
+        "Horror"
+      ],
+      "mood": [
+        "Romantic",
+        "Philosophical"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac princess fights against mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Horror movie. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating": 2.79,
+        "high_rating_count": 7,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 5,
+      "item_id": "M558",
+      "title": "Dark Night",
+      "year": 1944,
+      "director": "Robert Zemeckis",
+      "genre": [
+        "Animation",
+        "Horror",
+        "Mystery"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Exciting",
+        "Witty"
+      ],
+      "era": "Classic",
+      "description_brief": "A bored hacker struggles a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Horror movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.29,
+        "high_rating_count": 6,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 6,
+      "item_id": "M197",
+      "title": "Dark Knight Redemption",
+      "year": 1971,
+      "director": "Lana Wachowski",
+      "genre": [
+        "Thriller",
+        "Horror"
+      ],
+      "mood": [
+        "Exciting",
+        "Thrilling",
+        "Suspenseful"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A young detective fights against a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Horror movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.24,
+        "high_rating_count": 6,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 7,
+      "item_id": "M287",
+      "title": "ARising Alien",
+      "year": 2016,
+      "director": "Quentin Tarantino",
+      "genre": [
+        "Adventure",
+        "Biography",
+        "Horror"
+      ],
+      "mood": [
+        "Thrilling",
+        "Exciting",
+        "Hopeful"
+      ],
+      "era": "Modern",
+      "description_brief": "A determined immigrant takes over guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Horror movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.23,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 8,
+      "item_id": "M465",
+      "title": "AFinal Revenge",
+      "year": 2021,
+      "director": "Ari Aster",
+      "genre": [
+        "Horror",
+        "Romance"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Psychological",
+        "Serious"
+      ],
+      "era": "Modern",
+      "description_brief": "A troubled boxer investigates dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Horror movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.12,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 9,
+      "item_id": "M092",
+      "title": "TheRising Empire",
+      "year": 1926,
+      "director": "Taika Waititi",
+      "genre": [
+        "Thriller",
+        "Drama",
+        "Action",
+        "Horror"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Inspirational"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac explorer travels through the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Horror movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.93,
+        "high_rating_count": 6,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 10,
+      "item_id": "M798",
+      "title": "AMatrix Revenge",
+      "year": 1997,
+      "director": "Christopher Nolan",
+      "genre": [
+        "Thriller",
+        "Horror",
+        "Action"
+      ],
+      "mood": [
+        "Inspirational",
+        "Witty"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A aging newsman struggles the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Horror movie. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating": 2.8,
+        "high_rating_count": 6,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 11,
+      "item_id": "M308",
+      "title": "Fight Club War",
+      "year": 2003,
+      "director": "Martin Scorsese",
+      "genre": [
+        "Horror",
+        "Sport",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Thrilling",
+        "Inspirational"
+      ],
+      "era": "2000s",
+      "description_brief": "A bored boxer fights against the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Horror movie. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating": 2.79,
+        "high_rating_count": 6,
+        "total_ratings": 25
+      }
+    },
+    {
+      "rank": 12,
+      "item_id": "M710",
+      "title": "TheSecret Shadow",
+      "year": 2000,
+      "director": "Frank Darabont",
+      "genre": [
+        "Fantasy",
+        "History",
+        "Music",
+        "Horror"
+      ],
+      "mood": [
+        "Witty",
+        "Stylish"
+      ],
+      "era": "2000s",
+      "description_brief": "A brilliant thief plants a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Horror movie. Average rating: 3.7/5.0",
+      "stats": {
+        "avg_rating": 3.72,
+        "high_rating_count": 5,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 13,
+      "item_id": "M097",
+      "title": "APulp Man",
+      "year": 1968,
+      "director": "David Fincher",
+      "genre": [
+        "War",
+        "Animation",
+        "Mystery",
+        "Horror"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Bittersweet",
+        "Thrilling"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A young detective travels through a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Horror movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.33,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 14,
+      "item_id": "M156",
+      "title": "Shining Legend",
+      "year": 1968,
+      "director": "Steven Spielberg",
+      "genre": [
+        "Thriller",
+        "Horror"
+      ],
+      "mood": [
+        "Chaotic",
+        "Intense"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A cynical boxer struggles a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Horror movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.29,
+        "high_rating_count": 5,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 15,
+      "item_id": "M619",
+      "title": "Dirty Robot",
+      "year": 1966,
+      "director": "Quentin Tarantino",
+      "genre": [
+        "Mystery",
+        "Horror",
+        "Adventure"
+      ],
+      "mood": [
+        "Inspirational",
+        "Intense",
+        "Thrilling"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A bored princess fights against a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Horror movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.27,
+        "high_rating_count": 5,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 16,
+      "item_id": "M211",
+      "title": "TheVertigo Betrayal",
+      "year": 1990,
+      "director": "Wes Anderson",
+      "genre": [
+        "History",
+        "Horror"
+      ],
+      "mood": [
+        "Thrilling",
+        "Witty",
+        "Hopeful"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A insomniac thief learns from a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Horror movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.21,
+        "high_rating_count": 5,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 17,
+      "item_id": "M206",
+      "title": "TheGreat Dream",
+      "year": 1945,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "Action",
+        "Horror",
+        "Crime"
+      ],
+      "mood": [
+        "Intense",
+        "Thrilling"
+      ],
+      "era": "Classic",
+      "description_brief": "A bored scientist takes over the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Horror movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.18,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 18,
+      "item_id": "M791",
+      "title": "TheRising War",
+      "year": 2024,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "Horror",
+        "Mystery"
+      ],
+      "mood": [
+        "Intense",
+        "Stylish",
+        "Heartwarming"
+      ],
+      "era": "Modern",
+      "description_brief": "A young immigrant takes over a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Horror movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.13,
+        "high_rating_count": 5,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 19,
+      "item_id": "M825",
+      "title": "TheDark Knight Fire",
+      "year": 1978,
+      "director": "David Fincher",
+      "genre": [
+        "Biography",
+        "War",
+        "Sport",
+        "Horror"
+      ],
+      "mood": [
+        "Serious",
+        "Angry",
+        "Thrilling"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A troubled thief escapes a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Horror movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.11,
+        "high_rating_count": 5,
+        "total_ratings": 19
+      }
+    },
+    {
+      "rank": 20,
+      "item_id": "M290",
+      "title": "Dark Knight Woman",
+      "year": 2002,
+      "director": "Martin Scorsese",
+      "genre": [
+        "Animation",
+        "Horror",
+        "War"
+      ],
+      "mood": [
+        "Violent",
+        "Chaotic"
+      ],
+      "era": "2000s",
+      "description_brief": "A determined warrior plants dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Horror movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.1,
+        "high_rating_count": 5,
+        "total_ratings": 16
+      }
+    }
+  ]
+}

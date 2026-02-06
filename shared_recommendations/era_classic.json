@@ -1,0 +1,516 @@
+{
+  "meta": {
+    "tag": "Classic",
+    "type": "era",
+    "description": "Top movies from the Classic era",
+    "match_keywords": [
+      "classic",
+      "Classic"
+    ],
+    "generated_at": "2026-01-26T01:44:53.781619Z",
+    "candidate_movies": 362
+  },
+  "discovery_questions": [
+    {
+      "question": "Do you enjoy movies from the Classic era?",
+      "positive_signals": [
+        "classic",
+        "yes",
+        "love",
+        "Classic"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M965",
+      "title": "True Killer",
+      "year": 1943,
+      "director": "Peter Jackson",
+      "genre": [
+        "Sci-Fi",
+        "Drama",
+        "Biography"
+      ],
+      "mood": [
+        "Powerful",
+        "Violent"
+      ],
+      "era": "Classic",
+      "description_brief": "A cynical thief struggles a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Classic movie. Average rating: 3.6/5.0",
+      "stats": {
+        "avg_rating": 3.59,
+        "high_rating_count": 10,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M611",
+      "title": "ASilent Battle",
+      "year": 1927,
+      "director": "James Cameron",
+      "genre": [
+        "Sport",
+        "Drama",
+        "Thriller"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Hopeful",
+        "Serious"
+      ],
+      "era": "Classic",
+      "description_brief": "A former newsman learns from a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Classic movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.2,
+        "high_rating_count": 9,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 3,
+      "item_id": "M110",
+      "title": "TheInterstellar City",
+      "year": 1935,
+      "director": "Orson Welles",
+      "genre": [
+        "Western",
+        "Mystery",
+        "Comedy",
+        "Music"
+      ],
+      "mood": [
+        "Stylish",
+        "Charming"
+      ],
+      "era": "Classic",
+      "description_brief": "A former boxer plants a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Classic movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.24,
+        "high_rating_count": 8,
+        "total_ratings": 19
+      }
+    },
+    {
+      "rank": 4,
+      "item_id": "M837",
+      "title": "TheFurious Revenge",
+      "year": 1944,
+      "director": "Ari Aster",
+      "genre": [
+        "Mystery",
+        "Sport",
+        "Adventure",
+        "Crime"
+      ],
+      "mood": [
+        "Somber",
+        "Bittersweet"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac newsman escapes a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Classic movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.14,
+        "high_rating_count": 8,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 5,
+      "item_id": "M717",
+      "title": "TheSecret Blood",
+      "year": 1942,
+      "director": "Ari Aster",
+      "genre": [
+        "Thriller",
+        "Crime",
+        "War",
+        "Animation"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Thrilling",
+        "Serious"
+      ],
+      "era": "Classic",
+      "description_brief": "A brilliant thief plants guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Classic movie. Average rating: 3.6/5.0",
+      "stats": {
+        "avg_rating": 3.59,
+        "high_rating_count": 7,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 6,
+      "item_id": "M311",
+      "title": "TheInterstellar Detective",
+      "year": 1945,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "Horror",
+        "Biography"
+      ],
+      "mood": [
+        "Philosophical",
+        "Hopeful",
+        "Violent"
+      ],
+      "era": "Classic",
+      "description_brief": "A young immigrant fights against a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Classic movie. Average rating: 3.5/5.0",
+      "stats": {
+        "avg_rating": 3.49,
+        "high_rating_count": 7,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 7,
+      "item_id": "M398",
+      "title": "TheShawshank Soldier",
+      "year": 1937,
+      "director": "Peter Jackson",
+      "genre": [
+        "Comedy",
+        "Sci-Fi",
+        "Biography"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Philosophical"
+      ],
+      "era": "Classic",
+      "description_brief": "A bored explorer investigates a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Classic movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.16,
+        "high_rating_count": 7,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 8,
+      "item_id": "M728",
+      "title": "TheFight Club City",
+      "year": 1955,
+      "director": "David Fincher",
+      "genre": [
+        "Sci-Fi",
+        "Thriller",
+        "Animation"
+      ],
+      "mood": [
+        "Philosophical",
+        "Powerful"
+      ],
+      "era": "Classic",
+      "description_brief": "A determined detective investigates guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Classic movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.14,
+        "high_rating_count": 7,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 9,
+      "item_id": "M270",
+      "title": "TheGood Robot",
+      "year": 1950,
+      "director": "Peter Jackson",
+      "genre": [
+        "Western",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Stylish",
+        "Emotional",
+        "Chaotic"
+      ],
+      "era": "Classic",
+      "description_brief": "A former warrior struggles a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Classic movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.88,
+        "high_rating_count": 7,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 10,
+      "item_id": "M786",
+      "title": "TheSilent Vampire",
+      "year": 1939,
+      "director": "David Fincher",
+      "genre": [
+        "Mystery",
+        "Western",
+        "Horror"
+      ],
+      "mood": [
+        "Romantic",
+        "Philosophical"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac princess fights against mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Classic movie. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating": 2.79,
+        "high_rating_count": 7,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 11,
+      "item_id": "M730",
+      "title": "TheDark Revenge",
+      "year": 1936,
+      "director": "Steven Spielberg",
+      "genre": [
+        "Sci-Fi",
+        "Animation",
+        "Fantasy"
+      ],
+      "mood": [
+        "Intense",
+        "Romantic"
+      ],
+      "era": "Classic",
+      "description_brief": "A brilliant explorer plants the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Classic movie. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating": 2.79,
+        "high_rating_count": 7,
+        "total_ratings": 19
+      }
+    },
+    {
+      "rank": 12,
+      "item_id": "M718",
+      "title": "AGladiator Alien",
+      "year": 1931,
+      "director": "Christopher Nolan",
+      "genre": [
+        "Fantasy",
+        "Comedy",
+        "Biography",
+        "Sport"
+      ],
+      "mood": [
+        "Angry",
+        "Thrilling",
+        "Witty"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac warrior struggles guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Classic movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.38,
+        "high_rating_count": 6,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 13,
+      "item_id": "M488",
+      "title": "ATrue Vampire",
+      "year": 1957,
+      "director": "Paul Thomas Anderson",
+      "genre": [
+        "History",
+        "Comedy",
+        "Crime"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Thrilling",
+        "Romantic"
+      ],
+      "era": "Classic",
+      "description_brief": "A brilliant immigrant travels through a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Classic movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.33,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 14,
+      "item_id": "M548",
+      "title": "TheGreat Storm",
+      "year": 1929,
+      "director": "Alfred Hitchcock",
+      "genre": [
+        "Mystery",
+        "Biography",
+        "Crime",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Witty",
+        "Inspirational",
+        "Thrilling"
+      ],
+      "era": "Classic",
+      "description_brief": "A bored boxer investigates a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Classic movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.33,
+        "high_rating_count": 6,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 15,
+      "item_id": "M558",
+      "title": "Dark Night",
+      "year": 1944,
+      "director": "Robert Zemeckis",
+      "genre": [
+        "Animation",
+        "Horror",
+        "Mystery"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Exciting",
+        "Witty"
+      ],
+      "era": "Classic",
+      "description_brief": "A bored hacker struggles a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Classic movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.29,
+        "high_rating_count": 6,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 16,
+      "item_id": "M555",
+      "title": "TheFalling Wizard",
+      "year": 1957,
+      "director": "Jordan Peele",
+      "genre": [
+        "Comedy",
+        "Adventure",
+        "Crime",
+        "War"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Bittersweet"
+      ],
+      "era": "Classic",
+      "description_brief": "A troubled hacker escapes mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Classic movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.26,
+        "high_rating_count": 6,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 17,
+      "item_id": "M899",
+      "title": "TheShining Redemption",
+      "year": 1926,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "Thriller",
+        "War"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Powerful"
+      ],
+      "era": "Classic",
+      "description_brief": "A troubled scientist travels through a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Classic movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.2,
+        "high_rating_count": 6,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 18,
+      "item_id": "M065",
+      "title": "TheGladiator Samurai",
+      "year": 1920,
+      "director": "Christopher Nolan",
+      "genre": [
+        "Romance",
+        "Action"
+      ],
+      "mood": [
+        "Philosophical",
+        "Inspirational",
+        "Exciting"
+      ],
+      "era": "Classic",
+      "description_brief": "A aging scientist struggles mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Classic movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.19,
+        "high_rating_count": 6,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 19,
+      "item_id": "M182",
+      "title": "TheDark Revenge",
+      "year": 1946,
+      "director": "Peter Jackson",
+      "genre": [
+        "Romance",
+        "Biography"
+      ],
+      "mood": [
+        "Emotional",
+        "Charming"
+      ],
+      "era": "Classic",
+      "description_brief": "A cynical princess takes over dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Classic movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.14,
+        "high_rating_count": 6,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 20,
+      "item_id": "M027",
+      "title": "AFalling King",
+      "year": 1932,
+      "director": "Martin Scorsese",
+      "genre": [
+        "Thriller",
+        "History"
+      ],
+      "mood": [
+        "Emotional",
+        "Mind-bending",
+        "Romantic"
+      ],
+      "era": "Classic",
+      "description_brief": "A retired newsman learns from the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Classic movie. Average rating: 3.0/5.0",
+      "stats": {
+        "avg_rating": 3.01,
+        "high_rating_count": 6,
+        "total_ratings": 17
+      }
+    }
+  ]
+}

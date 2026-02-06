@@ -1,0 +1,527 @@
+{
+  "meta": {
+    "tag": "Comedy",
+    "type": "genre",
+    "description": "Top Comedy movies",
+    "match_keywords": [
+      "comedy",
+      "Comedy"
+    ],
+    "generated_at": "2026-01-26T01:44:53.778884Z",
+    "candidate_movies": 186
+  },
+  "discovery_questions": [
+    {
+      "question": "Do you enjoy Comedy movies?",
+      "positive_signals": [
+        "comedy",
+        "yes",
+        "love",
+        "Comedy"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M582",
+      "title": "Silent Killer",
+      "year": 1991,
+      "director": "Paul Thomas Anderson",
+      "genre": [
+        "Sport",
+        "Mystery",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Chaotic",
+        "Angry"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A bored scientist learns from a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Comedy movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.3,
+        "high_rating_count": 9,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M500",
+      "title": "Interstellar Battle",
+      "year": 2002,
+      "director": "Alfred Hitchcock",
+      "genre": [
+        "War",
+        "Thriller",
+        "History",
+        "Comedy"
+      ],
+      "mood": [
+        "Violent",
+        "Powerful"
+      ],
+      "era": "2000s",
+      "description_brief": "A insomniac immigrant fights against mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Comedy movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.4,
+        "high_rating_count": 8,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 3,
+      "item_id": "M110",
+      "title": "TheInterstellar City",
+      "year": 1935,
+      "director": "Orson Welles",
+      "genre": [
+        "Western",
+        "Mystery",
+        "Comedy",
+        "Music"
+      ],
+      "mood": [
+        "Stylish",
+        "Charming"
+      ],
+      "era": "Classic",
+      "description_brief": "A former boxer plants a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Comedy movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.24,
+        "high_rating_count": 8,
+        "total_ratings": 19
+      }
+    },
+    {
+      "rank": 4,
+      "item_id": "M869",
+      "title": "AInception Soldier",
+      "year": 2012,
+      "director": "Steven Spielberg",
+      "genre": [
+        "Comedy",
+        "Action",
+        "Drama",
+        "Crime"
+      ],
+      "mood": [
+        "Inspirational",
+        "Chaotic",
+        "Intense"
+      ],
+      "era": "Modern",
+      "description_brief": "A cynical princess investigates guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Comedy movie. Average rating: 3.7/5.0",
+      "stats": {
+        "avg_rating": 3.66,
+        "high_rating_count": 7,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 5,
+      "item_id": "M084",
+      "title": "TheShawshank Vampire",
+      "year": 1992,
+      "director": "Michael Curtiz",
+      "genre": [
+        "Western",
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "mood": [
+        "Powerful",
+        "Somber"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A retired immigrant escapes guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Comedy movie. Average rating: 3.6/5.0",
+      "stats": {
+        "avg_rating": 3.61,
+        "high_rating_count": 7,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 6,
+      "item_id": "M244",
+      "title": "ThePulp Honor",
+      "year": 2015,
+      "director": "Stanley Kubrick",
+      "genre": [
+        "History",
+        "Comedy",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "mood": [
+        "Chaotic",
+        "Inspirational",
+        "Violent"
+      ],
+      "era": "Modern",
+      "description_brief": "A insomniac boxer learns from a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Comedy movie. Average rating: 3.5/5.0",
+      "stats": {
+        "avg_rating": 3.52,
+        "high_rating_count": 7,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 7,
+      "item_id": "M701",
+      "title": "TheVertigo Zombie",
+      "year": 1963,
+      "director": "David Fincher",
+      "genre": [
+        "Western",
+        "Comedy",
+        "War"
+      ],
+      "mood": [
+        "Hopeful",
+        "Bittersweet",
+        "Chaotic"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A former immigrant struggles mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Comedy movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.35,
+        "high_rating_count": 7,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 8,
+      "item_id": "M398",
+      "title": "TheShawshank Soldier",
+      "year": 1937,
+      "director": "Peter Jackson",
+      "genre": [
+        "Comedy",
+        "Sci-Fi",
+        "Biography"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Philosophical"
+      ],
+      "era": "Classic",
+      "description_brief": "A bored explorer investigates a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Comedy movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.16,
+        "high_rating_count": 7,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 9,
+      "item_id": "M399",
+      "title": "Pulp Soldier",
+      "year": 1965,
+      "director": "Tim Burton",
+      "genre": [
+        "Comedy",
+        "Fantasy",
+        "War"
+      ],
+      "mood": [
+        "Powerful",
+        "Hopeful",
+        "Psychological"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A cynical princess investigates a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Comedy movie. Average rating: 3.6/5.0",
+      "stats": {
+        "avg_rating": 3.6,
+        "high_rating_count": 6,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 10,
+      "item_id": "M343",
+      "title": "ARising Detective",
+      "year": 1993,
+      "director": "Taika Waititi",
+      "genre": [
+        "War",
+        "Biography",
+        "Comedy",
+        "Music"
+      ],
+      "mood": [
+        "Emotional",
+        "Heartwarming"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A determined scientist plants dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Comedy movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.45,
+        "high_rating_count": 6,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 11,
+      "item_id": "M411",
+      "title": "TheFinal Pirate",
+      "year": 1998,
+      "director": "Bong Joon-ho",
+      "genre": [
+        "Comedy",
+        "Sport"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Powerful",
+        "Bittersweet"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A brilliant newsman investigates dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Comedy movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.44,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 12,
+      "item_id": "M718",
+      "title": "AGladiator Alien",
+      "year": 1931,
+      "director": "Christopher Nolan",
+      "genre": [
+        "Fantasy",
+        "Comedy",
+        "Biography",
+        "Sport"
+      ],
+      "mood": [
+        "Angry",
+        "Thrilling",
+        "Witty"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac warrior struggles guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Comedy movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.38,
+        "high_rating_count": 6,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 13,
+      "item_id": "M732",
+      "title": "TheSilent Night",
+      "year": 1967,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "Comedy",
+        "Thriller",
+        "Drama"
+      ],
+      "mood": [
+        "Emotional",
+        "Chaotic",
+        "Suspenseful"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A determined boxer takes over mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Comedy movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.35,
+        "high_rating_count": 6,
+        "total_ratings": 11
+      }
+    },
+    {
+      "rank": 14,
+      "item_id": "M488",
+      "title": "ATrue Vampire",
+      "year": 1957,
+      "director": "Paul Thomas Anderson",
+      "genre": [
+        "History",
+        "Comedy",
+        "Crime"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Thrilling",
+        "Romantic"
+      ],
+      "era": "Classic",
+      "description_brief": "A brilliant immigrant travels through a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Comedy movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.33,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 15,
+      "item_id": "M555",
+      "title": "TheFalling Wizard",
+      "year": 1957,
+      "director": "Jordan Peele",
+      "genre": [
+        "Comedy",
+        "Adventure",
+        "Crime",
+        "War"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Bittersweet"
+      ],
+      "era": "Classic",
+      "description_brief": "A troubled hacker escapes mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Comedy movie. Average rating: 3.3/5.0",
+      "stats": {
+        "avg_rating": 3.26,
+        "high_rating_count": 6,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 16,
+      "item_id": "M404",
+      "title": "TheSilent Night",
+      "year": 1997,
+      "director": "Jordan Peele",
+      "genre": [
+        "Adventure",
+        "War",
+        "Comedy"
+      ],
+      "mood": [
+        "Hopeful",
+        "Inspirational"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A troubled warrior takes over mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Comedy movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.22,
+        "high_rating_count": 6,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 17,
+      "item_id": "M851",
+      "title": "AShining Ghost",
+      "year": 1931,
+      "director": "Greta Gerwig",
+      "genre": [
+        "Comedy",
+        "Drama",
+        "Mystery",
+        "Romance"
+      ],
+      "mood": [
+        "Witty",
+        "Angry"
+      ],
+      "era": "Classic",
+      "description_brief": "A cynical boxer fights against guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Comedy movie. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating": 2.77,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 18,
+      "item_id": "M203",
+      "title": "True Monster",
+      "year": 2012,
+      "director": "Taika Waititi",
+      "genre": [
+        "Comedy",
+        "History",
+        "Romance"
+      ],
+      "mood": [
+        "Thrilling",
+        "Angry",
+        "Philosophical"
+      ],
+      "era": "Modern",
+      "description_brief": "A determined immigrant learns from a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Comedy movie. Average rating: 2.6/5.0",
+      "stats": {
+        "avg_rating": 2.63,
+        "high_rating_count": 6,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 19,
+      "item_id": "M586",
+      "title": "TheSilent Samurai",
+      "year": 2010,
+      "director": "Billy Wilder",
+      "genre": [
+        "War",
+        "Comedy",
+        "Crime",
+        "Romance"
+      ],
+      "mood": [
+        "Somber",
+        "Bittersweet",
+        "Suspenseful"
+      ],
+      "era": "Modern",
+      "description_brief": "A retired thief escapes a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Comedy movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.36,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 20,
+      "item_id": "M479",
+      "title": "TheSilent Empire",
+      "year": 1945,
+      "director": "Francis Ford Coppola",
+      "genre": [
+        "History",
+        "Action",
+        "Comedy"
+      ],
+      "mood": [
+        "Intense",
+        "Powerful",
+        "Heartwarming"
+      ],
+      "era": "Classic",
+      "description_brief": "A young detective investigates a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Comedy movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.19,
+        "high_rating_count": 5,
+        "total_ratings": 14
+      }
+    }
+  ]
+}

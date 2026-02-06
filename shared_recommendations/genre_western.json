@@ -1,0 +1,517 @@
+{
+  "meta": {
+    "tag": "Western",
+    "type": "genre",
+    "description": "Top Western movies",
+    "match_keywords": [
+      "western",
+      "Western"
+    ],
+    "generated_at": "2026-01-26T01:44:53.780637Z",
+    "candidate_movies": 137
+  },
+  "discovery_questions": [
+    {
+      "question": "Do you enjoy Western movies?",
+      "positive_signals": [
+        "western",
+        "yes",
+        "love",
+        "Western"
+      ]
+    }
+  ],
+  "recommendations": [
+    {
+      "rank": 1,
+      "item_id": "M801",
+      "title": "AShawshank Betrayal",
+      "year": 1977,
+      "director": "Frank Darabont",
+      "genre": [
+        "Western",
+        "Crime"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Mind-bending",
+        "Exciting"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A retired hacker travels through the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Western movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.9,
+        "high_rating_count": 9,
+        "total_ratings": 22
+      }
+    },
+    {
+      "rank": 2,
+      "item_id": "M110",
+      "title": "TheInterstellar City",
+      "year": 1935,
+      "director": "Orson Welles",
+      "genre": [
+        "Western",
+        "Mystery",
+        "Comedy",
+        "Music"
+      ],
+      "mood": [
+        "Stylish",
+        "Charming"
+      ],
+      "era": "Classic",
+      "description_brief": "A former boxer plants a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Western movie. Average rating: 3.2/5.0",
+      "stats": {
+        "avg_rating": 3.24,
+        "high_rating_count": 8,
+        "total_ratings": 19
+      }
+    },
+    {
+      "rank": 3,
+      "item_id": "M084",
+      "title": "TheShawshank Vampire",
+      "year": 1992,
+      "director": "Michael Curtiz",
+      "genre": [
+        "Western",
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "mood": [
+        "Powerful",
+        "Somber"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A retired immigrant escapes guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Western movie. Average rating: 3.6/5.0",
+      "stats": {
+        "avg_rating": 3.61,
+        "high_rating_count": 7,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 4,
+      "item_id": "M701",
+      "title": "TheVertigo Zombie",
+      "year": 1963,
+      "director": "David Fincher",
+      "genre": [
+        "Western",
+        "Comedy",
+        "War"
+      ],
+      "mood": [
+        "Hopeful",
+        "Bittersweet",
+        "Chaotic"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A former immigrant struggles mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Western movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.35,
+        "high_rating_count": 7,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 5,
+      "item_id": "M270",
+      "title": "TheGood Robot",
+      "year": 1950,
+      "director": "Peter Jackson",
+      "genre": [
+        "Western",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Stylish",
+        "Emotional",
+        "Chaotic"
+      ],
+      "era": "Classic",
+      "description_brief": "A former warrior struggles a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Western movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.88,
+        "high_rating_count": 7,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 6,
+      "item_id": "M786",
+      "title": "TheSilent Vampire",
+      "year": 1939,
+      "director": "David Fincher",
+      "genre": [
+        "Mystery",
+        "Western",
+        "Horror"
+      ],
+      "mood": [
+        "Romantic",
+        "Philosophical"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac princess fights against mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Western movie. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating": 2.79,
+        "high_rating_count": 7,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 7,
+      "item_id": "M022",
+      "title": "ASilent Shadow",
+      "year": 1962,
+      "director": "Robert Zemeckis",
+      "genre": [
+        "Western",
+        "Drama",
+        "Biography",
+        "Adventure"
+      ],
+      "mood": [
+        "Hopeful",
+        "Philosophical",
+        "Psychological"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A aging immigrant plants a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Western movie. Average rating: 3.0/5.0",
+      "stats": {
+        "avg_rating": 3.01,
+        "high_rating_count": 6,
+        "total_ratings": 15
+      }
+    },
+    {
+      "rank": 8,
+      "item_id": "M727",
+      "title": "ABrave Samurai",
+      "year": 1973,
+      "director": "Alfred Hitchcock",
+      "genre": [
+        "Western",
+        "Crime"
+      ],
+      "mood": [
+        "Bittersweet",
+        "Suspenseful",
+        "Powerful"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A brilliant princess struggles the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Western movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.92,
+        "high_rating_count": 6,
+        "total_ratings": 18
+      }
+    },
+    {
+      "rank": 9,
+      "item_id": "M662",
+      "title": "Silent Cop",
+      "year": 1957,
+      "director": "Michael Curtiz",
+      "genre": [
+        "Western",
+        "Mystery",
+        "Action",
+        "Crime"
+      ],
+      "mood": [
+        "Powerful",
+        "Chaotic"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac princess fights against the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Western movie. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating": 2.8,
+        "high_rating_count": 6,
+        "total_ratings": 22
+      }
+    },
+    {
+      "rank": 10,
+      "item_id": "M603",
+      "title": "Rising Fire",
+      "year": 1928,
+      "director": "James Cameron",
+      "genre": [
+        "Mystery",
+        "Western"
+      ],
+      "mood": [
+        "Intense",
+        "Exciting",
+        "Stylish"
+      ],
+      "era": "Classic",
+      "description_brief": "A young princess investigates the ring and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Western movie. Average rating: 2.7/5.0",
+      "stats": {
+        "avg_rating": 2.72,
+        "high_rating_count": 6,
+        "total_ratings": 22
+      }
+    },
+    {
+      "rank": 11,
+      "item_id": "M554",
+      "title": "TheFurious King",
+      "year": 1932,
+      "director": "James Cameron",
+      "genre": [
+        "War",
+        "Western"
+      ],
+      "mood": [
+        "Suspenseful",
+        "Emotional"
+      ],
+      "era": "Classic",
+      "description_brief": "A former princess fights against guardians and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Western movie. Average rating: 3.1/5.0",
+      "stats": {
+        "avg_rating": 3.14,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 12,
+      "item_id": "M643",
+      "title": "AGladiator Revenge",
+      "year": 1972,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "Western",
+        "Horror"
+      ],
+      "mood": [
+        "Inspirational",
+        "Powerful",
+        "Psychological"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A young thief plants a woman's suicide attempts and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Western movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.92,
+        "high_rating_count": 5,
+        "total_ratings": 13
+      }
+    },
+    {
+      "rank": 13,
+      "item_id": "M169",
+      "title": "AGreat Battle",
+      "year": 1949,
+      "director": "James Cameron",
+      "genre": [
+        "Western",
+        "Comedy",
+        "Mystery",
+        "Horror"
+      ],
+      "mood": [
+        "Heartwarming",
+        "Serious",
+        "Romantic"
+      ],
+      "era": "Classic",
+      "description_brief": "A determined thief plants a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Western movie. Average rating: 2.9/5.0",
+      "stats": {
+        "avg_rating": 2.87,
+        "high_rating_count": 5,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 14,
+      "item_id": "M094",
+      "title": "Falling Killer",
+      "year": 1941,
+      "director": "Orson Welles",
+      "genre": [
+        "Western",
+        "Biography",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "mood": [
+        "Romantic",
+        "Philosophical",
+        "Witty"
+      ],
+      "era": "Classic",
+      "description_brief": "A former thief plants dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Western movie. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating": 2.82,
+        "high_rating_count": 5,
+        "total_ratings": 14
+      }
+    },
+    {
+      "rank": 15,
+      "item_id": "M947",
+      "title": "AFalling Pirate",
+      "year": 1937,
+      "director": "Lilly Wachowski",
+      "genre": [
+        "Thriller",
+        "Comedy",
+        "Action",
+        "Western"
+      ],
+      "mood": [
+        "Thrilling",
+        "Serious"
+      ],
+      "era": "Classic",
+      "description_brief": "A troubled detective escapes a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Western movie. Average rating: 2.8/5.0",
+      "stats": {
+        "avg_rating": 2.76,
+        "high_rating_count": 5,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 16,
+      "item_id": "M585",
+      "title": "AFight Club Battle",
+      "year": 1980,
+      "director": "Taika Waititi",
+      "genre": [
+        "Western",
+        "Sci-Fi",
+        "Drama"
+      ],
+      "mood": [
+        "Exciting",
+        "Stylish"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A insomniac hacker escapes a wormhole and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Western movie. Average rating: 2.7/5.0",
+      "stats": {
+        "avg_rating": 2.72,
+        "high_rating_count": 5,
+        "total_ratings": 20
+      }
+    },
+    {
+      "rank": 17,
+      "item_id": "M477",
+      "title": "TheTrue Monster",
+      "year": 1993,
+      "director": "Alfred Hitchcock",
+      "genre": [
+        "Western",
+        "Horror"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Thrilling",
+        "Romantic"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A retired explorer plants mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Western movie. Average rating: 2.5/5.0",
+      "stats": {
+        "avg_rating": 2.46,
+        "high_rating_count": 5,
+        "total_ratings": 16
+      }
+    },
+    {
+      "rank": 18,
+      "item_id": "M952",
+      "title": "Rising Woman",
+      "year": 1948,
+      "director": "Billy Wilder",
+      "genre": [
+        "Biography",
+        "Western",
+        "Fantasy"
+      ],
+      "mood": [
+        "Hopeful",
+        "Chaotic",
+        "Heartwarming"
+      ],
+      "era": "Classic",
+      "description_brief": "A insomniac explorer escapes mysterious rebels and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Western movie. Average rating: 3.7/5.0",
+      "stats": {
+        "avg_rating": 3.69,
+        "high_rating_count": 4,
+        "total_ratings": 7
+      }
+    },
+    {
+      "rank": 19,
+      "item_id": "M349",
+      "title": "Lost Storm",
+      "year": 1981,
+      "director": "Paul Thomas Anderson",
+      "genre": [
+        "War",
+        "Thriller",
+        "Western",
+        "Comedy"
+      ],
+      "mood": [
+        "Mind-bending",
+        "Violent"
+      ],
+      "era": "80s-90s",
+      "description_brief": "A bored hacker investigates a drug cartel and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Western movie. Average rating: 3.5/5.0",
+      "stats": {
+        "avg_rating": 3.49,
+        "high_rating_count": 4,
+        "total_ratings": 12
+      }
+    },
+    {
+      "rank": 20,
+      "item_id": "M466",
+      "title": "APulp City",
+      "year": 1976,
+      "director": "Denis Villeneuve",
+      "genre": [
+        "Music",
+        "Western"
+      ],
+      "mood": [
+        "Chaotic",
+        "Emotional"
+      ],
+      "era": "60s-70s",
+      "description_brief": "A young explorer plants dream-sharing technology and becomes obsessed with the truth.",
+      "why_recommended": "Top-rated Western movie. Average rating: 3.4/5.0",
+      "stats": {
+        "avg_rating": 3.38,
+        "high_rating_count": 4,
+        "total_ratings": 11
+      }
+    }
+  ]
+}
