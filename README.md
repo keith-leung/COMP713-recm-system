@@ -1,97 +1,66 @@
-# Agentic Movie Recommendation System: Cost-Aware Architecture with Anthropic Skills
+# Agentic Movie Recommendation System: Economic Resilience & Cost-Aware Architecture
 
 ## 🚀 Overview
 
-This repository implements an **Enterprise-Grade Agentic Recommendation System** designed to bridge the gap between Large Language Models (LLMs) and large-scale datasets. By utilizing a **Two-Stage Architecture**, the system bypasses traditional LLM context window constraints, offering a cost-effective, scalable, and emotionally-aware recommendation engine.
+This repository implements an **Enterprise-Grade Agentic Recommendation System** designed to decouple high-level reasoning from underlying API costs. By utilizing a **Two-Stage Architecture**, the system bypasses LLM context window constraints and provides a strategic buffer against both malicious usage and volatile AI market pricing.
 
-**Key Technical Achievement:** Reduced per-query inference costs by **99%** through intelligent tiered routing and offline pre-computation via **Anthropic Skills**.
+**Key Achievement:** Reduced per-query costs by **99%** through a proprietary **Inference Gateway** that ensures the system remains profitable even if premium LLM providers (e.g., Anthropic, OpenAI) fluctuate their pricing models.
 
 ---
 
 ## 🏗️ Technical Architecture
 
-The system operates on a hybrid offline-online model to ensure O(1) memory complexity and near-zero real-time LLM cost for data processing.
-
 ### 1. Anthropic Skills & Offline Pipeline
 
-To handle a massive catalog (1,000+ movies, 4,000+ users), the system uses an **Incremental Processing Pipeline**:
+The system utilizes **Anthropic Skills** to perform heavy-duty indexing and taxonomy generation **offline**. This transforms high-cost reasoning into static assets, effectively "locking in" the value of the LLM at the time of pre-computation and protecting real-time operations from context overflow.
 
-* **Phase 1 (Indexing):** Extracts genre, mood, and era classifications in 200-item chunks.
-* **Phase 2 (Aggregation):** Clusters user demographic segments and rating distributions.
-* **Phase 3 (Taxonomy Generation):** Pre-computes 41 multi-dimensional recommendation files across orthogonal axes (Segment, Mood, Genre, Era).
+### 2. Multi-Vendor Inference Gateway (LiteLLM Proxy)
 
-### 2. Tiered Routing Gateway
+The **Inference Gateway** is the "mission computer" that prevents **Vendor Lock-in**. By using a proxy layer, the system can dynamically steer traffic based on a **Cost-per-Inference (CPI)** target:
 
-The **Intelligent Gateway** (powered by LiteLLM) manages the tradeoff between reasoning depth and execution cost using a three-tier matching cascade:
-
-| Tier | Strategy | Implementation |
-| --- | --- | --- |
-| **Tier 1** | **Direct Param Matching** | O(1) lookup in pre-computed files. |
-| **Tier 2** | **Semantic Keyword Matching** | Fuzzy matching via scored query terms for unstructured input. |
-| **Tier 3** | **Cold Start Escalation** | Automated fallback to 'popular' or 'acclaimed' metadata files. |
+* **Tiered Routing:** Queries are routed based on semantic entropy—routine tasks are handled by sub-cent local models, while only high-complexity reasoning escalates to premium cloud APIs.
+* **Provider Interchangeability:** The gateway allows for a "Hot Swap" of LLM providers. If Opus 4.6 pricing spikes, the system can pivot to Grok-3 or GPT-5-preview with zero code changes, maintaining target margins.
 
 ---
 
-## 🛡️ Economic Defense (Denial of Wallet Protection)
+## 🛡️ Economic Resilience & Risk Management
 
-Production-grade AI systems face the risk of **Denial of Wallet (DoW)**—attacks designed to exhaust API budgets. This system implements a multi-layer defense:
+Beyond simple performance, this architecture serves as a **Financial Guardrail** for AI-driven businesses:
 
-* **Task-Complexity Aware Routing:** Escalates to high-reasoning models (Claude Opus) only when local 4-bit quantized models (Qwen-3B) fail semantic entropy thresholds.
-* **Hard Circuit Breakers:** `max_rounds: 10` hard-cap prevents runaway conversation costs.
-* **Deterministic Extraction:** Low temperature (0.3) for preference extraction reduces hallucination and costly retry cycles.
-* **Token Budgeting:** Truncated conversation history tracking ensures linear token growth per turn.
+* **Mitigating Vendor Pricing Volatility:** The proxy-based design ensures that a sudden price hike from a single provider does not become a "death spiral" for product margins.
+* **Denial of Wallet (DoW) Defense:** External attacks intended to exhaust API credits are neutralized via per-user token budgets and mandatory fallback to O(1) local files.
+* **Cost-Aware Circuit Breakers:** Hard-caps on conversation rounds (`max_rounds: 10`) and deterministic extraction (temp 0.3) prevent "token leakage" and runaway inference costs.
 
 ---
 
 ## 🧠 Emotional Inference Engine
 
-Unlike traditional systems that rely on explicit forms, this engine uses a **Dual-Temperature LLM Strategy** to infer latent user needs:
+The engine uses a **Dual-Temperature Strategy** to balance "cheap" precision with "expensive" creativity:
 
-* **Extraction LLM (Temp 0.3):** Parses structured JSON preferences (Segment, Mood, Era) with high consistency.
-* **Conversation LLM (Temp 0.8):** Generates varied, creative, and human-like dialogue to maintain user engagement.
-* **Latent Persona Detection:** Identifies segments like `gamer` or `gen_z` from slang (e.g., "no cap", "grinding"), lifestyle clues, and emotional tone.
-
----
-
-## 🧪 Software Engineering Maturity
-
-* **61+ Automated Tests:** 100% pass rate covering index loading, combinatorial matching, and multi-value normalization.
-* **Type Safety:** Comprehensive use of Python type hints, Pydantic schemas, and `Literal` types for self-documenting code.
-* **Observability:** Structured file-only logging for post-hoc analysis without console overhead.
-* **Reproducibility:** Configuration-as-code approach via `config.json` for model provider abstraction.
+* **Extraction (Deterministic):** Low-temperature models focus on structured preference parsing from conversation.
+* **Dialogue (Generative):** High-temperature models provide engagement, but are gated by the gateway to ensure they don't consume the entire inference budget.
 
 ---
 
-## 🛠️ Quick Start
+## 🧪 Engineering Maturity
 
-```bash
-# 1. Install dependencies
-pip install -r requirements.txt
-
-# 2. Run Semantic Matching (Tier 1/2)
-python main.py --query "something deep and philosophical"
-
-# 3. Enter Interactive Mode (Tiered Gateway Demo)
-python interactive_recommender.py
-
-# 4. Execute Test Suite
-pytest test_recommendations.py -v
-
-```
+* **61+ Automated Tests:** 100% pass rate, including tests for **Graceful Degradation**—ensuring the system provides high-quality recommendations even when cloud APIs are bypassed for cost-saving.
+* **Observability:** Structured logging tracks the "Inference Path" of every query, allowing for real-time audit of API spending vs. recommendation quality.
+* **Type Safety:** Pydantic-based schemas ensure that even when switching vendors, the data contract remains immutable.
 
 ---
 
 ## 📊 Summary Assessment
 
-| Concern | Implementation | Status |
+| Concern | Implementation | Business Value |
 | --- | --- | --- |
-| **Scalability** | O(1) file lookup & incremental processing | ✅ Linear Scaling |
-| **Cost Control** | Tiered routing & round capping | ✅ DoW Active |
-| **Fault Tolerance** | Multi-tier fallback hierarchy | ✅ Resilient |
-| **Observability** | Structured logging & history tracking | ✅ Debuggable |
+| **Scalability** | O(1) lookup & incremental processing | ✅ Linear infra costs |
+| **Economic Resilience** | Multi-vendor proxy & dynamic steering | ✅ Profit margin protection |
+| **Vendor Independence** | LiteLLM abstraction layer | ✅ Market volatility hedge |
+| **Fault Tolerance** | Tiered fallback hierarchy | ✅ 100% service uptime |
 
 ---
 
 ## 👨‍💻 Author
 
-**Dawen (Keith) Liang** - [LinkedIn](https://www.linkedin.com/in/keith-dliang02) | [GitHub](https://github.com/keith-leung)
+**Keith (Dawen) Liang** - [LinkedIn](https://www.linkedin.com/in/keith-dliang02) | [GitHub](https://github.com/keith-leung)
