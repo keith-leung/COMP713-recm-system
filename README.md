@@ -14,6 +14,11 @@ A two-stage movie recommendation system combining offline pre-computation with o
 | **Economic Resilience** | Multi-vendor proxy & dynamic steering | ✅ Profit margin protection |
 | **Vendor Independence** | LiteLLM abstraction layer | ✅ Market volatility hedge |
 | **Fault Tolerance** | Tiered fallback hierarchy | ✅ 100% service uptime |
+# Agentic Movie Recommendation System: Economic Resilience & Cost-Aware Architecture
+
+## 🚀 Overview
+
+This repository implements an **Enterprise-Grade Agentic Recommendation System** designed to decouple high-level reasoning from underlying API costs. By utilizing a **Two-Stage Architecture**, the system bypasses LLM context window constraints and provides a strategic buffer against both malicious usage and volatile AI market pricing.
 
 **Key Achievement:** Reduced per-query costs by **99%** through a proprietary **Inference Gateway** that ensures the system remains profitable even if premium LLM providers (e.g., Anthropic, OpenAI) fluctuate their pricing models.
 
