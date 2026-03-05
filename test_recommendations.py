@@ -559,35 +559,57 @@ class TestRealScenarios:
 # =============================================================================
 
 class TestLLMParser:
-    """Tests for the LLM preference parser."""
+    """Tests for the LLM-based freeform recommendation system."""
 
-    def test_parse_simple_preference(self):
-        """Test parsing a simple preference."""
+    def test_conversational_response_generation(self):
+        """Test generating conversational responses."""
         from interactive_recommender import LLMParser, Config
 
         config = Config('config.json')
 
         # Mock the chain to avoid actual API call
-        with patch.object(LLMParser, '_create_extraction_chain') as mock_chain:
-            mock_result = {
-                'segment': 'gamer',
-                'mood': 'exciting',
-                'genre': 'Action',
-                'era': None,
-                'confidence': 'high',
-                'reasoning': 'User mentioned action and exciting'
-            }
+        with patch.object(LLMParser, '_create_conversation_chain') as mock_chain:
+            mock_response = "That's awesome! Tell me more about your hobbies."
+            mock_result = MagicMock()
+            mock_result.content = mock_response
             mock_chain.return_value.invoke.return_value = mock_result
 
             parser = LLMParser(config)
             # Re-mock after init
-            parser.extraction_chain = mock_chain.return_value
+            parser.conversation_chain = mock_chain.return_value
 
-            result = parser.parse_preferences("I like exciting action movies", 1)
+            result = parser.generate_conversational_response(
+                conversation_history="User: I like gaming",
+                last_input="I like gaming",
+                round_num=1,
+                discussed_topics=[]
+            )
 
-            assert result['genre'] == 'Action'
-            assert result['mood'] == 'exciting'
-            assert result['confidence'] == 'high'
+            assert result == mock_response
+
+    def test_freeform_recommendation_generation(self):
+        """Test generating freeform movie recommendations."""
+        from interactive_recommender import LLMParser, Config
+
+        config = Config('config.json')
+
+        # Mock the recommendation chain
+        with patch.object(LLMParser, '_create_recommendation_chain') as mock_chain:
+            mock_rec = ("Based on our conversation, I think you'd enjoy:\n\n"
+                       "1. The Matrix (1999) - Perfect for someone who loves gaming and exciting action!\n"
+                       "2. Inception (2010) - Mind-bending thriller that'll keep you engaged.\n"
+                       "3. Edge of Tomorrow (2014) - Action-packed with a gaming-like time loop mechanic.")
+            mock_result = MagicMock()
+            mock_result.content = mock_rec
+            mock_chain.return_value.invoke.return_value = mock_result
+
+            parser = LLMParser(config)
+            # Re-mock after init
+            parser.recommendation_chain = mock_chain.return_value
+
+            result = parser.generate_recommendations("User: I like gaming\nAssistant: Tell me more!")
+
+            assert result == mock_rec
 
 
 # =============================================================================
